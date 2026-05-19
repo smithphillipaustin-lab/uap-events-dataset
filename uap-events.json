@@ -1,0 +1,4765 @@
+{
+  "name": "Disclosure Archives",
+  "description": "A documented record of unidentified aerial phenomena: government hearings, declassified documents, named witness testimony, and major sightings.",
+  "canonical": "https://disclosurearchives.com/",
+  "license": "Editorial copy CC-BY 4.0 — attribution to Disclosure Archives required. Primary-source links retain their original publisher's terms.",
+  "generatedAt": "2026-05-19T01:26:59.617Z",
+  "eventCount": 119,
+  "events": [
+    {
+      "slug": "pursue-dow-uap-d54-mission-report-mediterranean-sea-na",
+      "title": "Mission Report: Mediterranean Sea, NA (DOW-UAP-D54)",
+      "summary": "A U.S. military operator reported observing one UAP. The report describes the UAP as a “triangular and metallic UAP.” The reporter estimated the UAP’s altitude as 24,989 feet and speed as 168 knots (193mph). All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrinsic object features or performance",
+      "eventType": "report",
+      "eventDate": "2026-05-08",
+      "dateDisplay": "May 8, 2026",
+      "location": {
+        "name": "Mediterranean Sea",
+        "region": null,
+        "country": "International waters",
+        "lat": 35,
+        "lng": 18
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d54-mission-report-mediterranean-sea-na.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Triangular UAP",
+          "slug": "triangular-uap"
+        },
+        {
+          "name": "Europe",
+          "slug": "europe"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d54-mission-report-mediterranean-sea-na",
+      "updatedAt": "2026-05-12 11:47:48"
+    },
+    {
+      "slug": "fbi-flying-disc-master-file-1947-1968",
+      "title": "FBI 62-HQ-83894: the master 'flying disc' file, 1947–1968",
+      "summary": "Eighteen sections and serials of the FBI Headquarters master investigative case file on 'flying discs,' covering the Roswell era through the late 1960s. Includes Oak Ridge nuclear-facility overflight reports. The largest single PDF in PURSUE is 101 megabytes.",
+      "eventType": "document_release",
+      "eventDate": "2026-05-08",
+      "dateDisplay": "Records: 1947–1968 · Released: May 8, 2026",
+      "location": {
+        "name": "Roswell",
+        "region": "New Mexico",
+        "country": "United States",
+        "lat": 33.3943,
+        "lng": -104.523
+      },
+      "sourceName": "FBI / U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "Cold War",
+          "slug": "cold-war"
+        },
+        {
+          "name": "FOIA",
+          "slug": "foia"
+        },
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "FBI",
+          "slug": "fbi"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Americas",
+          "slug": "americas"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Maj. Jesse Marcel",
+          "slug": "jesse-marcel"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/fbi-flying-disc-master-file-1947-1968",
+      "updatedAt": "2026-05-11 10:53:34"
+    },
+    {
+      "slug": "pursue-release-01-may-2026",
+      "title": "PURSUE Release 01: Department of War declassifies 160 UAP files",
+      "summary": "The Trump administration launches PURSUE — the Presidential Unsealing and Reporting System for UAP Encounters — and the Department of War publishes 160 declassified UAP-related files in the first tranche: 117 PDFs, 29 sensor videos, and 14 photographs spanning 1944 to 2026. Secretary of War Pete Hegseth says the goal is 'maximum transparency.'",
+      "eventType": "document_release",
+      "eventDate": "2026-05-08",
+      "dateDisplay": "May 8, 2026",
+      "location": {
+        "name": "The Pentagon",
+        "region": "Virginia",
+        "country": "United States",
+        "lat": 38.8719,
+        "lng": -77.0563
+      },
+      "sourceName": "U.S. Department of War — PURSUE",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "FBI",
+          "slug": "fbi"
+        },
+        {
+          "name": "NASA",
+          "slug": "nasa"
+        },
+        {
+          "name": "State Department",
+          "slug": "state-department"
+        },
+        {
+          "name": "Trump Administration",
+          "slug": "trump-administration"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Americas",
+          "slug": "americas"
+        },
+        {
+          "name": "Triangular UAP",
+          "slug": "triangular-uap"
+        },
+        {
+          "name": "Spherical UAP / orbs",
+          "slug": "spherical-uap"
+        },
+        {
+          "name": "Range fouler",
+          "slug": "range-fouler"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Donald Trump",
+          "slug": "donald-trump"
+        },
+        {
+          "name": "Pete Hegseth",
+          "slug": "pete-hegseth"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/pursue-release-01-may-2026",
+      "updatedAt": "2026-05-11 10:53:31"
+    },
+    {
+      "slug": "pursue-dow-uap-d51-email-correspondence-pacific-time-zone-march-2023",
+      "title": "Email Correspondence: Pacific Time Zone, March 2023 (DOW-UAP-D51)",
+      "summary": "This document is email correspondence describing the content of a mission report and requesting clarification on its content. All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrinsic object features or performance characteristics.",
+      "eventType": "document_release",
+      "eventDate": "2026-03-23",
+      "dateDisplay": "2026-03-23",
+      "location": {
+        "name": "Pacific Time Zone",
+        "region": null,
+        "country": "United States",
+        "lat": 37,
+        "lng": -120
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Americas",
+          "slug": "americas"
+        },
+        {
+          "name": "Triangular UAP",
+          "slug": "triangular-uap"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d51-email-correspondence-pacific-time-zone-march-2023",
+      "updatedAt": "2026-05-12 11:47:48"
+    },
+    {
+      "slug": "dow-uap-pr49-army-2026",
+      "title": "Most recent: U.S. Army sensor tracks unknown object, 2026",
+      "summary": "The most recently dated video in PURSUE Release 01 — DOW-UAP-PR49, captured in 2026 by a U.S. Department of the Army sensor — runs 1 minute 49 seconds and shows infrared tracking of an unresolved aerial object.",
+      "eventType": "sighting",
+      "eventDate": "2026-01-15",
+      "dateDisplay": "2026",
+      "location": {
+        "name": "The Pentagon",
+        "region": "Virginia",
+        "country": "United States",
+        "lat": 38.8719,
+        "lng": -77.0563
+      },
+      "sourceName": "U.S. Department of War — AARO, PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Americas",
+          "slug": "americas"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/dow-uap-pr49-army-2026",
+      "updatedAt": "2026-05-11 10:53:34"
+    },
+    {
+      "slug": "aaro-hosts-private-workshop-on-uap-data-standardization-with-civilian-researcher",
+      "title": "AARO Hosts Private Workshop on UAP Data Standardization with Civilian Researchers, Academia, and Government Agencies",
+      "summary": "The Pentagon's All-domain Anomaly Resolution Office (AARO) convened a private workshop in August 2025 in the Washington, D.C., area to address the standardization of UAP data collection, management, and analysis. The event was coordinated by AARO and hosted by Associated Universities, Inc. (AUI), and brought together participants from government agencies, academic institutions, and civilian research organizations. A white paper detailing the workshop's proceedings and recommendations was published on AARO's official website in February 2026 and was subsequently reported by The Debrief on February 26, 2026.\n\nThe workshop represents a notable shift in AARO's posture under current director Dr. Jon T. Kosloski compared to the more security-focused, limited-engagement approach of AARO's inaugural director, Sean M. Kirkpatrick. Key recommendations produced by the workshop included the development of standardized metadata templates incorporating AI tools with human oversight, open-ended public narrative reporting mechanisms, and the release of de-identified public UAP data to reduce stigma and build trust. Department of War spokesperson Sue Gough confirmed to The Debrief that AARO intends to use public reports to enhance UAP trend analysis, though no timeline was given for a public reporting mechanism.",
+      "eventType": "report",
+      "eventDate": "2025-08-01",
+      "dateDisplay": null,
+      "location": {
+        "name": "Washington, D.C.",
+        "region": "District of Columbia",
+        "country": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "sourceName": "The Debrief",
+      "sourceUrl": "https://thedebrief.org/all-domain-anomaly-resolution-office-hosts-private-workshop-with-civilian-researchers-universities-and-government-agencies",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Document Release",
+          "slug": "document-release"
+        },
+        {
+          "name": "Civilian Research",
+          "slug": "civilian-research"
+        },
+        {
+          "name": "Data Standardization",
+          "slug": "data-standardization"
+        },
+        {
+          "name": "Workshop",
+          "slug": "workshop"
+        },
+        {
+          "name": "UAP Reporting",
+          "slug": "uap-reporting"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Jon T. Kosloski",
+          "slug": "jon-t-kosloski"
+        },
+        {
+          "name": "Sue Gough",
+          "slug": "sue-gough"
+        },
+        {
+          "name": "Sean M. Kirkpatrick",
+          "slug": "sean-m-kirkpatrick"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/aaro-hosts-private-workshop-on-uap-data-standardization-with-civilian-researcher",
+      "updatedAt": "2026-05-12T01:35:23.531Z"
+    },
+    {
+      "slug": "pursue-pr-043",
+      "title": "PR-043: AFRICOM infrared sensor video (2025)",
+      "summary": "The United States Africa Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of two seconds of video footage from an infrared sensor aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2025-06-15",
+      "dateDisplay": "2025",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-043",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-043",
+      "updatedAt": "2026-05-12 11:43:22"
+    },
+    {
+      "slug": "pursue-dow-uap-d8-mission-report-djibouti-2025",
+      "title": "Mission Report: Djibouti, 2025 (DOW-UAP-D8)",
+      "summary": "A U.S. military operator reported observing two “white hot UAPs.” The reporter estimated the UAP’s speed as approximately 240 nautical miles per hour (276 mph). All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrinsic object features or performance characteristics.",
+      "eventType": "report",
+      "eventDate": "2025-06-15",
+      "dateDisplay": "2025-06-15",
+      "location": {
+        "name": "Djibouti",
+        "region": null,
+        "country": "Djibouti",
+        "lat": 11.825,
+        "lng": 42.59
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d8-mission-report-djibouti-2025.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        },
+        {
+          "name": "Africa",
+          "slug": "africa"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d8-mission-report-djibouti-2025",
+      "updatedAt": "2026-05-12 11:47:47"
+    },
+    {
+      "slug": "pursue-dow-uap-d50-email-correspondence-indopacom-april-2025",
+      "title": "Email Correspondence: INDOPACOM, April 2025 (DOW-UAP-D50)",
+      "summary": "This document is email correspondence describing the content of a mission report and requesting clarification on its content. All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrinsic object features or performance characteristics.",
+      "eventType": "document_release",
+      "eventDate": "2025-04-10",
+      "dateDisplay": "2025-04-10",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d50-email-correspondence-indopacom-april-2025.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d50-email-correspondence-indopacom-april-2025",
+      "updatedAt": "2026-05-12 11:47:47"
+    },
+    {
+      "slug": "house-uap-hearing-eyes-wide-open-2024",
+      "title": "House Oversight holds 'Eyes Wide Open' UAP hearing",
+      "summary": "The House Oversight Committee Subcommittee on Cybersecurity, Information Technology, and Government Innovation, chaired by Rep. Nancy Mace (R-S.C.), holds a public hearing titled 'Unidentified Anomalous Phenomena: Eyes on the Sky, Secrets in the Dark,' featuring testimony from former military and intelligence officials.",
+      "eventType": "hearing",
+      "eventDate": "2024-11-13",
+      "dateDisplay": "November 13, 2024",
+      "location": {
+        "name": "U.S. Capitol",
+        "region": "District of Columbia",
+        "country": "United States",
+        "lat": 38.8899,
+        "lng": -77.0091
+      },
+      "sourceName": "U.S. House Committee on Oversight and Accountability",
+      "sourceUrl": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-eyes-on-the-sky-secrets-in-the-dark/",
+      "tags": [
+        {
+          "name": "Congressional Hearing",
+          "slug": "congressional-hearing"
+        },
+        {
+          "name": "Pentagon",
+          "slug": "pentagon"
+        },
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "AATIP",
+          "slug": "aatip"
+        },
+        {
+          "name": "Whistleblower",
+          "slug": "whistleblower"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Luis Elizondo",
+          "slug": "luis-elizondo"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/house-uap-hearing-eyes-wide-open-2024",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "pursue-dow-uap-d52-email-correspondance-na-august-2024",
+      "title": "Email Correspondance: NA, August 2024 (DOW-UAP-D52)",
+      "summary": "This document is email correspondence describing the content of a mission report and requesting clarification on its content. All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrinsic object features or performance characteristics.",
+      "eventType": "document_release",
+      "eventDate": "2024-10-31",
+      "dateDisplay": "2024-10-31",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d52-email-correspondance-na-august-2024.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d52-email-correspondance-na-august-2024",
+      "updatedAt": "2026-05-12 11:47:47"
+    },
+    {
+      "slug": "pursue-dow-uap-d28-mission-report-east-china-sea-2024",
+      "title": "Mission Report: Iraq, September 2024 (DOW-UAP-D28)",
+      "summary": "This document is a Mission Report (MISREP), a standardized reporting form the U.S. Military uses to record the circumstances surrounding its operations. U.S. military services often use MISREPs to report Unidentified Anomalous Phenomena (UAP) to AARO. The GENTEXT, or “general text” section of these reports often contains important qualitative, contextual information, distinguishing it from the more quantitative, or numerical, data found elsewhere in the report. While conducting a weapons calibra",
+      "eventType": "report",
+      "eventDate": "2024-09-20",
+      "dateDisplay": "2024-09-20",
+      "location": {
+        "name": "Iraq",
+        "region": null,
+        "country": "Iraq",
+        "lat": 33.31,
+        "lng": 44.36
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d28-mission-report-east-china-sea-2024.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d28-mission-report-east-china-sea-2024",
+      "updatedAt": "2026-05-12 11:47:47"
+    },
+    {
+      "slug": "pursue-dow-uap-d75-mission-report-gulf-of-aden-july-2024",
+      "title": "Mission Report: Gulf of Aden, July 2024 (DOW-UAP-D75)",
+      "summary": "A U.S. military operator reported observing one UAP on July 14, 2024. The observer reported that the UAP maintained a “straight flight path at same altitude”. The report notes that the UAP’s “speed was faster than flying speed,” and the operator assessed the object as “benign.” The operator reported following the UAP “till the distance became too far.” All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such",
+      "eventType": "report",
+      "eventDate": "2024-07-14",
+      "dateDisplay": "2024-07-14",
+      "location": {
+        "name": "Gulf of Aden",
+        "region": null,
+        "country": "International waters",
+        "lat": 12.5,
+        "lng": 48
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d75-mission-report-gulf-of-aden-july-2024.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d75-mission-report-gulf-of-aden-july-2024",
+      "updatedAt": "2026-05-12 11:47:47"
+    },
+    {
+      "slug": "pursue-pr-048",
+      "title": "PR-048: INDOPACOM infrared sensor video (2024)",
+      "summary": "The United States Indo-Pacific Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of one minute and thirty-nine seconds of video footage from an infrared sensor aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2024-06-15",
+      "dateDisplay": "2024",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-048",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-048",
+      "updatedAt": "2026-05-12 11:43:19"
+    },
+    {
+      "slug": "pursue-pr-046",
+      "title": "PR-046: INDOPACOM infrared sensor video (2024)",
+      "summary": "The United States Indo-Pacific Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of nine seconds of video footage from an infrared sensor aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2024-06-15",
+      "dateDisplay": "2024",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-046",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-046",
+      "updatedAt": "2026-05-12 11:43:19"
+    },
+    {
+      "slug": "pursue-pr-033",
+      "title": "PR-033: CENTCOM infrared sensor video (2024)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon(UAP)to the All-domain Anomaly Resolution Office (AARO)consisting of five seconds of video footage from a Full-Motion Video (FMV) camera aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2024-06-15",
+      "dateDisplay": "2024",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-033",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-033",
+      "updatedAt": "2026-05-12 11:43:18"
+    },
+    {
+      "slug": "pursue-pr-032",
+      "title": "PR-032: CENTCOM infrared sensor video (2024)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon(UAP)to the All-domain Anomaly Resolution Office (AARO) consisting of six seconds of video footage from a Full-Motion Video (FMV) camera aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2024-06-15",
+      "dateDisplay": "2024",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-032",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-032",
+      "updatedAt": "2026-05-12 11:43:18"
+    },
+    {
+      "slug": "pursue-pr-031",
+      "title": "PR-031: CENTCOM infrared sensor video (2024)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon(UAP)to the All-domain Anomaly Resolution Office (AARO) consisting of five seconds of video footage from a Full-Motion Video (FMV) camera aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2024-06-15",
+      "dateDisplay": "2024",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-031",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-031",
+      "updatedAt": "2026-05-12 11:43:17"
+    },
+    {
+      "slug": "pursue-pr-029",
+      "title": "PR-029: CENTCOM infrared sensor video (2024)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon(UAP)to the All-domain Anomaly Resolution Office (AARO) consisting of twenty-one seconds of video footage from an infrared sensor aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2024-06-15",
+      "dateDisplay": "2024",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-029",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-029",
+      "updatedAt": "2026-05-12 11:43:17"
+    },
+    {
+      "slug": "pursue-pr-028",
+      "title": "PR-028: CENTCOM infrared sensor video (2024)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon(UAP)to the All-domain Anomaly Resolution Office (AARO) consisting of one minute and five seconds of video footage captured via multiple sensor modalities aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2024-06-15",
+      "dateDisplay": "2024",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-028",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-028",
+      "updatedAt": "2026-05-12 11:43:16"
+    },
+    {
+      "slug": "pursue-dow-uap-d32-mission-report-syria-october-2024",
+      "title": "Unresolved UAP Report: Syria, October 2024 (DOW-UAP-PR33)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon (UAP) to the All-domain Anomaly Resolution Office (AARO) consisting of five seconds of video footage from a full-motion video (FMV) camera aboard a U.S. military platform in 2024. An accompanying mission report, DoW-UAP-D32, described the UAP as consisting of a “misshapen and uneven ball of white light,” and reported that a “light/glare halo effect” occurred at the top of the FMV feed.  Video Description",
+      "eventType": "report",
+      "eventDate": "2024-06-15",
+      "dateDisplay": "2024-06-15",
+      "location": {
+        "name": "Syria",
+        "region": null,
+        "country": "Syria",
+        "lat": 34.8,
+        "lng": 38.99
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d32-mission-report,-syria-october-2024.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d32-mission-report-syria-october-2024",
+      "updatedAt": "2026-05-12 11:47:47"
+    },
+    {
+      "slug": "pursue-dow-uap-d27-mission-report-united-arab-emirates-october-2023",
+      "title": "Mission Report: United Arab Emirates, October 2023 (DOW-UAP-D27)",
+      "summary": "A U.S. military operator reported observing one UAP at an estimated altitude of approximately 24,000 feet. The observer estimated the UAP’s speed as 163 knots (187 mph). All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrinsic object features or performance characteristics.",
+      "eventType": "report",
+      "eventDate": "2024-06-07",
+      "dateDisplay": "2024-06-07",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d27-mission-report-united-arab-emirates-october-2023.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Spherical UAP / orbs",
+          "slug": "spherical-uap"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d27-mission-report-united-arab-emirates-october-2023",
+      "updatedAt": "2026-05-12 11:47:46"
+    },
+    {
+      "slug": "aaro-historical-record-vol-1-2024",
+      "title": "AARO releases Historical Record Report, Volume I",
+      "summary": "The All-domain Anomaly Resolution Office releases the first volume of its congressionally directed historical record of U.S. government involvement with UAP. The 63-page report concludes that no verifiable evidence has been found of extraterrestrial technology in U.S. government possession.",
+      "eventType": "report",
+      "eventDate": "2024-03-08",
+      "dateDisplay": "March 8, 2024",
+      "location": {
+        "name": "The Pentagon",
+        "region": "Virginia",
+        "country": "United States",
+        "lat": 38.8719,
+        "lng": -77.0563
+      },
+      "sourceName": "All-domain Anomaly Resolution Office (AARO)",
+      "sourceUrl": "https://www.aaro.mil/Portals/136/PDFs/Historical%20Record%20Report%20Volume%201%208March2024.pdf",
+      "tags": [
+        {
+          "name": "Pentagon",
+          "slug": "pentagon"
+        },
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/aaro-historical-record-vol-1-2024",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "pursue-dow-uap-d25-mission-report-greece-january-2024",
+      "title": "Mission Report: Greece, January 2024 (DOW-UAP-D25)",
+      "summary": "A U.S. military operator reported observing one UAP, estimating its speed as “approximately 434 knots (499 mph)”. The observer described the UAP as diamond-shaped, with a non-maneuvering probe at the bottom. The observer noted that the UAP was only visible when viewed via an onboard Short-Wave Infrared (SWIR) sensor. The observer reported that the event occurred over a duration of approximately two minutes.  All descriptive and estimative language contained in this report reflects the reporter’s",
+      "eventType": "report",
+      "eventDate": "2024-01-25",
+      "dateDisplay": "2024-01-25",
+      "location": {
+        "name": "Mediterranean Sea",
+        "region": null,
+        "country": "International waters",
+        "lat": 35,
+        "lng": 18
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d25-mission-report-greece-january-2024.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "Europe",
+          "slug": "europe"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        },
+        {
+          "name": "Diamond-shaped UAP",
+          "slug": "diamond-shaped-uap"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d25-mission-report-greece-january-2024",
+      "updatedAt": "2026-05-12 11:47:46"
+    },
+    {
+      "slug": "pursue-dow-uap-d74-mission-report-syria-november-2023",
+      "title": "Mission Report: Syria, November 2023 (DOW-UAP-D74)",
+      "summary": "A U.S. military operator reported observing one UAP “shaped as a bouncy ball.” The observer described the UAP as traveling “~424kn (483 mph) consistently for at least 7mins.” The reporter described the UAP approaching from the south. The operator assessed the object as “benign.” All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of",
+      "eventType": "report",
+      "eventDate": "2023-11-09",
+      "dateDisplay": "2023-11-09",
+      "location": {
+        "name": "Syria",
+        "region": null,
+        "country": "Syria",
+        "lat": 34.8,
+        "lng": 38.99
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d74-mission-report-syria-november-2023.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d74-mission-report-syria-november-2023",
+      "updatedAt": "2026-05-12 11:47:46"
+    },
+    {
+      "slug": "dow-uap-pr34-greece-october-2023",
+      "title": "DoW PR34: object executes multiple 90° turns over the Aegean",
+      "summary": "A 2-minute-57-second AARO video from a U.S. military sensor records an unidentified object over Greece performing multiple sharp 90-degree turns at speed — flight characteristics that exceed publicly disclosed performance of known aircraft. Released as DOW-UAP-PR34 in PURSUE Release 01.",
+      "eventType": "sighting",
+      "eventDate": "2023-10-15",
+      "dateDisplay": "October 2023",
+      "location": {
+        "name": "Aegean Sea",
+        "region": "Greece",
+        "country": "Greece",
+        "lat": 39,
+        "lng": 25
+      },
+      "sourceName": "U.S. Department of War — AARO, PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "International",
+          "slug": "international"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Europe",
+          "slug": "europe"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/dow-uap-pr34-greece-october-2023",
+      "updatedAt": "2026-05-11 10:53:32"
+    },
+    {
+      "slug": "pursue-059uap00013",
+      "title": "State Department UAP Cable 5, Mexico, September 16, 2003",
+      "summary": "On September 12, 20023 the Mexican Congress heard testimony on UAP from experts related to the debate about an Aerial Space Protection Law, which, if approved, would make Mexico the first country to formally acknowledge the presence of alien life on earth. Experts asked legislators to recognize UAP, guarantee airspace security, and allow UAP to be studied.  They presented to alleged alien corpses and videos of Mexican pilot’s encounters with fast-moving flying objects during flight. Disagreement",
+      "eventType": "official_statement",
+      "eventDate": "2023-09-16",
+      "dateDisplay": "2023-09-16",
+      "location": {
+        "name": "Mexico",
+        "region": null,
+        "country": "Mexico",
+        "lat": 23.63,
+        "lng": -102.55
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/059uap00013.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "State Department",
+          "slug": "state-department"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Americas",
+          "slug": "americas"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-059uap00013",
+      "updatedAt": "2026-05-12 11:47:46"
+    },
+    {
+      "slug": "nasa-uap-independent-study-team-frequently-asked-questions-on-scope-methodology-",
+      "title": "NASA UAP Independent Study Team: Frequently Asked Questions on Scope, Methodology, and Findings",
+      "summary": "NASA's Science Mission Directorate published a Frequently Asked Questions page addressing the agency's Unidentified Anomalous Phenomena (UAP) Independent Study, commissioned in 2023. The page clarifies the study's scope, team composition, methodology, and conclusions, confirming that the 16-member independent study team — led by astrophysicist David Spergel — was charged exclusively with identifying how scientific data and tools could be applied to UAP going forward, not with reviewing past UAP incidents. The FAQ also states that NASA has found no credible evidence of extraterrestrial life and no data supporting the hypothesis that UAP represent alien technologies.\n\nThe document provides institutional context for NASA's UAP engagement: the nine-month study was conducted under the Federal Advisory Committee Act (FACA), required financial disclosures and ethics briefings from all members, and was overseen by Daniel Evans, Assistant Deputy Associate Administrator for Research at NASA's Science Mission Directorate. The FAQ further notes that NASA does not actively search for UAP, has not established a dedicated UAP program, and that study funding was consistent with other external review groups convened through NASA's Research Opportunities in Space and Earth Science (ROSES) process. The page also references NASA's commitment to cooperating with the All-domain Anomaly Resolution Office (AARO), citing President Trump's direction for whole-of-government transparency.",
+      "eventType": "report",
+      "eventDate": "2023-09-14",
+      "dateDisplay": null,
+      "location": {
+        "name": "NASA Headquarters",
+        "region": "Washington, D.C.",
+        "country": "United States",
+        "lat": 38.8833,
+        "lng": -77.0167
+      },
+      "sourceName": "NASA",
+      "sourceUrl": "https://science.nasa.gov/uap/faqs",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "NASA",
+          "slug": "nasa"
+        },
+        {
+          "name": "UAP Independent Study",
+          "slug": "uap-independent-study"
+        },
+        {
+          "name": "David Spergel",
+          "slug": "david-spergel"
+        },
+        {
+          "name": "FACA",
+          "slug": "faca"
+        },
+        {
+          "name": "Official Statement",
+          "slug": "official-statement"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Daniel A. Evans",
+          "slug": "daniel-a-evans"
+        },
+        {
+          "name": "David Spergel",
+          "slug": "david-spergel"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/nasa-uap-independent-study-team-frequently-asked-questions-on-scope-methodology-",
+      "updatedAt": "2026-05-11T23:37:58.389Z"
+    },
+    {
+      "slug": "nasa-uap-independent-study-team-commission-public-meeting-and-final-report-2022-",
+      "title": "NASA UAP Independent Study Team: Commission, Public Meeting, and Final Report (2022–2023)",
+      "summary": "On June 9, 2022, NASA announced it was commissioning an independent study team to examine unidentified anomalous phenomena (UAP) from a scientific perspective. The study focused on identifying existing data holdings, determining how best to collect future data, and assessing how NASA's scientific capabilities could advance understanding of UAP. The effort was organized under NASA's Science Mission Directorate in consultation with the Aeronautics Research Mission Directorate, and was governed by terms of reference consistent with the Federal Advisory Committee Act.\n\nThe UAP Independent Study Team held a public meeting on May 31, 2023, broadcast live and open to public participation. On September 14, 2023, the team published its final report containing a series of recommendations for advancing the scientific study of UAP. The initiative reflects NASA's stated commitment to scientific transparency and rigor, and represents the first formal, agency-wide scientific study of UAP conducted by a civilian space agency. Contact for UAP inquiries was designated as Daniel A. Evans of NASA.",
+      "eventType": "report",
+      "eventDate": "2023-09-14",
+      "dateDisplay": null,
+      "location": {
+        "name": "NASA Headquarters",
+        "region": "Washington, D.C.",
+        "country": "United States",
+        "lat": 38.8833,
+        "lng": -77.0167
+      },
+      "sourceName": "NASA",
+      "sourceUrl": "https://science.nasa.gov/uap",
+      "tags": [
+        {
+          "name": "NASA",
+          "slug": "nasa"
+        },
+        {
+          "name": "UAP Independent Study",
+          "slug": "uap-independent-study"
+        },
+        {
+          "name": "Official Report",
+          "slug": "official-report"
+        },
+        {
+          "name": "Science Mission Directorate",
+          "slug": "science-mission-directorate"
+        },
+        {
+          "name": "Federal Advisory Committee",
+          "slug": "federal-advisory-committee"
+        },
+        {
+          "name": "Declassified Document",
+          "slug": "declassified-document"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Thomas Zurbuchen",
+          "slug": "thomas-zurbuchen"
+        },
+        {
+          "name": "Daniel A. Evans",
+          "slug": "daniel-a-evans"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/nasa-uap-independent-study-team-commission-public-meeting-and-final-report-2022-",
+      "updatedAt": "2026-05-11T23:37:31.908Z"
+    },
+    {
+      "slug": "fbi-bronze-ellipsoid-september-2023",
+      "title": "FBI: bronze ellipsoid materializes and disappears at a U.S. test site",
+      "summary": "Newly released FBI 302 interviews and an FBI Lab composite sketch describe an ellipsoid bronze metallic object, 130-195 feet in length, that materialized out of a bright light, was observed by multiple credentialed witnesses at a U.S. test site, and disappeared instantaneously.",
+      "eventType": "sighting",
+      "eventDate": "2023-09-02",
+      "dateDisplay": "September 2023",
+      "location": {
+        "name": "Western United States (undisclosed test site)",
+        "region": "Western United States",
+        "country": "United States",
+        "lat": 39.5,
+        "lng": -113
+      },
+      "sourceName": "FBI / U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "FBI",
+          "slug": "fbi"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Americas",
+          "slug": "americas"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/fbi-bronze-ellipsoid-september-2023",
+      "updatedAt": "2026-05-11 10:53:32"
+    },
+    {
+      "slug": "western-us-event-2023",
+      "title": "Western US Event: seven federal employees report orbs and a 'translucent kite'",
+      "summary": "Over two days in 2023, seven separate U.S. federal government employees reported close-range encounters with multiple unidentified phenomena at a site in the western United States — including orbs launching other orbs, a large stationary glowing orb at close range, and a large semi-transparent object described as a 'translucent kite.' AARO calls it 'among the most compelling within AARO's current holdings.'",
+      "eventType": "sighting",
+      "eventDate": "2023-09-01",
+      "dateDisplay": "September 2023",
+      "location": {
+        "name": "Western United States (undisclosed test site)",
+        "region": "Western United States",
+        "country": "United States",
+        "lat": 39.5,
+        "lng": -113
+      },
+      "sourceName": "U.S. Department of War / AARO — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Americas",
+          "slug": "americas"
+        },
+        {
+          "name": "Spherical UAP / orbs",
+          "slug": "spherical-uap"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/western-us-event-2023",
+      "updatedAt": "2026-05-11 10:53:31"
+    },
+    {
+      "slug": "grusch-fravor-graves-testimony-2023",
+      "title": "Grusch, Fravor, and Graves testify before House Oversight Subcommittee",
+      "summary": "Former intelligence officer David Grusch, retired Navy Cmdr. David Fravor, and retired Navy Lt. Ryan Graves testify under oath before the House Oversight Subcommittee on National Security, the Border, and Foreign Affairs. Grusch states that the U.S. government operates a long-running classified program to retrieve and reverse-engineer non-human craft.",
+      "eventType": "hearing",
+      "eventDate": "2023-07-26",
+      "dateDisplay": "July 26, 2023",
+      "location": {
+        "name": "U.S. Capitol",
+        "region": "District of Columbia",
+        "country": "United States",
+        "lat": 38.8899,
+        "lng": -77.0091
+      },
+      "sourceName": "U.S. House Committee on Oversight and Accountability",
+      "sourceUrl": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
+      "tags": [
+        {
+          "name": "U.S. Navy",
+          "slug": "u-s-navy"
+        },
+        {
+          "name": "Congressional Hearing",
+          "slug": "congressional-hearing"
+        },
+        {
+          "name": "AATIP",
+          "slug": "aatip"
+        },
+        {
+          "name": "Whistleblower",
+          "slug": "whistleblower"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Cmdr. David Fravor (Ret.)",
+          "slug": "david-fravor"
+        },
+        {
+          "name": "Ryan Graves",
+          "slug": "ryan-graves"
+        },
+        {
+          "name": "David Grusch",
+          "slug": "david-grusch"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/grusch-fravor-graves-testimony-2023",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "schumer-rounds-uap-disclosure-act-2023",
+      "title": "Schumer–Rounds UAP Disclosure Act introduced",
+      "summary": "Senate Majority Leader Charles Schumer (D-N.Y.) and Senator Mike Rounds (R-S.D.) introduce the Unidentified Anomalous Phenomena Disclosure Act of 2023 as an amendment to the National Defense Authorization Act. The legislation proposes a nine-member presidentially appointed Review Board modeled on the JFK Records Review Board.",
+      "eventType": "document_release",
+      "eventDate": "2023-07-13",
+      "dateDisplay": "July 13, 2023",
+      "location": {
+        "name": "U.S. Capitol",
+        "region": "District of Columbia",
+        "country": "United States",
+        "lat": 38.8899,
+        "lng": -77.0091
+      },
+      "sourceName": "U.S. Senate (Schumer–Rounds amendment)",
+      "sourceUrl": "https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf",
+      "tags": [
+        {
+          "name": "Congressional Hearing",
+          "slug": "congressional-hearing"
+        },
+        {
+          "name": "Legislation",
+          "slug": "legislation"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/schumer-rounds-uap-disclosure-act-2023",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "pursue-pr-047",
+      "title": "PR-047: INDOPACOM infrared sensor video (2023)",
+      "summary": "The United States Indo-Pacific Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of one minute and fifty-nine seconds of video footage from an infrared sensor aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2023-06-15",
+      "dateDisplay": "2023",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-047",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-047",
+      "updatedAt": "2026-05-12 11:43:14"
+    },
+    {
+      "slug": "pursue-pr-035",
+      "title": "PR-035: CENTCOM infrared sensor video (2023)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon(UAP)to the All-domain Anomaly Resolution Office (AARO) consisting of twenty-four seconds of video footage from an infrared sensor aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2023-06-15",
+      "dateDisplay": "2023",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-035",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-035",
+      "updatedAt": "2026-05-12 11:43:13"
+    },
+    {
+      "slug": "pursue-pr-027",
+      "title": "PR-027: CENTCOM infrared sensor video (2023)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of four minutes and fifty-seven seconds of video footage from an infrared sensor aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2023-06-15",
+      "dateDisplay": "2023",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-027",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-027",
+      "updatedAt": "2026-05-12 11:43:13"
+    },
+    {
+      "slug": "pursue-pr-026",
+      "title": "PR-026: CENTCOM infrared sensor video (2023)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of forty-three seconds of video footage from an infrared sensor aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2023-06-15",
+      "dateDisplay": "2023",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-026",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-026",
+      "updatedAt": "2026-05-12 11:43:12"
+    },
+    {
+      "slug": "pursue-dow-uap-d35-mission-report-greece-october-2023",
+      "title": "Unresolved UAP Report: Greece, October 2023 (DOW-UAP-PR35)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon (UAP) to the All-domain Anomaly Resolution Office (AARO) consisting of 24 seconds of video footage from an infrared sensor aboard a U.S. military platform in 2023. An accompanying mission report, DoW-UAP-D35, described the UAP as small and circular, flying near the surface of the ocean toward land.  Video Description: 00:02: The sensor narrows its field-of-view to zoom in on an area of contrast near the ",
+      "eventType": "report",
+      "eventDate": "2023-06-15",
+      "dateDisplay": "2023-06-15",
+      "location": {
+        "name": "Greece",
+        "region": null,
+        "country": "Greece",
+        "lat": 39.07,
+        "lng": 21.82
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d35-mission-report-greece-october-2023.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "Europe",
+          "slug": "europe"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d35-mission-report-greece-october-2023",
+      "updatedAt": "2026-05-12 11:47:46"
+    },
+    {
+      "slug": "pursue-dow-uap-d23-mission-report-united-arab-emirates-october-2023",
+      "title": "Unresolved UAP Report: United Arab Emirates, October 2023 (DOW-UAP-PR27)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of four minutes and 57 seconds of video footage from an infrared (IR) sensor aboard a U.S. military platform in 2023. An accompanying mission report, DoW-UAP-D23, mentions a UAP was observed during the mission.  Video Description: 00:00-01:55: No content. 01:56: An area of contrast becomes distinguishable against the background in the center o",
+      "eventType": "report",
+      "eventDate": "2023-06-15",
+      "dateDisplay": "2023-06-15",
+      "location": {
+        "name": "United Arab Emirates",
+        "region": null,
+        "country": "United Arab Emirates",
+        "lat": 23.42,
+        "lng": 53.85
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d23-mission-report-united-arab-emirates-october-2023",
+      "updatedAt": "2026-05-12 11:47:45"
+    },
+    {
+      "slug": "pursue-dow-uap-d20-mission-report-southern-united-states-2023",
+      "title": "Mission Report: Iraq, 2023 (DOW-UAP-D20)",
+      "summary": "A U.S. military operator reported observing “several bright objects maneuvering quickly” west to east northeast. The operator reported achieving a track on the UAP via an onboard targeting pod for approximately 20 seconds. The report describes that UAP then dimmed and disappeared from the targeting pod. All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a",
+      "eventType": "report",
+      "eventDate": "2023-03-31",
+      "dateDisplay": "2023-03-31",
+      "location": {
+        "name": "Iraq",
+        "region": null,
+        "country": "Iraq",
+        "lat": 33.31,
+        "lng": 44.36
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d20-mission-report-southern-united-states-2023.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d20-mission-report-southern-united-states-2023",
+      "updatedAt": "2026-05-12 11:47:45"
+    },
+    {
+      "slug": "pursue-dow-uap-d19-mission-report-syria-february-21-2023",
+      "title": "Mission Report: Syria, February 21, 2023 (DOW-UAP-D19)",
+      "summary": "A U.S. military operator reported observing one “possible balloon” at approximately 2,100 feet. All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrinsic object features or performance characteristics.",
+      "eventType": "report",
+      "eventDate": "2023-02-21",
+      "dateDisplay": "2023-02-21",
+      "location": {
+        "name": "Syria",
+        "region": null,
+        "country": "Syria",
+        "lat": 34.8,
+        "lng": 38.99
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d19-mission-report-syria-february-21-2023.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d19-mission-report-syria-february-21-2023",
+      "updatedAt": "2026-05-12 11:47:45"
+    },
+    {
+      "slug": "ndaa-aaro-establishment-2022",
+      "title": "Congress establishes the All-domain Anomaly Resolution Office",
+      "summary": "The James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 codifies the All-domain Anomaly Resolution Office (AARO), absorbing the predecessor Airborne Object Identification and Management Synchronization Group and giving it statutory authority and a public reporting mandate.",
+      "eventType": "document_release",
+      "eventDate": "2022-12-23",
+      "dateDisplay": "December 23, 2022",
+      "location": {
+        "name": "The Pentagon",
+        "region": "Virginia",
+        "country": "United States",
+        "lat": 38.8719,
+        "lng": -77.0563
+      },
+      "sourceName": "Public Law 117-263 (NDAA FY2023)",
+      "sourceUrl": "https://www.congress.gov/bill/117th-congress/house-bill/7776/text",
+      "tags": [
+        {
+          "name": "Pentagon",
+          "slug": "pentagon"
+        },
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Legislation",
+          "slug": "legislation"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Kirk McConnell",
+          "slug": "kirk-mcconnell"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/ndaa-aaro-establishment-2022",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "pursue-pr-023",
+      "title": "PR-023: CENTCOM infrared sensor video (2022)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of ten seconds of video footage from an infrared sensor aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2022-06-15",
+      "dateDisplay": "2022",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-023",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-023",
+      "updatedAt": "2026-05-12 11:43:10"
+    },
+    {
+      "slug": "pursue-pr-022",
+      "title": "PR-022: CENTCOM infrared sensor video (2022)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of fourteen seconds of video footage from an infrared (left) and electro-optical (right) sensor aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2022-06-15",
+      "dateDisplay": "2022",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-022",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-022",
+      "updatedAt": "2026-05-12 11:43:09"
+    },
+    {
+      "slug": "pursue-dow-uap-pr20",
+      "title": "Unresolved UAP Report: Kuwait, May 2022 (DOW-UAP-PR20)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon (UAP) to the All-domain Anomaly Resolution Office (AARO) consisting of a still image derived from a U.S. military system in 2022. The original reporter digitally altered the imagery by adding a red line encircling an area of interest before submitting it to AARO. An accompanying mission report, DoW-UAP-D12, described the UAP as moving from north to northeast. The operator reported that they were unable t",
+      "eventType": "report",
+      "eventDate": "2022-06-15",
+      "dateDisplay": "2022-06-15",
+      "location": {
+        "name": "Iraq",
+        "region": null,
+        "country": "Iraq",
+        "lat": 33.31,
+        "lng": 44.36
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-pr20.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-pr20",
+      "updatedAt": "2026-05-12 11:47:45"
+    },
+    {
+      "slug": "pursue-dow-uap-d18-mission-report-iraq-december-2022",
+      "title": "Unresolved UAP Report: Iraq, December 2022 (DOW-UAP-PR23)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of ten seconds of video footage from an infrared sensor aboard a U.S. military platform in 2022. An accompanying mission report, DoW-UAP-D18, described the UAP as \"flying west to east.\"  Video Description: The video depicts an area of contrast moving from the bottom left to the top right of the sensor field-of-view. At approximately six second",
+      "eventType": "report",
+      "eventDate": "2022-06-15",
+      "dateDisplay": "2022-06-15",
+      "location": {
+        "name": "Iraq",
+        "region": null,
+        "country": "Iraq",
+        "lat": 33.31,
+        "lng": 44.36
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d18-mission-report-iraq-december-2022.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d18-mission-report-iraq-december-2022",
+      "updatedAt": "2026-05-12 11:47:45"
+    },
+    {
+      "slug": "pursue-dow-uap-d16-mission-report-syria-july-2022",
+      "title": "Unresolved UAP Report: Syria, July 2022 (DOW-UAP-PR22)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon (UAP) to the All-domain Anomaly Resolution Office (AARO) consisting of 14 seconds of video footage from an infrared (left) and electro-optical (right) sensor aboard a U.S. military platform in 2022. An accompanying mission report, DoW-UAP-D16, described the UAP as “moving from north to south.”  Video Description: At the five second mark, the video depicts an object moving from right to left across the to",
+      "eventType": "report",
+      "eventDate": "2022-06-15",
+      "dateDisplay": "2022-06-15",
+      "location": {
+        "name": "Syria",
+        "region": null,
+        "country": "Syria",
+        "lat": 34.8,
+        "lng": 38.99
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d16-mission-report-syria-july-2022.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d16-mission-report-syria-july-2022",
+      "updatedAt": "2026-05-12 11:47:45"
+    },
+    {
+      "slug": "pursue-dow-uap-d14-mission-report-iraq-may-2022",
+      "title": "Unresolved UAP Report: Iraq, May 2022 (DOW-UAP-PR21)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon (UAP) to the All-domain Anomaly Resolution Office (AARO) consisting of ten seconds of video footage from an infrared sensor aboard a U.S. military platform in 2022. An accompanying mission report, DoW-UAP-D14, described the UAP as a “probable SU-27/35.\"   Video Description: The video depicts two areas of contrast moving together near the center of the field-of-view throughout the runtime.  This video des",
+      "eventType": "report",
+      "eventDate": "2022-06-15",
+      "dateDisplay": "2022-06-15",
+      "location": {
+        "name": "Iraq",
+        "region": null,
+        "country": "Iraq",
+        "lat": 33.31,
+        "lng": 44.36
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d14-mission-report-iraq-may-2022.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d14-mission-report-iraq-may-2022",
+      "updatedAt": "2026-05-12 11:47:44"
+    },
+    {
+      "slug": "pursue-dow-uap-d10-mission-report-middle-east-may-2022",
+      "title": "Unresolved UAP Report: Middle East, May 2022 (DOW-UAP-PR19)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of five seconds of video footage from an infrared sensor aboard a U.S. military platform in 2022. An accompanying mission report, DoW-UAP-D10, described the observation as a “possible missile” moving across the field-of-view. The report also described four other objects not depicted in the video as “possible birds.”  Video Description: At the ",
+      "eventType": "report",
+      "eventDate": "2022-06-15",
+      "dateDisplay": "2022-06-15",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d10-mission-report-middle-east-may-2022.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d10-mission-report-middle-east-may-2022",
+      "updatedAt": "2026-05-12 11:47:44"
+    },
+    {
+      "slug": "pursue-dow-uap-d12-mission-report-iraq-may-2022",
+      "title": "Mission Report: Iraq, May 2022 (DOW-UAP-D12)",
+      "summary": "A U.S. military operator reported observing one UAP flying north to northeast. The observer reported following the UAP for as long as possible but was unable to positively identify it. All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrinsic object features or performance characteristics.",
+      "eventType": "report",
+      "eventDate": "2022-05-20",
+      "dateDisplay": "2022-05-20",
+      "location": {
+        "name": "Iraq",
+        "region": null,
+        "country": "Iraq",
+        "lat": 33.31,
+        "lng": 44.36
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d12-mission-report-iraq-may-2022.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d12-mission-report-iraq-may-2022",
+      "updatedAt": "2026-05-12 11:47:44"
+    },
+    {
+      "slug": "house-intel-uap-hearing-2022",
+      "title": "House Intelligence Subcommittee holds first congressional UAP hearing in over fifty years",
+      "summary": "The House Intelligence Subcommittee on Counterterrorism, Counterintelligence, and Counterproliferation holds the first open congressional hearing on UAP in fifty-three years. Under Secretary of Defense for Intelligence Ronald Moultrie and Deputy Director of Naval Intelligence Scott Bray testify.",
+      "eventType": "hearing",
+      "eventDate": "2022-05-17",
+      "dateDisplay": "May 17, 2022",
+      "location": {
+        "name": "U.S. Capitol",
+        "region": "District of Columbia",
+        "country": "United States",
+        "lat": 38.8899,
+        "lng": -77.0091
+      },
+      "sourceName": "2022 House Intelligence Subcommittee UAP hearing — Wikipedia (compiling U.S. House Permanent Select Committee on Intelligence materials)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2022_United_States_House_Intelligence_Subcommittee_hearings_on_UAPs",
+      "tags": [
+        {
+          "name": "U.S. Navy",
+          "slug": "u-s-navy"
+        },
+        {
+          "name": "Congressional Hearing",
+          "slug": "congressional-hearing"
+        },
+        {
+          "name": "Pentagon",
+          "slug": "pentagon"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/house-intel-uap-hearing-2022",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "odni-preliminary-assessment-2021",
+      "title": "ODNI delivers preliminary assessment to Congress",
+      "summary": "The Office of the Director of National Intelligence delivers to Congress a nine-page 'Preliminary Assessment: Unidentified Aerial Phenomena' covering 144 reports collected primarily by U.S. Navy aviators between 2004 and 2021. The report concludes that the U.S. government cannot identify 143 of the 144.",
+      "eventType": "report",
+      "eventDate": "2021-06-25",
+      "dateDisplay": "June 25, 2021",
+      "location": {
+        "name": "U.S. Capitol",
+        "region": "District of Columbia",
+        "country": "United States",
+        "lat": 38.8899,
+        "lng": -77.0091
+      },
+      "sourceName": "Office of the Director of National Intelligence",
+      "sourceUrl": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+      "tags": [
+        {
+          "name": "U.S. Navy",
+          "slug": "u-s-navy"
+        },
+        {
+          "name": "Pentagon",
+          "slug": "pentagon"
+        },
+        {
+          "name": "Legislation",
+          "slug": "legislation"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/odni-preliminary-assessment-2021",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "pursue-dow-uap-d64-mission-report-iran-november-2020",
+      "title": "Mission Report: Iran, November 2020 (DOW-UAP-D64)",
+      "summary": "A U.S. military operator reported observing two UAP on November 2, 2020, at 2143Z and at 2148Z. The first observation occurred at an unknown altitude. The reporter described the second UAP’s direction of travel as proceeding to the northwest. All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrin",
+      "eventType": "report",
+      "eventDate": "2020-11-02",
+      "dateDisplay": "2020-11-02",
+      "location": {
+        "name": "Iran",
+        "region": null,
+        "country": "Iran",
+        "lat": 32.43,
+        "lng": 53.69
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d64-mission-report-iran-november-2020.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d64-mission-report-iran-november-2020",
+      "updatedAt": "2026-05-12 11:47:51"
+    },
+    {
+      "slug": "pursue-dow-uap-d58-range-fouler-debrief-na-october-2020",
+      "title": "Range Fouler Debrief: NA, October 2020 (DOW-UAP-D58)",
+      "summary": "This document is a Range Fouler Debrief, a standardized reporting form the U.S. Navy uses to record the circumstances surrounding an unauthorized intrusion into controlled airspace during active military operations or training. These reports contain a narrative description of the observer’s experiences.  A U.S. military operator reported an encounter with a group of two UAP. The operator described the UAP as “balloon-shaped,” metallic, and reflective, characterizing them as “2x red blinking stro",
+      "eventType": "document_release",
+      "eventDate": "2020-10-27",
+      "dateDisplay": "2020-10-27",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d58-range-fouler-debrief-na-october-2020.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Range fouler",
+          "slug": "range-fouler"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d58-range-fouler-debrief-na-october-2020",
+      "updatedAt": "2026-05-12 11:47:51"
+    },
+    {
+      "slug": "pursue-dow-uap-d44-range-fouler-arabian-sea-october-2020",
+      "title": "Range Fouler Reporting Form: Gulf of Aden, October 2020 (DOW-UAP-D44)",
+      "summary": "This document is a Range Fouler Reporting Form, a standardized reporting form the U.S. Navy uses to record the circumstances surrounding an unauthorized intrusion into controlled airspace during active military operations or training. These reports contain a narrative description of the observer’s experiences.  A U.S. military operator reported observing a “round, cold object” via infrared sensor, traveling at 319 degrees (northwest) at approximately 20 mph. The report describes the UAP making “",
+      "eventType": "report",
+      "eventDate": "2020-10-15",
+      "dateDisplay": "2020-10-15",
+      "location": {
+        "name": "Arabian Sea",
+        "region": null,
+        "country": "International waters",
+        "lat": 16,
+        "lng": 65
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Range fouler",
+          "slug": "range-fouler"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d44-range-fouler-arabian-sea-october-2020",
+      "updatedAt": "2026-05-12 11:47:51"
+    },
+    {
+      "slug": "pursue-dow-uap-d63-mission-report-strait-of-hormuz-october-2020",
+      "title": "Mission Report: Strait of Hormuz, October 2020 (DOW-UAP-D63)",
+      "summary": "A U.S. military operator reported observing a UAP. All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrinsic object features or performance characteristics.",
+      "eventType": "report",
+      "eventDate": "2020-10-01",
+      "dateDisplay": "2020-10-01",
+      "location": {
+        "name": "Strait of Hormuz",
+        "region": null,
+        "country": "International waters",
+        "lat": 26.6,
+        "lng": 56.25
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d63-mission-report-strait-of-hormuz-october-2020",
+      "updatedAt": "2026-05-12 11:47:51"
+    },
+    {
+      "slug": "pursue-dow-uap-d62-mission-report-strait-of-hormuz-september-2020",
+      "title": "Mission Report: Strait of Hormuz, September 2020 (DOW-UAP-D62)",
+      "summary": "A U.S. military operator reported observing one UAP at an estimated altitude of 1,800 feet. All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrinsic object features or performance characteristics.",
+      "eventType": "report",
+      "eventDate": "2020-09-16",
+      "dateDisplay": "2020-09-16",
+      "location": {
+        "name": "Strait of Hormuz",
+        "region": null,
+        "country": "International waters",
+        "lat": 26.6,
+        "lng": 56.25
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d62-mission-report-strait-of-hormuz-september-2020",
+      "updatedAt": "2026-05-12 11:47:51"
+    },
+    {
+      "slug": "pursue-dow-uap-d57-mission-report-gulf-of-aden-september-2020",
+      "title": "Range Fouler Reporting Form: Gulf of Aden, September 2020 (DOW-UAP-D57)",
+      "summary": "This document is a Range Fouler Reporting Form, a standardized reporting form the U.S. Navy uses to record the circumstances surrounding an unauthorized intrusion into controlled airspace during active military operations or training. These reports contain a narrative description of the observer’s experiences.  A U.S. military operator reported tracking a “round, cold object” over the Gulf of Aden for eight minutes via “black hot” IR sensor, making the UAP appear “bright white.” The report state",
+      "eventType": "report",
+      "eventDate": "2020-09-04",
+      "dateDisplay": "2020-09-04",
+      "location": {
+        "name": "Gulf of Aden",
+        "region": null,
+        "country": "International waters",
+        "lat": 12.5,
+        "lng": 48
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d57-mission-report-gulf-of-aden-september-2020.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Range fouler",
+          "slug": "range-fouler"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "Disc-shaped UAP",
+          "slug": "disc-shaped-uap"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d57-mission-report-gulf-of-aden-september-2020",
+      "updatedAt": "2026-05-12 11:47:51"
+    },
+    {
+      "slug": "pursue-dow-uap-d42-range-fouler-debrief-japan-2023",
+      "title": "Range Fouler Debrief: Japan, 2023 (DOW-UAP-D42)",
+      "summary": "This document is a Range Fouler Debrief Form, a standardized reporting form the U.S. Navy uses to record the circumstances surrounding an unauthorized intrusion into controlled airspace during active military operations or training. These reports contain a narrative description of the observer’s experiences.  A U.S. military operator reported observing an “object fly through the screen.” The observer described a second object surpassing the first, at a higher speed. The report describes a total ",
+      "eventType": "document_release",
+      "eventDate": "2020-08-31",
+      "dateDisplay": "2020-08-31",
+      "location": {
+        "name": "Japan",
+        "region": null,
+        "country": "Japan",
+        "lat": 36.2,
+        "lng": 138.25
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d42-range-fouler-debrief-japan-2023.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Range fouler",
+          "slug": "range-fouler"
+        },
+        {
+          "name": "Indo-Pacific",
+          "slug": "indo-pacific"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d42-range-fouler-debrief-japan-2023",
+      "updatedAt": "2026-05-12 11:47:50"
+    },
+    {
+      "slug": "pursue-dow-uap-d61-mission-report-persian-gulf-august-2020",
+      "title": "Mission Report: Persian Gulf, August 2020 (DOW-UAP-D61)",
+      "summary": "A U.S. military operator reported observing a “formation of unknown flying objects” traveling northeast to northwest along the coast for approximately two minutes. The report notes that light cloud coverage “prevented the continuous tracking of the formation.” All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or abs",
+      "eventType": "report",
+      "eventDate": "2020-08-27",
+      "dateDisplay": "2020-08-27",
+      "location": {
+        "name": "Persian Gulf",
+        "region": "Middle East",
+        "country": "International waters",
+        "lat": 26.5,
+        "lng": 51.5
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d61-mission-report-persian-gulf-august-2020.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d61-mission-report-persian-gulf-august-2020",
+      "updatedAt": "2026-05-12 11:47:50"
+    },
+    {
+      "slug": "pursue-dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020",
+      "title": "Range Fouler Debrief: Arabian Sea, August 2020 (DOW-UAP-D56)",
+      "summary": "This document is a Range Fouler Debrief Form, a standardized reporting form the U.S. Navy uses to record the circumstances surrounding an unauthorized intrusion into controlled airspace during active military operations or training. These reports contain a narrative description of the observer’s experiences.  A U.S. military operator reported an encounter with a group of three “unidentified small air contacts” over the North Arabian Sea. The reporter described the UAP as having “wings/airframe” ",
+      "eventType": "document_release",
+      "eventDate": "2020-08-24",
+      "dateDisplay": "2020-08-24",
+      "location": {
+        "name": "Arabian Sea",
+        "region": null,
+        "country": "International waters",
+        "lat": 16,
+        "lng": 65
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Range fouler",
+          "slug": "range-fouler"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020",
+      "updatedAt": "2026-05-12 11:47:50"
+    },
+    {
+      "slug": "pursue-dow-uap-d60-mission-report-persian-gulf-august-2020",
+      "title": "Mission Report: Persian Gulf, August 2020 (DOW-UAP-D60)",
+      "summary": "A U.S. military operator reported observing one UAP. The report describes the UAP as “transiting” and notes it had “no impact to mission.” The report also states that “dense cloud coverage intermittently impacted FMV collection.” All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrinsic object fe",
+      "eventType": "report",
+      "eventDate": "2020-08-08",
+      "dateDisplay": "2020-08-08",
+      "location": {
+        "name": "Persian Gulf",
+        "region": "Middle East",
+        "country": "International waters",
+        "lat": 26.5,
+        "lng": 51.5
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d60-mission-report-persian-gulf-august-2020.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d60-mission-report-persian-gulf-august-2020",
+      "updatedAt": "2026-05-12 11:47:50"
+    },
+    {
+      "slug": "pursue-dow-uap-d65-mission-report-persian-gulf-july-2020",
+      "title": "Mission Report: Persian Gulf, July 2020 (DOW-UAP-D65)",
+      "summary": "A U.S. military operator reported encountering three separate UAP on July 16, 2020, at 1830Z, 1920Z, and 2345Z.  All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrinsic object features or performance characteristics.",
+      "eventType": "report",
+      "eventDate": "2020-07-16",
+      "dateDisplay": "2020-07-16",
+      "location": {
+        "name": "Persian Gulf",
+        "region": "Middle East",
+        "country": "International waters",
+        "lat": 26.5,
+        "lng": 51.5
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d65-mission-report-persian-gulf-july-2020.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d65-mission-report-persian-gulf-july-2020",
+      "updatedAt": "2026-05-12 11:47:50"
+    },
+    {
+      "slug": "pursue-pr-041",
+      "title": "PR-041: CENTCOM infrared sensor video (2020)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of one minute and thirty-four seconds of video footage from an infrared sensor aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2020-06-15",
+      "dateDisplay": "2020",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-041",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-041",
+      "updatedAt": "2026-05-12 11:43:39"
+    },
+    {
+      "slug": "pursue-pr-040",
+      "title": "PR-040: CENTCOM infrared sensor video (2020)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of one minute and three seconds of video footage from an infrared sensor aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2020-06-15",
+      "dateDisplay": "2020",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-040",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-040",
+      "updatedAt": "2026-05-12 11:43:39"
+    },
+    {
+      "slug": "pursue-pr-039",
+      "title": "PR-039: CENTCOM infrared sensor video (2020)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of five seconds of video footage from an infrared sensor aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2020-06-15",
+      "dateDisplay": "2020",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-039",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-039",
+      "updatedAt": "2026-05-12 11:43:38"
+    },
+    {
+      "slug": "pursue-pr-037",
+      "title": "PR-037: CENTCOM infrared sensor video (2020)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon(UAP)to the All-domain Anomaly Resolution Office (AARO) consisting of nine seconds of video footage from an infrared sensor aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2020-06-15",
+      "dateDisplay": "2020",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-037",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-037",
+      "updatedAt": "2026-05-12 11:43:38"
+    },
+    {
+      "slug": "pursue-pr-036",
+      "title": "PR-036: CENTCOM infrared sensor video (2020)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon(UAP)to the All-domain Anomaly Resolution Office (AARO) consisting of two minutes and seventeen seconds of video footage from an infrared sensor aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2020-06-15",
+      "dateDisplay": "2020",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-036",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-036",
+      "updatedAt": "2026-05-12 11:43:37"
+    },
+    {
+      "slug": "pursue-dow-uap-d7-mission-report-arabian-gulf-2020",
+      "title": "Mission Report: Arabian Gulf, 2020 (DOW-UAP-D7)",
+      "summary": "A U.S. military operator reported observing a UAP, describing it as “look[ing] like a balloon.” The report describes the UAP as “traveling with the winds at approximately 31,000 ft.” The visually tracked the UAP via onboard infrared sensor. All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrinsi",
+      "eventType": "report",
+      "eventDate": "2020-06-15",
+      "dateDisplay": "2020-06-15",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d7-mission-report-arabian-gulf-2020.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d7-mission-report-arabian-gulf-2020",
+      "updatedAt": "2026-05-12 11:47:50"
+    },
+    {
+      "slug": "pursue-dow-uap-d6-mission-report-arabian-gulf-2020",
+      "title": "Mission Report: Arabian Gulf, 2020 (DOW-UAP-D6)",
+      "summary": "A U.S. military operator reported observing a UAP. All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrinsic object features or performance characteristics.",
+      "eventType": "report",
+      "eventDate": "2020-06-15",
+      "dateDisplay": "2020-06-15",
+      "location": {
+        "name": "Persian Gulf",
+        "region": "Middle East",
+        "country": "International waters",
+        "lat": 26.5,
+        "lng": 51.5
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d6-mission-report-arabian-gulf-2020.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d6-mission-report-arabian-gulf-2020",
+      "updatedAt": "2026-05-12 11:47:49"
+    },
+    {
+      "slug": "pursue-dow-uap-d5-mission-report-arabian-gulf-2020",
+      "title": "Mission Report: Arabian Gulf, 2020 (DOW-UAP-D5)",
+      "summary": "A U.S. military operator reported observing two UAP traveling at an estimated speed of 278 knots (320 mph. The observer reported that the UAP “increased speed and changed direction towards the south.” All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrinsic object features or performance charact",
+      "eventType": "report",
+      "eventDate": "2020-06-15",
+      "dateDisplay": "2020-06-15",
+      "location": {
+        "name": "Persian Gulf",
+        "region": "Middle East",
+        "country": "International waters",
+        "lat": 26.5,
+        "lng": 51.5
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d5-mission-report-arabian-gulf-2020.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d5-mission-report-arabian-gulf-2020",
+      "updatedAt": "2026-05-12 11:47:49"
+    },
+    {
+      "slug": "pursue-dow-uap-d4-mission-report-arabian-gulf-2020",
+      "title": "Mission Report: Arabian Gulf, 2020 (DOW-UAP-D4)",
+      "summary": "A U.S. military operator reported observing a UAP traveling at an estimated speed of 321 knots (369 mph). The observer reported that the UAP “increased speed and changed direction towards the east.” All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrinsic object features or performance character",
+      "eventType": "report",
+      "eventDate": "2020-06-15",
+      "dateDisplay": "2020-06-15",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d4-mission-report-arabian-gulf-2020.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d4-mission-report-arabian-gulf-2020",
+      "updatedAt": "2026-05-12 11:47:49"
+    },
+    {
+      "slug": "pursue-dow-uap-d3-mission-report-arabian-gulf-2020",
+      "title": "Mission Report: Arabian Gulf, 2020 (DOW-UAP-D3)",
+      "summary": "A U.S. military operator reported observing a “line of dots followed by a trailing dot.” All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrinsic object features or performance characteristics.",
+      "eventType": "report",
+      "eventDate": "2020-06-15",
+      "dateDisplay": "2020-06-15",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d3-mission-report-arabian-gulf-2020.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Redacted record",
+          "slug": "redacted-record"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d3-mission-report-arabian-gulf-2020",
+      "updatedAt": "2026-05-12 11:47:49"
+    },
+    {
+      "slug": "pursue-pr-045",
+      "title": "PR-045: USAF infrared sensor video (2020)",
+      "summary": "The Department of the Air Force submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of fifty-eight seconds of video footage from an infrared sensor aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2020-06-15",
+      "dateDisplay": "2020",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-045",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-045",
+      "updatedAt": "2026-05-12 11:43:06"
+    },
+    {
+      "slug": "pursue-pr-044",
+      "title": "PR-044: CENTCOM infrared sensor video (2020)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon(UAP)to the All-domain Anomaly Resolution Office (AARO) consisting of five minutes and eleven seconds of video footage from an infrared sensor aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2020-06-15",
+      "dateDisplay": "2020",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-044",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-044",
+      "updatedAt": "2026-05-12 11:43:05"
+    },
+    {
+      "slug": "pursue-pr-042",
+      "title": "PR-042: CENTCOM infrared sensor video (2020)",
+      "summary": "The United States Central Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolution Office (AARO) consisting of four minutes and fifty-three seconds of video footage from an infrared sensor aboard a U.S",
+      "eventType": "sighting",
+      "eventDate": "2020-06-15",
+      "dateDisplay": "2020",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.aaro.mil/Next-AARO-Home-redesign/Next-Parent/Next-UAP-Report-Documents/poster/#PR-042",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Infrared sensor video",
+          "slug": "infrared-sensor-video"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-pr-042",
+      "updatedAt": "2026-05-12 11:43:05"
+    },
+    {
+      "slug": "dow-uap-d38-persian-gulf-may-2020",
+      "title": "Range Fouler: 'solid white object' makes erratic movements above the Persian Gulf",
+      "summary": "A U.S. Navy Range Fouler debrief from May 14, 2020 documents a 'solid white object' performing erratic movements above the water of the Persian Gulf — a close-proximity encounter with active U.S. military training. Released as DOW-UAP-D38 with companion video DOW-UAP-PR36.",
+      "eventType": "sighting",
+      "eventDate": "2020-05-14",
+      "dateDisplay": "May 14, 2020",
+      "location": {
+        "name": "Persian Gulf",
+        "region": "Middle East",
+        "country": "International waters",
+        "lat": 26.5,
+        "lng": 51.5
+      },
+      "sourceName": "U.S. Department of War — AARO, PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "U.S. Navy",
+          "slug": "u-s-navy"
+        },
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2020s",
+          "slug": "2020s"
+        },
+        {
+          "name": "Range fouler",
+          "slug": "range-fouler"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/dow-uap-d38-persian-gulf-may-2020",
+      "updatedAt": "2026-05-11 10:53:33"
+    },
+    {
+      "slug": "dod-releases-three-videos-2020",
+      "title": "Department of Defense officially releases three Navy UAP videos",
+      "summary": "The Pentagon publicly releases three U.S. Navy gun-camera videos — 'FLIR1' (2004), 'GIMBAL' (2015), and 'GO FAST' (2015) — and confirms that the objects depicted remain unidentified. The release marks the first formal U.S. government acknowledgment of authentic military UAP imagery.",
+      "eventType": "document_release",
+      "eventDate": "2020-04-27",
+      "dateDisplay": "April 27, 2020",
+      "location": {
+        "name": "The Pentagon",
+        "region": "Virginia",
+        "country": "United States",
+        "lat": 38.8719,
+        "lng": -77.0563
+      },
+      "sourceName": "U.S. Department of Defense",
+      "sourceUrl": "https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+      "tags": [
+        {
+          "name": "U.S. Navy",
+          "slug": "u-s-navy"
+        },
+        {
+          "name": "Pentagon",
+          "slug": "pentagon"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/dod-releases-three-videos-2020",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "nyt-aatip-story-2017",
+      "title": "New York Times reveals the Pentagon's AATIP program",
+      "summary": "Helene Cooper, Ralph Blumenthal, and Leslie Kean publish a front-page New York Times investigation revealing the existence of the Department of Defense's Advanced Aerospace Threat Identification Program. The story includes a release of the 'FLIR1' video and on-the-record statements from former AATIP director Luis Elizondo.",
+      "eventType": "report",
+      "eventDate": "2017-12-16",
+      "dateDisplay": "December 16, 2017",
+      "location": {
+        "name": "New York",
+        "region": "New York",
+        "country": "United States",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "sourceName": "The New York Times",
+      "sourceUrl": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html",
+      "tags": [
+        {
+          "name": "Pentagon",
+          "slug": "pentagon"
+        },
+        {
+          "name": "AATIP",
+          "slug": "aatip"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Luis Elizondo",
+          "slug": "luis-elizondo"
+        },
+        {
+          "name": "Christopher Mellon",
+          "slug": "christopher-mellon"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/nyt-aatip-story-2017",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "pursue-dow-uap-d55-mission-report-syria-november-2016",
+      "title": "Mission Report: Syria, November 2016 (DOW-UAP-D55)",
+      "summary": "This document is a mission briefing summarizing an observation of Unidentified Anomalous Phenomena (UAP) by a U.S. military platform near Latakia, Syria. A U.S. military pilot flying a P-8A aircraft reported observing an object via the aircraft’s EO/IR sensor, which they characterized as appearing to be in “sea skim mode,” traveling at approximately 500 knots (575 mph) on a southeasterly heading. The P-8A lost visual contact with the object after two minutes. All descriptive and estimative langu",
+      "eventType": "report",
+      "eventDate": "2016-11-18",
+      "dateDisplay": "2016-11-18",
+      "location": {
+        "name": "Syria",
+        "region": null,
+        "country": "Syria",
+        "lat": 34.8,
+        "lng": 38.99
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d55-mission-report-syria-november-2016.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2010s",
+          "slug": "2010s"
+        },
+        {
+          "name": "Middle East",
+          "slug": "middle-east"
+        },
+        {
+          "name": "MISREP (Mission Report)",
+          "slug": "mission-report-misrep"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d55-mission-report-syria-november-2016",
+      "updatedAt": "2026-05-12 11:47:49"
+    },
+    {
+      "slug": "east-coast-incursions-2014-2015",
+      "title": "Routine UAP incursions reported off the U.S. East Coast",
+      "summary": "F/A-18F crews assigned to Strike Fighter Squadron 11, operating from Naval Air Station Oceana, report routine encounters with UAP off the U.S. East Coast. Two of the three Pentagon-released videos — 'GIMBAL' and 'GO FAST' — are recorded during this period.",
+      "eventType": "sighting",
+      "eventDate": "2015-01-21",
+      "dateDisplay": "2014–2015",
+      "location": {
+        "name": "Off the coast of Jacksonville",
+        "region": "Florida",
+        "country": "United States",
+        "lat": 30.55,
+        "lng": -78.7
+      },
+      "sourceName": "U.S. Navy / Department of Defense",
+      "sourceUrl": "https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+      "tags": [
+        {
+          "name": "U.S. Navy",
+          "slug": "u-s-navy"
+        },
+        {
+          "name": "Pentagon",
+          "slug": "pentagon"
+        },
+        {
+          "name": "AATIP",
+          "slug": "aatip"
+        },
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Ryan Graves",
+          "slug": "ryan-graves"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/east-coast-incursions-2014-2015",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "dow-uap-pr38-middle-east-2013",
+      "title": "DoW PR38: 'eight-pointed star' formation, Middle East, 2013",
+      "summary": "The oldest sensor video in PURSUE Release 01 — a 1-minute-46-second AARO clip from 2013 — shows what military observers described as an 'eight-pointed star formation' of objects over a Middle Eastern theater of operations.",
+      "eventType": "sighting",
+      "eventDate": "2013-06-15",
+      "dateDisplay": "2013",
+      "location": {
+        "name": "The Pentagon",
+        "region": "Virginia",
+        "country": "United States",
+        "lat": 38.8719,
+        "lng": -77.0563
+      },
+      "sourceName": "U.S. Department of War — AARO, PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "Americas",
+          "slug": "americas"
+        },
+        {
+          "name": "2010s",
+          "slug": "2010s"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/dow-uap-pr38-middle-east-2013",
+      "updatedAt": "2026-05-11 10:53:32"
+    },
+    {
+      "slug": "stephenville-lights-2008",
+      "title": "Stephenville sightings tracked by FAA radar",
+      "summary": "Dozens of residents around Stephenville, Texas, report large, fast-moving, brightly lit objects in the night sky. A subsequent FOIA release of FAA radar data confirms anomalous tracks consistent with witness reports.",
+      "eventType": "sighting",
+      "eventDate": "2008-01-08",
+      "dateDisplay": "January 8, 2008",
+      "location": {
+        "name": "Stephenville",
+        "region": "Texas",
+        "country": "United States",
+        "lat": 32.2207,
+        "lng": -98.2023
+      },
+      "sourceName": "2008 Stephenville, Texas UFO sightings — Wikipedia (compiling FAA FOIA release and MUFON case file)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2008_Stephenville,_Texas,_UFO_sightings",
+      "tags": [
+        {
+          "name": "Radar Confirmed",
+          "slug": "radar"
+        },
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "FOIA",
+          "slug": "foia"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/stephenville-lights-2008",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "ohare-2006",
+      "title": "Ground crews and pilots report disc above O'Hare gate C-17",
+      "summary": "United Airlines ground personnel, mechanics, and pilots at Chicago O'Hare International Airport report a metallic, disc-shaped object hovering at low altitude above gate C-17, then ascending rapidly through the cloud deck. The Federal Aviation Administration confirms the report but declines to investigate.",
+      "eventType": "sighting",
+      "eventDate": "2006-11-07",
+      "dateDisplay": "November 7, 2006",
+      "location": {
+        "name": "O'Hare International Airport",
+        "region": "Illinois",
+        "country": "United States",
+        "lat": 41.9786,
+        "lng": -87.9048
+      },
+      "sourceName": "2006 O'Hare International Airport UFO sighting — Wikipedia (compiling Chicago Tribune reporting and FAA FOIA release)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2006_O%27Hare_International_Airport_UFO_sighting",
+      "tags": [
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Civilian Aviation",
+          "slug": "civilian-aviation"
+        },
+        {
+          "name": "FOIA",
+          "slug": "foia"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/ohare-2006",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "uss-nimitz-tic-tac-2004",
+      "title": "USS Nimitz strike group reports the 'Tic Tac' encounter",
+      "summary": "Aircrews from the USS Nimitz Carrier Strike Group report repeated radar contacts and a daylight visual encounter with a small, white, smooth, Tic Tac–shaped object during a training exercise in the Pacific. One of three Pentagon videos later released by the Department of Defense (FLIR1) documents a portion of the event.",
+      "eventType": "sighting",
+      "eventDate": "2004-11-14",
+      "dateDisplay": "November 14, 2004",
+      "location": {
+        "name": "Off the coast of San Diego",
+        "region": "California",
+        "country": "United States",
+        "lat": 31.71,
+        "lng": -119.45
+      },
+      "sourceName": "U.S. Navy / Department of Defense",
+      "sourceUrl": "https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+      "tags": [
+        {
+          "name": "U.S. Navy",
+          "slug": "u-s-navy"
+        },
+        {
+          "name": "Pentagon",
+          "slug": "pentagon"
+        },
+        {
+          "name": "AATIP",
+          "slug": "aatip"
+        },
+        {
+          "name": "Radar Confirmed",
+          "slug": "radar"
+        },
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Cmdr. David Fravor (Ret.)",
+          "slug": "david-fravor"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/uss-nimitz-tic-tac-2004",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "pursue-059uap00012",
+      "title": "State Department UAP Cable 4, Ashgabat, Turkmenistan, November 5, 2004",
+      "summary": "UFOlogists of Turkmenistan has gained a positive reputation as a reliable partner for the United States in Turkmenistan to the bemusement of the cable’s author in the build up of civil society organizations within the country.  The reputation has become earned because everyone in Turkmenistan, apparently, “is interested in UFOs.”",
+      "eventType": "official_statement",
+      "eventDate": "2004-11-05",
+      "dateDisplay": "2004-11-05",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/059uap00012.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "State Department",
+          "slug": "state-department"
+        },
+        {
+          "name": "2000s",
+          "slug": "2000s"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-059uap00012",
+      "updatedAt": "2026-05-12 11:43:34"
+    },
+    {
+      "slug": "pursue-059uap00011",
+      "title": "State Department UAP Cable 3, Tbilisi, Georgia, October 30, 2001",
+      "summary": "On October 28-29, there was an incident alleged by the Georgian Foreign Ministry that Russian aircraft had violated Georgian airspace and bombed areas of the Kodori Gorge.  Russians denied any of the claims and said that it could have been UFOs.  Cable authors note that Russians typically engage in the “bold lie” when they wish to conceal actions.",
+      "eventType": "official_statement",
+      "eventDate": "2001-10-28",
+      "dateDisplay": "2001-10-28",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/059uap00011.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "State Department",
+          "slug": "state-department"
+        },
+        {
+          "name": "2000s",
+          "slug": "2000s"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-059uap00011",
+      "updatedAt": "2026-05-12 11:43:33"
+    },
+    {
+      "slug": "pursue-dow-uap-d49-launch-summary-february-2000",
+      "title": "Launch Summary: Vandenberg AFB, 2000 (DOW-UAP-D49)",
+      "summary": "This report summarizes the historical record of launches occurring at Vandenberg Air Force Base between 1958 and 2000.",
+      "eventType": "report",
+      "eventDate": "2000-02-03",
+      "dateDisplay": "2000-02-03",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d49-launch-summary-february-2000.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "2000s",
+          "slug": "2000s"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d49-launch-summary-february-2000",
+      "updatedAt": "2026-05-12 11:47:49"
+    },
+    {
+      "slug": "phoenix-lights-1997",
+      "title": "Phoenix Lights observed across Arizona",
+      "summary": "Thousands of witnesses across Arizona report a large V-shaped formation of lights moving slowly southward over the state, followed by a separate set of stationary lights over Phoenix. The Air Force later attributes the second event to flares dropped during a training exercise; the first remains unexplained.",
+      "eventType": "sighting",
+      "eventDate": "1997-03-13",
+      "dateDisplay": "March 13, 1997",
+      "location": {
+        "name": "Phoenix",
+        "region": "Arizona",
+        "country": "United States",
+        "lat": 33.4484,
+        "lng": -112.074
+      },
+      "sourceName": "Phoenix Lights — Wikipedia (compiling Office of the Arizona Governor statements, 2007)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Phoenix_Lights",
+      "tags": [
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/phoenix-lights-1997",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "pursue-dow-uap-d48-report-september-1996",
+      "title": "DOW-UAP-D48, Department of the Air Force Report, 1996",
+      "summary": "This report describes the Modeling of Unlikely Space-Booster Failures in Risk Calculations, documenting historical launch failure modes and recommending corrective actions to address them using novel modelling techniques.",
+      "eventType": "report",
+      "eventDate": "1996-09-10",
+      "dateDisplay": "1996-09-10",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dow-uap-d48-report-september-1996.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "1990s",
+          "slug": "1990s"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d48-report-september-1996",
+      "updatedAt": "2026-05-12 11:43:32"
+    },
+    {
+      "slug": "ariel-school-1994",
+      "title": "Ariel School encounter outside Harare",
+      "summary": "Approximately sixty-two children at the Ariel School in Ruwa, Zimbabwe, report observing a silvery craft and small humanoid figures during morning recess. The case is documented by Harvard psychiatrist Dr. John E. Mack and remains one of the most-cited mass-witness child reports.",
+      "eventType": "sighting",
+      "eventDate": "1994-09-16",
+      "dateDisplay": "September 16, 1994",
+      "location": {
+        "name": "Ruwa",
+        "region": "Mashonaland East",
+        "country": "Zimbabwe",
+        "lat": -17.8761,
+        "lng": 31.2271
+      },
+      "sourceName": "Ariel School UFO incident — Wikipedia (compiling Dr. John E. Mack Institute archive)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Ariel_School_UFO_incident",
+      "tags": [
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "International",
+          "slug": "international"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/ariel-school-1994",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "state-cable-kazakhstan-1994",
+      "title": "State Department cable: 747 + 3 Americans witness 'enormous' bright light at 41,000 ft",
+      "summary": "A 1994 U.S. State Department diplomatic cable from Kazakhstan, declassified in PURSUE Release 01, records a Tajik Air 747 captain plus three U.S. citizens on board observing what the cable describes as a 'bright light of enormous intensity' at 41,000 feet over Kazakh airspace.",
+      "eventType": "official_statement",
+      "eventDate": "1994-01-27",
+      "dateDisplay": "January 27, 1994",
+      "location": {
+        "name": "Kazakhstan airspace",
+        "region": "Central Asia",
+        "country": "Kazakhstan",
+        "lat": 48,
+        "lng": 67
+      },
+      "sourceName": "U.S. State Department / Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Civilian Aviation",
+          "slug": "civilian-aviation"
+        },
+        {
+          "name": "International",
+          "slug": "international"
+        },
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "State Department",
+          "slug": "state-department"
+        },
+        {
+          "name": "1990s",
+          "slug": "1990s"
+        },
+        {
+          "name": "Central Asia",
+          "slug": "central-asia"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/state-cable-kazakhstan-1994",
+      "updatedAt": "2026-05-11 10:53:33"
+    },
+    {
+      "slug": "belgian-uap-wave-1989",
+      "title": "Belgian UAP wave begins",
+      "summary": "Hundreds of witnesses across Belgium, including dozens of national and federal police officers, report large, silent, triangular craft moving at low altitude over the country. The Belgian Air Force scrambles F-16s on 30–31 March 1990 and obtains a brief radar lock that is later attributed to anomalous propagation.",
+      "eventType": "sighting",
+      "eventDate": "1989-11-29",
+      "dateDisplay": "November 29, 1989",
+      "location": {
+        "name": "Brussels",
+        "region": null,
+        "country": "Belgium",
+        "lat": 50.8503,
+        "lng": 4.3517
+      },
+      "sourceName": "Belgian UFO wave — Wikipedia (compiling Belgian Air Component press materials, 1990 and 2011)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Belgian_UFO_wave",
+      "tags": [
+        {
+          "name": "Radar Confirmed",
+          "slug": "radar"
+        },
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "International",
+          "slug": "international"
+        },
+        {
+          "name": "Law Enforcement",
+          "slug": "law-enforcement"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/belgian-uap-wave-1989",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "jal-1628-alaska-1986",
+      "title": "Japan Airlines Flight 1628 reports objects over Alaska",
+      "summary": "Capt. Kenju Terauchi reports two small craft and a much larger, walnut-shaped 'mothership' alongside a Japan Airlines 747 cargo flight transiting Alaskan airspace. The objects are corroborated by FAA ground radar at Anchorage Center.",
+      "eventType": "sighting",
+      "eventDate": "1986-11-17",
+      "dateDisplay": "November 17, 1986",
+      "location": {
+        "name": "Near Anchorage",
+        "region": "Alaska",
+        "country": "United States",
+        "lat": 62,
+        "lng": -150
+      },
+      "sourceName": "Japan Airlines Flight 1628 incident — Wikipedia (compiling FAA FOIA release materials)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Japan_Airlines_Flight_1628_incident",
+      "tags": [
+        {
+          "name": "Radar Confirmed",
+          "slug": "radar"
+        },
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Civilian Aviation",
+          "slug": "civilian-aviation"
+        },
+        {
+          "name": "FOIA",
+          "slug": "foia"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/jal-1628-alaska-1986",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "pursue-dos-uap-d1-cable-1-papua-new-guinea-january-1985",
+      "title": "State Department UAP Cable 1, Papua New Guinea, January 28, 1985",
+      "summary": "This document is a U.S. Department of State diplomatic cable from the U.S. Embassy in Port Moresby, Papua New Guinea to USCINCPAC (United States Indo-Pacific Command) at Honolulu, HI on January 28, 1985.  The cable reports that the U.S. Embassy to Papua New Guinea received an inquiry from the host nation’s intelligence services regarding reports of high-altitude, high-speed aircraft in Papua New Guinean airspace on the evening of January 24, 1985. The cable refers to a representative of the loca",
+      "eventType": "official_statement",
+      "eventDate": "1985-01-24",
+      "dateDisplay": "1985-01-24",
+      "location": {
+        "name": "Papua New Guinea",
+        "region": null,
+        "country": "Papua New Guinea",
+        "lat": -6.31,
+        "lng": 143.96
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "State Department",
+          "slug": "state-department"
+        },
+        {
+          "name": "1980s",
+          "slug": "1980s"
+        },
+        {
+          "name": "Indo-Pacific",
+          "slug": "indo-pacific"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-dos-uap-d1-cable-1-papua-new-guinea-january-1985",
+      "updatedAt": "2026-05-12 11:47:49"
+    },
+    {
+      "slug": "cash-landrum-1980",
+      "title": "Cash–Landrum incident in East Texas",
+      "summary": "Three Texas residents report a close-range encounter with a diamond-shaped object emitting intense heat, escorted overhead by approximately twenty-three twin-rotor military helicopters. All three subsequently report serious medical injuries.",
+      "eventType": "sighting",
+      "eventDate": "1980-12-29",
+      "dateDisplay": "December 29, 1980",
+      "location": {
+        "name": "Stephenville",
+        "region": "Texas",
+        "country": "United States",
+        "lat": 32.2207,
+        "lng": -98.2023
+      },
+      "sourceName": "Cash–Landrum incident — Wikipedia (compiling court records, U.S. District Court for the Southern District of Texas)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident",
+      "tags": [
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Law Enforcement",
+          "slug": "law-enforcement"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Betty Cash",
+          "slug": "betty-cash"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/cash-landrum-1980",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "rendlesham-1980",
+      "title": "U.S. Air Force personnel report close encounter at Rendlesham Forest",
+      "summary": "U.S. Air Force security personnel stationed at the twin Royal Air Force bases of Bentwaters and Woodbridge report a triangular, metallic craft on the ground in adjacent Rendlesham Forest, followed by aerial light phenomena two nights later. The deputy base commander signs a memorandum to the U.K. Ministry of Defence summarizing the events.",
+      "eventType": "sighting",
+      "eventDate": "1980-12-26",
+      "dateDisplay": "December 26–28, 1980",
+      "location": {
+        "name": "Rendlesham Forest",
+        "region": "Suffolk",
+        "country": "United Kingdom",
+        "lat": 52.0843,
+        "lng": 1.4346
+      },
+      "sourceName": "U.K. Ministry of Defence — Halt Memo",
+      "sourceUrl": "https://www.cia.gov/readingroom/document/cia-rdp96-00788r001500070016-0",
+      "tags": [
+        {
+          "name": "U.S. Air Force",
+          "slug": "u-s-air-force"
+        },
+        {
+          "name": "Cold War",
+          "slug": "cold-war"
+        },
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "International",
+          "slug": "international"
+        },
+        {
+          "name": "FOIA",
+          "slug": "foia"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/rendlesham-1980",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "tehran-incident-1976",
+      "title": "Imperial Iranian Air Force F-4 reports loss of weapons systems near Tehran",
+      "summary": "Two Imperial Iranian Air Force F-4 Phantoms intercept an unidentified object over Tehran. Both pilots report electronic-system failures, and one reports temporary loss of weapons control. A four-page Defense Intelligence Agency report on the case is later released under FOIA.",
+      "eventType": "sighting",
+      "eventDate": "1976-09-19",
+      "dateDisplay": "September 19, 1976",
+      "location": {
+        "name": "Tehran",
+        "region": null,
+        "country": "Iran",
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "sourceName": "Defense Intelligence Agency (DIA) FOIA release",
+      "sourceUrl": "https://www.cia.gov/readingroom/document/cia-rdp83-00415r000300010013-7",
+      "tags": [
+        {
+          "name": "Cold War",
+          "slug": "cold-war"
+        },
+        {
+          "name": "Radar Confirmed",
+          "slug": "radar"
+        },
+        {
+          "name": "International",
+          "slug": "international"
+        },
+        {
+          "name": "FOIA",
+          "slug": "foia"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/tehran-incident-1976",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "pursue-nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973",
+      "title": "NASA-UAP-D5, Apollo 17 Crew Debriefing for Science, 1973",
+      "summary": "Apollo 17 was the ninth crewed U.S. mission to the Moon, and the sixth to land Astronauts on the lunar surface. This document is an excerpt from the Apollo 17 Crew Debriefing for Science on January 8, 1973, in which Dick Henry, co-investigator on the ultraviolet experiment on Apollo 17, discusses seeing results that were unexpected.  •\tPages 119-120. “One of the most exciting results of X-ray astronomy was the fact that an X-ray background was observed over the sky that nobody had expected, and ",
+      "eventType": "document_release",
+      "eventDate": "1973-06-15",
+      "dateDisplay": "1973-06-15",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "NASA",
+          "slug": "nasa"
+        },
+        {
+          "name": "1970s",
+          "slug": "1970s"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973",
+      "updatedAt": "2026-05-12 11:43:31"
+    },
+    {
+      "slug": "skylab-uap-transcripts-1973-1974",
+      "title": "Skylab mission transcripts — UAP observations from low-Earth orbit",
+      "summary": "NASA Skylab program mission transcripts (1973–1974) released by the Department of War as part of PURSUE Release 01. Astronauts logged in-mission observations of unidentified objects from a sustained orbital platform.",
+      "eventType": "document_release",
+      "eventDate": "1973-05-14",
+      "dateDisplay": "1973–1974",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d7-skylab-transcripts-1973-1974.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "NASA",
+          "slug": "nasa"
+        },
+        {
+          "name": "Skylab",
+          "slug": "skylab"
+        },
+        {
+          "name": "1970s",
+          "slug": "1970s"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/skylab-uap-transcripts-1973-1974",
+      "updatedAt": "2026-05-12 11:43:31"
+    },
+    {
+      "slug": "apollo-17-three-dot-formation-1972",
+      "title": "Apollo 17: three dots in triangular formation, lunar sky, 1972",
+      "summary": "A NASA still from Apollo 17 — released for the first time as part of PURSUE Release 01 — shows three small dots in a tight triangular formation in the lunar sky. Released alongside Apollo 17 crew transcripts and technical debriefings.",
+      "eventType": "sighting",
+      "eventDate": "1972-12-11",
+      "dateDisplay": "December 1972",
+      "location": {
+        "name": "Lunar surface",
+        "region": "Moon",
+        "country": "Moon",
+        "lat": 0,
+        "lng": 0
+      },
+      "sourceName": "NASA / U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "NASA",
+          "slug": "nasa"
+        },
+        {
+          "name": "Triangular UAP",
+          "slug": "triangular-uap"
+        },
+        {
+          "name": "1970s",
+          "slug": "1970s"
+        },
+        {
+          "name": "Space",
+          "slug": "space"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Eugene Cernan",
+          "slug": "eugene-cernan"
+        },
+        {
+          "name": "Ronald Evans",
+          "slug": "ronald-evans-astronaut"
+        },
+        {
+          "name": "Harrison Schmitt",
+          "slug": "harrison-schmitt"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/apollo-17-three-dot-formation-1972",
+      "updatedAt": "2026-05-11 10:53:33"
+    },
+    {
+      "slug": "apollo-12-lunar-imagery-1969",
+      "title": "Apollo 12: anomalous imagery from the November 1969 lunar mission",
+      "summary": "Five NASA-archived photographs (VM1–VM5) and the Apollo 12 mission transcript released as part of PURSUE Release 01 (May 2026). The first public release of these specific images.",
+      "eventType": "document_release",
+      "eventDate": "1969-11-19",
+      "dateDisplay": "November 1969",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d1-apollo-12-transcript-1969.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "NASA",
+          "slug": "nasa"
+        },
+        {
+          "name": "Apollo Program",
+          "slug": "apollo-program"
+        },
+        {
+          "name": "1960s",
+          "slug": "1960s"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Pete Conrad",
+          "slug": "pete-conrad"
+        },
+        {
+          "name": "Richard F. Gordon Jr.",
+          "slug": "richard-f-gordon-jr"
+        },
+        {
+          "name": "Alan Bean",
+          "slug": "alan-bean"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/apollo-12-lunar-imagery-1969",
+      "updatedAt": "2026-05-12 11:43:30"
+    },
+    {
+      "slug": "apollo-11-crew-debriefing-1969",
+      "title": "Apollo 11 technical crew debriefing references anomalous observations",
+      "summary": "NASA technical crew debriefing transcript from Apollo 11 (July 1969), released by the Department of War as part of PURSUE Release 01. Contains crew references to in-flight observations of unidentified objects.",
+      "eventType": "document_release",
+      "eventDate": "1969-07-31",
+      "dateDisplay": "July 1969",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "NASA",
+          "slug": "nasa"
+        },
+        {
+          "name": "Apollo Program",
+          "slug": "apollo-program"
+        },
+        {
+          "name": "1960s",
+          "slug": "1960s"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Buzz Aldrin",
+          "slug": "buzz-aldrin"
+        },
+        {
+          "name": "Neil Armstrong",
+          "slug": "neil-armstrong"
+        },
+        {
+          "name": "Michael Collins",
+          "slug": "michael-collins-astronaut"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/apollo-11-crew-debriefing-1969",
+      "updatedAt": "2026-05-12 11:42:30"
+    },
+    {
+      "slug": "us-information-agency-ufos-defense-1968",
+      "title": "USIA paper — 'UFO's and Defense: What Should We Prepare For?' (1968)",
+      "summary": "U.S. Information Agency policy paper considering whether UFO phenomena required structured national-defense preparation. A rare late-Cold-War USIA contribution to the UAP question.",
+      "eventType": "report",
+      "eventDate": "1968-01-01",
+      "dateDisplay": "1968",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/255_413270_ufo's_and_defense_what_should_we_prepare_for.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Us Information Agency",
+          "slug": "us-information-agency"
+        },
+        {
+          "name": "1960s",
+          "slug": "1960s"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/us-information-agency-ufos-defense-1968",
+      "updatedAt": "2026-05-12 11:47:49"
+    },
+    {
+      "slug": "westall-1966",
+      "title": "Westall mass sighting in Melbourne",
+      "summary": "More than two hundred students and staff at Westall High School in suburban Melbourne report observing a low, disc-shaped object descend behind a stand of pine trees, then ascend rapidly. The case is widely cited as Australia's most-witnessed UAP event.",
+      "eventType": "sighting",
+      "eventDate": "1966-04-06",
+      "dateDisplay": "April 6, 1966",
+      "location": {
+        "name": "Westall",
+        "region": "Victoria",
+        "country": "Australia",
+        "lat": -37.943,
+        "lng": 145.114
+      },
+      "sourceName": "National Archives of Australia (RAAF UFO files)",
+      "sourceUrl": "https://www.naa.gov.au/explore-collection/defence-and-war-service/unidentified-flying-objects",
+      "tags": [
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "International",
+          "slug": "international"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/westall-1966",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "gemini-7-bogey-1965",
+      "title": "Gemini 7: astronauts Borman and Lovell report a 'bogey' in orbit",
+      "summary": "December 1965 NASA Gemini 7 air-to-ground transcripts in which crew Frank Borman and Jim Lovell report tracking an unidentified 'bogey' in orbit. Released by the Department of War in PURSUE Release 01.",
+      "eventType": "witness_testimony",
+      "eventDate": "1965-12-04",
+      "dateDisplay": "December 1965",
+      "location": {
+        "name": "Low Earth Orbit",
+        "region": null,
+        "country": "Space",
+        "lat": 0,
+        "lng": 0
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/nasa-uap-d3-gemini-7-transcript-1965.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "NASA",
+          "slug": "nasa"
+        },
+        {
+          "name": "Gemini Program",
+          "slug": "gemini-program"
+        },
+        {
+          "name": "Space",
+          "slug": "space"
+        },
+        {
+          "name": "1960s",
+          "slug": "1960s"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Frank Borman",
+          "slug": "frank-borman"
+        },
+        {
+          "name": "Jim Lovell",
+          "slug": "jim-lovell"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/gemini-7-bogey-1965",
+      "updatedAt": "2026-05-12 11:47:48"
+    },
+    {
+      "slug": "exeter-incident-1965",
+      "title": "Exeter incident draws police and Air Force investigation",
+      "summary": "A New Hampshire teenager and two Exeter, New Hampshire, police officers report a large, silent, brightly lit object hovering at low altitude over a residential field. The Air Force initially attributes the sighting to a high-altitude refueling mission, then revises the case to 'unidentified.'",
+      "eventType": "sighting",
+      "eventDate": "1965-09-03",
+      "dateDisplay": "September 3, 1965",
+      "location": {
+        "name": "Exeter",
+        "region": "New Hampshire",
+        "country": "United States",
+        "lat": 42.9814,
+        "lng": -70.9478
+      },
+      "sourceName": "Project Blue Book Archive (National Archives)",
+      "sourceUrl": "https://www.archives.gov/research/military/air-force/ufos",
+      "tags": [
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Law Enforcement",
+          "slug": "law-enforcement"
+        },
+        {
+          "name": "Project Blue Book",
+          "slug": "project-blue-book"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/exeter-incident-1965",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "state-dept-sp-files-1963",
+      "title": "State Department SP-16 files — July 1963 UAP correspondence",
+      "summary": "Two State Department files from the SP series (Bureau of Politico-Military Affairs / Office of Special Political Affairs), dated July 1963, addressing UAP-related diplomatic correspondence.",
+      "eventType": "document_release",
+      "eventDate": "1963-07-18",
+      "dateDisplay": "July 1963",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/59_214434_sp_16_7.18.1963.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "State Department",
+          "slug": "state-department"
+        },
+        {
+          "name": "1960s",
+          "slug": "1960s"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/state-dept-sp-files-1963",
+      "updatedAt": "2026-05-12 11:43:28"
+    },
+    {
+      "slug": "kelly-hopkinsville-1955",
+      "title": "Kelly–Hopkinsville encounter reported by Sutton family",
+      "summary": "Eleven members of an extended family in rural Kentucky report being besieged through the night by small, silver-coated humanoid figures. The Hopkinsville Police, Kentucky State Police, and U.S. Air Force investigate.",
+      "eventType": "sighting",
+      "eventDate": "1955-08-21",
+      "dateDisplay": "August 21, 1955",
+      "location": {
+        "name": "Kelly–Hopkinsville",
+        "region": "Kentucky",
+        "country": "United States",
+        "lat": 36.8956,
+        "lng": -87.4753
+      },
+      "sourceName": "Project Blue Book Archive (National Archives)",
+      "sourceUrl": "https://www.archives.gov/research/military/air-force/ufos",
+      "tags": [
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Law Enforcement",
+          "slug": "law-enforcement"
+        },
+        {
+          "name": "Project Blue Book",
+          "slug": "project-blue-book"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/kelly-hopkinsville-1955",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "afosi-incident-summaries-1955",
+      "title": "AFOSI box 7: 233 incident summaries from the Project Blue Book era (1955)",
+      "summary": "Three-volume Air Force Office of Special Investigations dossier (Box 7) containing 233 incident summary reports from 1955. Released by the Department of War as part of PURSUE Release 01.",
+      "eventType": "document_release",
+      "eventDate": "1955-01-01",
+      "dateDisplay": "1955",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/38_143685_box7_incident_summaries_1-100.pdf",
+      "tags": [
+        {
+          "name": "U.S. Air Force",
+          "slug": "u-s-air-force"
+        },
+        {
+          "name": "Project Blue Book",
+          "slug": "project-blue-book"
+        },
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Afosi",
+          "slug": "afosi"
+        },
+        {
+          "name": "Spherical UAP / orbs",
+          "slug": "spherical-uap"
+        },
+        {
+          "name": "1950s",
+          "slug": "1950s"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/afosi-incident-summaries-1955",
+      "updatedAt": "2026-05-12 11:47:48"
+    },
+    {
+      "slug": "washington-dc-flyover-1952",
+      "title": "Radar tracks unidentified objects over Washington, D.C.",
+      "summary": "Across two consecutive weekends, multiple radar installations and visual observers track unidentified objects above the restricted airspace surrounding the U.S. Capitol and White House. The Air Force convenes its largest press conference since World War II to address the events.",
+      "eventType": "sighting",
+      "eventDate": "1952-07-19",
+      "dateDisplay": "July 19–26, 1952",
+      "location": {
+        "name": "Washington",
+        "region": "District of Columbia",
+        "country": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "sourceName": "Project Blue Book Archive (National Archives)",
+      "sourceUrl": "https://www.archives.gov/research/military/air-force/ufos",
+      "tags": [
+        {
+          "name": "U.S. Air Force",
+          "slug": "u-s-air-force"
+        },
+        {
+          "name": "Cold War",
+          "slug": "cold-war"
+        },
+        {
+          "name": "Radar Confirmed",
+          "slug": "radar"
+        },
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Project Blue Book",
+          "slug": "project-blue-book"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "J. Allen Hynek",
+          "slug": "j-allen-hynek"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/washington-dc-flyover-1952",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "state-intel-numerical-files-1948-1955",
+      "title": "State Dept intelligence collection files (1948–1955) — UAP entries",
+      "summary": "State Department numerical and intelligence-collection files spanning 1948–1955, with entries on UAP / flying-disc diplomatic reporting.",
+      "eventType": "document_release",
+      "eventDate": "1950-01-01",
+      "dateDisplay": "1948–1955",
+      "location": {
+        "name": "Netherlands",
+        "region": null,
+        "country": "Netherlands",
+        "lat": 52.13,
+        "lng": 5.29
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "State Department",
+          "slug": "state-department"
+        },
+        {
+          "name": "Europe",
+          "slug": "europe"
+        },
+        {
+          "name": "1950s",
+          "slug": "1950s"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/state-intel-numerical-files-1948-1955",
+      "updatedAt": "2026-05-12 11:47:48"
+    },
+    {
+      "slug": "fbi-detroit-field-office-1942-1957",
+      "title": "FBI Detroit field office — flying disc and UFO case files (1942–1957)",
+      "summary": "FBI Detroit field office investigative files 100-DE-26505 and 100-DE-18221, covering early-Cold-War flying disc and UFO reports across Michigan and the Great Lakes region. Released by the Department of War in PURSUE Release 01.",
+      "eventType": "document_release",
+      "eventDate": "1950-01-01",
+      "dateDisplay": "1942–1957",
+      "location": {
+        "name": "Detroit",
+        "region": "Michigan",
+        "country": "United States",
+        "lat": 42.33,
+        "lng": -83.05
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/65_hs1-101634279_100-de-26505.pdf",
+      "tags": [
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "FBI",
+          "slug": "fbi"
+        },
+        {
+          "name": "Early Cold War",
+          "slug": "early-cold-war"
+        },
+        {
+          "name": "Americas",
+          "slug": "americas"
+        },
+        {
+          "name": "1950s",
+          "slug": "1950s"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/fbi-detroit-field-office-1942-1957",
+      "updatedAt": "2026-05-12 11:47:44"
+    },
+    {
+      "slug": "afosi-flying-discs-1949",
+      "title": "AFOSI box 186 — 319.1 Flying Discs (1949)",
+      "summary": "Air Force Office of Special Investigations file box 186, folder 319.1 'Flying Discs' — 143 pages of 1949-era investigative material. One of the earliest organized USAF UAP file holdings.",
+      "eventType": "document_release",
+      "eventDate": "1949-06-01",
+      "dateDisplay": "1949",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/342_hs1-416511228_box186_319.1-flying-discs-1949.pdf",
+      "tags": [
+        {
+          "name": "U.S. Air Force",
+          "slug": "u-s-air-force"
+        },
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Afosi",
+          "slug": "afosi"
+        },
+        {
+          "name": "Spherical UAP / orbs",
+          "slug": "spherical-uap"
+        },
+        {
+          "name": "1940s",
+          "slug": "1940s"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/afosi-flying-discs-1949",
+      "updatedAt": "2026-05-12 11:47:48"
+    },
+    {
+      "slug": "mantell-incident-1948",
+      "title": "Capt. Thomas Mantell killed in F-51 crash while pursuing an unidentified object",
+      "summary": "Kentucky Air National Guard pilot Capt. Thomas Mantell is killed when his P-51 Mustang crashes during the pursuit of a large, slow-moving object reported above Godman Field. The Air Force eventually attributes the object to a Skyhook research balloon.",
+      "eventType": "sighting",
+      "eventDate": "1948-01-07",
+      "dateDisplay": "January 7, 1948",
+      "location": {
+        "name": "Godman Field",
+        "region": "Kentucky",
+        "country": "United States",
+        "lat": 37.9075,
+        "lng": -85.9722
+      },
+      "sourceName": "Project Blue Book Archive (National Archives)",
+      "sourceUrl": "https://www.archives.gov/research/military/air-force/ufos",
+      "tags": [
+        {
+          "name": "U.S. Air Force",
+          "slug": "u-s-air-force"
+        },
+        {
+          "name": "Cold War",
+          "slug": "cold-war"
+        },
+        {
+          "name": "Project Blue Book",
+          "slug": "project-blue-book"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/mantell-incident-1948",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "roswell-incident-1947",
+      "title": "Roswell Army Air Field announces recovery of a 'flying disc'",
+      "summary": "The Roswell Army Air Field public information officer issues a press release stating that the 509th Bomb Group has come into possession of a 'flying disc' recovered from a nearby ranch. Within twenty-four hours the Army retracts the statement and identifies the debris as a weather balloon.",
+      "eventType": "official_statement",
+      "eventDate": "1947-07-08",
+      "dateDisplay": "July 8, 1947",
+      "location": {
+        "name": "Roswell",
+        "region": "New Mexico",
+        "country": "United States",
+        "lat": 33.3943,
+        "lng": -104.523
+      },
+      "sourceName": "U.S. Air Force, 'The Roswell Report' (1995/1997)",
+      "sourceUrl": "https://www.govinfo.gov/content/pkg/GPO-CRPT-USAF-ROSWELL/pdf/GPO-CRPT-USAF-ROSWELL.pdf",
+      "tags": [
+        {
+          "name": "U.S. Air Force",
+          "slug": "u-s-air-force"
+        },
+        {
+          "name": "Cold War",
+          "slug": "cold-war"
+        },
+        {
+          "name": "FOIA",
+          "slug": "foia"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Maj. Jesse Marcel",
+          "slug": "jesse-marcel"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/roswell-incident-1947",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "kenneth-arnold-mount-rainier-1947",
+      "title": "Kenneth Arnold reports nine high-speed objects near Mount Rainier",
+      "summary": "Civilian pilot Kenneth Arnold reports nine crescent-shaped objects flying in formation near Mount Rainier at speeds he estimates at more than 1,200 mph. His description gives rise to the term 'flying saucer' and is widely treated as the start of the modern UFO era.",
+      "eventType": "sighting",
+      "eventDate": "1947-06-24",
+      "dateDisplay": "June 24, 1947",
+      "location": {
+        "name": "Roswell",
+        "region": "New Mexico",
+        "country": "United States",
+        "lat": 33.3943,
+        "lng": -104.523
+      },
+      "sourceName": "Project Blue Book Archive (National Archives)",
+      "sourceUrl": "https://www.archives.gov/research/military/air-force/ufos",
+      "tags": [
+        {
+          "name": "Civilian Aviation",
+          "slug": "civilian-aviation"
+        },
+        {
+          "name": "Project Blue Book",
+          "slug": "project-blue-book"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Kenneth Arnold",
+          "slug": "kenneth-arnold"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/kenneth-arnold-mount-rainier-1947",
+      "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "usaf-amc-pre-blue-book-1946-1948",
+      "title": "USAF / AMC general files — pre-Project Blue Book UFO investigations (1946–1948)",
+      "summary": "Air Materiel Command and Army Air Forces general files covering 1946–1948 UFO investigations conducted before Project Blue Book's formal establishment. Includes the Maury Island and Roswell-era investigative correspondence.",
+      "eventType": "document_release",
+      "eventDate": "1947-06-01",
+      "dateDisplay": "1946–1948",
+      "location": null,
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/medialink/ufo/release_1/18_6369445_general_1948_vol_1.pdf",
+      "tags": [
+        {
+          "name": "U.S. Air Force",
+          "slug": "u-s-air-force"
+        },
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Project Sign",
+          "slug": "project-sign"
+        },
+        {
+          "name": "1940s",
+          "slug": "1940s"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/usaf-amc-pre-blue-book-1946-1948",
+      "updatedAt": "2026-05-12 11:43:25"
+    },
+    {
+      "slug": "wwii-foo-fighters-1944-1945",
+      "title": "Foo Fighters: U.S. Army WWII reports from the 415th Night Fighter Squadron",
+      "summary": "PURSUE's earliest entry — wartime Department of War records from 1944-1945 documenting the 'foo fighter' encounters reported by U.S. Army Air Forces pilots over the European theater, with corroborating Air Ministry analysis.",
+      "eventType": "sighting",
+      "eventDate": "1944-12-01",
+      "dateDisplay": "1944–1945",
+      "location": {
+        "name": "The Pentagon",
+        "region": "Virginia",
+        "country": "United States",
+        "lat": 38.8719,
+        "lng": -77.0563
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "Cold War",
+          "slug": "cold-war"
+        },
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "Americas",
+          "slug": "americas"
+        },
+        {
+          "name": "1940s",
+          "slug": "1940s"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/wwii-foo-fighters-1944-1945",
+      "updatedAt": "2026-05-11 10:53:34"
+    }
+  ]
+}
