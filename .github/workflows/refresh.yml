@@ -1,0 +1,50 @@
+name: Refresh dataset
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-dataset
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch dataset
+        run: |
+          set -euo pipefail
+          curl --fail --retry 3 --retry-delay 5 --silent --show-error \
+               --output uap-events.csv \
+               "https://disclosurearchives.com/data/uap-events.csv"
+          curl --fail --retry 3 --retry-delay 5 --silent --show-error \
+               --output uap-events.json \
+               "https://disclosurearchives.com/data/uap-events.json"
+          csv_rows=$(($(wc -l < uap-events.csv) - 1))
+          json_count=$(python3 -c 'import json,sys; print(len(json.load(open("uap-events.json"))["events"]))')
+          test "$csv_rows" -ge 10 || { echo "CSV too small"; exit 1; }
+          test "$json_count" -ge 10 || { echo "JSON too small"; exit 1; }
+
+      - name: Commit if changed
+        run: |
+          set -euo pipefail
+          git config user.name "Disclosure Archives Bot"
+          git config user.email "bot@disclosurearchives.com"
+          git add uap-events.csv uap-events.json
+          if git diff --cached --quiet; then
+            echo "No changes - nothing to commit."
+            exit 0
+          fi
+          count=$(python3 -c 'import json; print(len(json.load(open("uap-events.json"))["events"]))')
+          today=$(date -u +%Y-%m-%d)
+          git commit -m "data: nightly refresh ${today} (${count} events)"
+          git push origin main
+
