@@ -3,9 +3,80 @@
   "description": "A documented record of unidentified aerial phenomena: government hearings, declassified documents, named witness testimony, and major sightings.",
   "canonical": "https://disclosurearchives.com/",
   "license": "Editorial copy CC-BY 4.0 — attribution to Disclosure Archives required. Primary-source links retain their original publisher's terms.",
-  "generatedAt": "2026-05-22T12:25:28.072Z",
-  "eventCount": 119,
+  "generatedAt": "2026-05-23T08:57:19.810Z",
+  "eventCount": 130,
   "events": [
+    {
+      "slug": "pursue-release-02-may-2026",
+      "title": "PURSUE Release 02: Department of War declassifies 64 more UAP files",
+      "summary": "Exactly 14 days after PURSUE Release 01, the U.S. Department of War publishes a second tranche of declassified UAP records through war.gov/UFO: 51 sensor videos (the DOW-UAP-PR050–PR099 series), 7 NASA crew audio files, and 6 documents. The centerpiece is a first-person USPER narrative from a currently-serving senior U.S. intelligence officer describing a one-hour, multi-witness UAP encounter from a U.S. military helicopter in late 2025.",
+      "eventType": "document_release",
+      "eventDate": "2026-05-22",
+      "dateDisplay": "May 22, 2026",
+      "location": {
+        "name": "The Pentagon",
+        "region": "Virginia",
+        "country": "United States",
+        "lat": 38.8719,
+        "lng": -77.0563
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 02",
+      "sourceUrl": "https://www.war.gov/News/Releases/Release/Article/4499305/department-of-war-publishes-second-release-of-unidentified-anomalous-phenomena/",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "FBI",
+          "slug": "fbi"
+        },
+        {
+          "name": "NASA",
+          "slug": "nasa"
+        },
+        {
+          "name": "Trump Administration",
+          "slug": "trump-administration"
+        },
+        {
+          "name": "PURSUE Release 02",
+          "slug": "pursue-release-02"
+        },
+        {
+          "name": "ODNI",
+          "slug": "odni"
+        },
+        {
+          "name": "CIA",
+          "slug": "cia"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Donald Trump",
+          "slug": "donald-trump"
+        },
+        {
+          "name": "Pete Hegseth",
+          "slug": "pete-hegseth"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/pursue-release-02-may-2026",
+      "updatedAt": "2026-05-22T20:54:13.153Z"
+    },
     {
       "slug": "pursue-dow-uap-d54-mission-report-mediterranean-sea-na",
       "title": "Mission Report: Mediterranean Sea, NA (DOW-UAP-D54)",
@@ -289,6 +360,48 @@
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr49-army-2026",
       "updatedAt": "2026-05-11 10:53:34"
+    },
+    {
+      "slug": "senior-usic-officer-orange-orbs-2025",
+      "title": "Senior U.S. intelligence officer: an hour of orange orbs from a military helicopter",
+      "summary": "A first-person USPER narrative published as the centerpiece of PURSUE Release 02 by a currently-serving senior U.S. intelligence officer who describes 'a series of close UAP encounters lasting over an hour' from a U.S. military helicopter in late 2025: two oval orange-with-white-center orbs stationary just above the rotor disk, a swarm of smaller orbs forming a triangular pattern, and a fighter scramble in which the same orbs trailed the responding jets.",
+      "eventType": "witness_testimony",
+      "eventDate": "2025-11-01",
+      "dateDisplay": "Late 2025",
+      "location": {
+        "name": "U.S. East Coast (Atlantic)",
+        "region": "Atlantic seaboard",
+        "country": "United States",
+        "lat": 36,
+        "lng": -74
+      },
+      "sourceName": "Office of the Director of National Intelligence / U.S. Department of War — PURSUE Release 02",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Whistleblower",
+          "slug": "whistleblower"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "PURSUE Release 02",
+          "slug": "pursue-release-02"
+        },
+        {
+          "name": "ODNI",
+          "slug": "odni"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/senior-usic-officer-orange-orbs-2025",
+      "updatedAt": "2026-05-22T20:54:13.396Z"
     },
     {
       "slug": "aaro-hosts-private-workshop-on-uap-data-standardization-with-civilian-researcher",
@@ -1754,6 +1867,48 @@
       "updatedAt": "2026-05-12 11:47:45"
     },
     {
+      "slug": "lake-huron-f16-shootdown-2023",
+      "title": "Lake Huron: F-16C engages and downs an unidentified object",
+      "summary": "Cockpit/sensor footage from the February 12, 2023 U.S. Air National Guard F-16C engagement over Lake Huron, Michigan — the third of four shootdowns that month in the wake of the Chinese surveillance-balloon incident. AARO has characterized the underlying object as 'a benign hobbyist or research balloon' but the engagement footage itself is published for the first time in PURSUE Release 02.",
+      "eventType": "sighting",
+      "eventDate": "2023-02-12",
+      "dateDisplay": "February 12, 2023",
+      "location": {
+        "name": "Lake Huron",
+        "region": "Michigan",
+        "country": "United States",
+        "lat": 44.74,
+        "lng": -82.4
+      },
+      "sourceName": "All-domain Anomaly Resolution Office (AARO) / U.S. Department of War — PURSUE Release 02",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "U.S. Air Force",
+          "slug": "u-s-air-force"
+        },
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "PURSUE Release 02",
+          "slug": "pursue-release-02"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/lake-huron-f16-shootdown-2023",
+      "updatedAt": "2026-05-22T20:54:13.773Z"
+    },
+    {
       "slug": "ndaa-aaro-establishment-2022",
       "title": "Congress establishes the All-domain Anomaly Resolution Office",
       "summary": "The James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 codifies the All-domain Anomaly Resolution Office (AARO), absorbing the predecessor Airborne Object Identification and Management Synchronization Group and giving it statutory authority and a public reporting mandate.",
@@ -1791,6 +1946,48 @@
       ],
       "canonical": "https://disclosurearchives.com/events/ndaa-aaro-establishment-2022",
       "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "dow-uap-pr050-iran-formation-2022",
+      "title": "DOW-UAP-PR050: four-UAP formation over water near Iran, August 26, 2022",
+      "summary": "A 20-second infrared sensor recording from a U.S. military platform over CENTCOM waters near Iran, August 26, 2022, showing four areas of contrast moving together — and then a fifth object entering the frame from the top-left. The opening video of the new PR050-PR099 series released in PURSUE Release 02.",
+      "eventType": "sighting",
+      "eventDate": "2022-08-26",
+      "dateDisplay": "August 26, 2022",
+      "location": {
+        "name": "Persian Gulf",
+        "region": "Middle East",
+        "country": "International waters",
+        "lat": 26.5,
+        "lng": 51.5
+      },
+      "sourceName": "All-domain Anomaly Resolution Office (AARO) / U.S. Department of War — PURSUE Release 02",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "PURSUE Release 02",
+          "slug": "pursue-release-02"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/dow-uap-pr050-iran-formation-2022",
+      "updatedAt": "2026-05-22T20:54:14.077Z"
     },
     {
       "slug": "pursue-pr-023",
@@ -2165,6 +2362,52 @@
       "updatedAt": "CURRENT_TIMESTAMP"
     },
     {
+      "slug": "uss-submarine-spherical-orbs-march-2022",
+      "title": "Multiple orbs near a U.S. submarine: spheres move 'in and out of water', March 2022",
+      "summary": "A sensor video from a U.S. Navy platform in March 2022 showing multiple spherical objects moving in and out of the water in close proximity to a surfaced U.S. submarine — the cleanest transmedium/USO (Unidentified Submerged Object) footage AARO has released to date, and the iconic image of PURSUE Release 02.",
+      "eventType": "sighting",
+      "eventDate": "2022-03-25",
+      "dateDisplay": "March 25, 2022",
+      "location": {
+        "name": "U.S. Navy submarine operating area (undisclosed)",
+        "region": "Undisclosed",
+        "country": "International waters",
+        "lat": 20,
+        "lng": -40
+      },
+      "sourceName": "All-domain Anomaly Resolution Office (AARO) / U.S. Department of War — PURSUE Release 02",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "U.S. Navy",
+          "slug": "u-s-navy"
+        },
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "PURSUE Release 02",
+          "slug": "pursue-release-02"
+        },
+        {
+          "name": "Transmedium / USO",
+          "slug": "transmedium"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/uss-submarine-spherical-orbs-march-2022",
+      "updatedAt": "2026-05-22T20:54:14.474Z"
+    },
+    {
       "slug": "odni-preliminary-assessment-2021",
       "title": "ODNI delivers preliminary assessment to Congress",
       "summary": "The Office of the Director of National Intelligence delivers to Congress a nine-page 'Preliminary Assessment: Unidentified Aerial Phenomena' covering 144 reports collected primarily by U.S. Navy aviators between 2004 and 2021. The report concludes that the U.S. government cannot identify 143 of the 144.",
@@ -2197,6 +2440,82 @@
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/odni-preliminary-assessment-2021",
       "updatedAt": "CURRENT_TIMESTAMP"
+    },
+    {
+      "slug": "dow-uap-pr051-syria-instant-acceleration-2021",
+      "title": "DOW-UAP-PR051: 'Syrian UAP instant acceleration', MQ-9 Reaper weapons-quality lock",
+      "summary": "Released as the kinematic standout of PURSUE Release 02, DOW-UAP-PR051 records a 2021 encounter on the Jordan-Syria border in which a U.S. Air Force MQ-9 Reaper drone achieves a weapons-quality lock on an unidentified object before that object exhibits instantaneous acceleration and abrupt directional changes that, per AARO's mission report, exceed the publicly disclosed performance envelope of any known crewed or uncrewed aerial system.",
+      "eventType": "sighting",
+      "eventDate": "2021-06-01",
+      "dateDisplay": "2021",
+      "location": {
+        "name": "Syria",
+        "region": null,
+        "country": "Syria",
+        "lat": 34.8,
+        "lng": 38.99
+      },
+      "sourceName": "All-domain Anomaly Resolution Office (AARO) / U.S. Department of War — PURSUE Release 02",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "PURSUE Release 02",
+          "slug": "pursue-release-02"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/dow-uap-pr051-syria-instant-acceleration-2021",
+      "updatedAt": "2026-05-22T20:54:13.931Z"
+    },
+    {
+      "slug": "dow-uap-pr055-afghanistan-sphere-clouds-2020",
+      "title": "DOW-UAP-PR055: spherical object slips in and out of clouds over Afghanistan",
+      "summary": "An infrared sensor video from November 23, 2020 over Afghanistan — captured by a U.S. military platform in CENTCOM's area of responsibility — showing a single spherical object moving in and out of cloud cover. The footage was uploaded to a U.S. classified network in June 2024 and declassified in PURSUE Release 02.",
+      "eventType": "sighting",
+      "eventDate": "2020-11-23",
+      "dateDisplay": "November 23, 2020",
+      "location": {
+        "name": "Afghanistan airspace",
+        "region": "Central Asia",
+        "country": "Afghanistan",
+        "lat": 33.9391,
+        "lng": 67.71
+      },
+      "sourceName": "All-domain Anomaly Resolution Office (AARO) / U.S. Department of War — PURSUE Release 02",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "PURSUE Release 02",
+          "slug": "pursue-release-02"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/dow-uap-pr055-afghanistan-sphere-clouds-2020",
+      "updatedAt": "2026-05-22T20:54:14.211Z"
     },
     {
       "slug": "pursue-dow-uap-d64-mission-report-iran-november-2020",
@@ -3215,6 +3534,48 @@
       "updatedAt": "CURRENT_TIMESTAMP"
     },
     {
+      "slug": "east-coast-uap-december-2019",
+      "title": "East Coast 'Dec 2019' UAP: NORTHCOM infrared sensor footage",
+      "summary": "Infrared sensor footage from a U.S. military platform in U.S. Northern Command's area of responsibility in December 2019, showing a single unidentified object off the U.S. East Coast. Uploaded to a U.S. classified network in September 2020 and declassified in PURSUE Release 02 — a rare NORTHCOM (continental U.S.) entry in the PR-series corpus.",
+      "eventType": "sighting",
+      "eventDate": "2019-12-15",
+      "dateDisplay": "December 2019",
+      "location": {
+        "name": "U.S. East Coast (Atlantic)",
+        "region": "Atlantic seaboard",
+        "country": "United States",
+        "lat": 36,
+        "lng": -74
+      },
+      "sourceName": "All-domain Anomaly Resolution Office (AARO) / U.S. Department of War — PURSUE Release 02",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "U.S. Navy",
+          "slug": "u-s-navy"
+        },
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "PURSUE Release 02",
+          "slug": "pursue-release-02"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/east-coast-uap-december-2019",
+      "updatedAt": "2026-05-22T20:54:14.340Z"
+    },
+    {
       "slug": "nyt-aatip-story-2017",
       "title": "New York Times reveals the Pentagon's AATIP program",
       "summary": "Helene Cooper, Ralph Blumenthal, and Leslie Kean publish a front-page New York Times investigation revealing the existence of the Department of Defense's Advanced Aerospace Threat Identification Program. The story includes a release of the 'FLIR1' video and on-the-record statements from former AATIP director Luis Elizondo.",
@@ -3963,6 +4324,48 @@
       "updatedAt": "CURRENT_TIMESTAMP"
     },
     {
+      "slug": "ussr-luminous-green-object-1973",
+      "title": "Soviet Union, 1973: CIA report on a luminous bright-green airborne object",
+      "summary": "A previously-classified CIA intelligence report from 1973 documenting a Soviet citizen's observation of a luminous, bright-green airborne object in the summer of 1973. One of the few PURSUE entries with an explicitly Cold-War-era USSR provenance; reproduced in full as part of Release 02.",
+      "eventType": "report",
+      "eventDate": "1973-07-15",
+      "dateDisplay": "Summer 1973",
+      "location": {
+        "name": "Former USSR (interior)",
+        "region": "Soviet Union",
+        "country": "USSR (former)",
+        "lat": 55.7558,
+        "lng": 37.6173
+      },
+      "sourceName": "U.S. Central Intelligence Agency / U.S. Department of War — PURSUE Release 02",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "Cold War",
+          "slug": "cold-war"
+        },
+        {
+          "name": "International",
+          "slug": "international"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "PURSUE Release 02",
+          "slug": "pursue-release-02"
+        },
+        {
+          "name": "CIA",
+          "slug": "cia"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/ussr-luminous-green-object-1973",
+      "updatedAt": "2026-05-22T20:54:14.630Z"
+    },
+    {
       "slug": "pursue-nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973",
       "title": "NASA-UAP-D5, Apollo 17 Crew Debriefing for Science, 1973",
       "summary": "Apollo 17 was the ninth crewed U.S. mission to the Moon, and the sixth to land Astronauts on the lunar surface. This document is an excerpt from the Apollo 17 Crew Debriefing for Science on January 8, 1973, in which Dick Henry, co-investigator on the ultraviolet experiment on Apollo 17, discusses seeing results that were unexpected.  •\tPages 119-120. “One of the most exciting results of X-ray astronomy was the fact that an X-ray background was observed over the sky that nobody had expected, and ",
@@ -4080,6 +4483,44 @@
       ],
       "canonical": "https://disclosurearchives.com/events/apollo-17-three-dot-formation-1972",
       "updatedAt": "2026-05-11 10:53:33"
+    },
+    {
+      "slug": "apollo-12-medical-debrief-1969",
+      "title": "Apollo 12 medical debriefing: Conrad, Gordon, and Bean describe light flashes in cislunar space",
+      "summary": "PURSUE Release 02 publishes the audio of the Apollo 12 medical crew debriefing in which Pete Conrad, Dick Gordon, and Al Bean describe seeing brief 'light flashes' and 'streaks of light' during quiet rest periods on the cislunar coast. NASA's contemporary medical assessment attributed the phenomenon to cosmic-ray-induced retinal events.",
+      "eventType": "document_release",
+      "eventDate": "1969-11-25",
+      "dateDisplay": "November 1969",
+      "location": {
+        "name": "Lunar surface",
+        "region": "Moon",
+        "country": "Moon",
+        "lat": 0,
+        "lng": 0
+      },
+      "sourceName": "NASA / U.S. Department of War — PURSUE Release 02",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "NASA",
+          "slug": "nasa"
+        },
+        {
+          "name": "PURSUE Release 02",
+          "slug": "pursue-release-02"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/apollo-12-medical-debrief-1969",
+      "updatedAt": "2026-05-22T20:54:14.800Z"
     },
     {
       "slug": "apollo-12-lunar-imagery-1969",
@@ -4578,6 +5019,52 @@
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/afosi-flying-discs-1949",
       "updatedAt": "2026-05-12 11:47:48"
+    },
+    {
+      "slug": "sandia-green-orbs-1948-1950",
+      "title": "Sandia, New Mexico: 209 'green orbs, discs, and fireballs' over a nuclear-weapons facility",
+      "summary": "A 116-page joint file from the U.S. Air Force and the Armed Forces Special Weapons Program — the Manhattan Project's nuclear-weapons custodial successor — documenting 209 sightings of 'green orbs,' discs, and fireballs maneuvering near the Sandia, New Mexico custodial nuclear-weapons installation between 1948 and 1950. Released in full as part of PURSUE Release 02; some sighting locations contained recovered copper powder.",
+      "eventType": "document_release",
+      "eventDate": "1948-12-01",
+      "dateDisplay": "1948–1950",
+      "location": {
+        "name": "Sandia Base",
+        "region": "New Mexico",
+        "country": "United States",
+        "lat": 35.0492,
+        "lng": -106.5394
+      },
+      "sourceName": "U.S. Air Force + Armed Forces Special Weapons Program / U.S. Department of War — PURSUE Release 02",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "U.S. Air Force",
+          "slug": "u-s-air-force"
+        },
+        {
+          "name": "Cold War",
+          "slug": "cold-war"
+        },
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "PURSUE Release 02",
+          "slug": "pursue-release-02"
+        },
+        {
+          "name": "Nuclear Facility",
+          "slug": "nuclear-facility"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/sandia-green-orbs-1948-1950",
+      "updatedAt": "2026-05-22T20:54:13.644Z"
     },
     {
       "slug": "mantell-incident-1948",
