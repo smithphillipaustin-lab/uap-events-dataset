@@ -3,7 +3,7 @@
   "description": "A documented record of unidentified aerial phenomena: government hearings, declassified documents, named witness testimony, and major sightings.",
   "canonical": "https://disclosurearchives.com/",
   "license": "Editorial copy CC-BY 4.0 — attribution to Disclosure Archives required. Primary-source links retain their original publisher's terms.",
-  "generatedAt": "2026-06-05T10:40:33.618Z",
+  "generatedAt": "2026-06-06T09:18:22.333Z",
   "eventCount": 130,
   "events": [
     {
@@ -75,7 +75,7 @@
         }
       ],
       "canonical": "https://disclosurearchives.com/events/pursue-release-02-may-2026",
-      "updatedAt": "2026-06-04T21:17:05.871Z"
+      "updatedAt": "2026-06-05T13:33:17.708Z"
     },
     {
       "slug": "pursue-dow-uap-d54-mission-report-mediterranean-sea-na",
@@ -401,7 +401,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/senior-usic-officer-orange-orbs-2025",
-      "updatedAt": "2026-06-04T21:17:06.119Z"
+      "updatedAt": "2026-06-05T13:33:17.936Z"
     },
     {
       "slug": "aaro-hosts-private-workshop-on-uap-data-standardization-with-civilian-researcher",
@@ -613,7 +613,7 @@
         }
       ],
       "canonical": "https://disclosurearchives.com/events/house-uap-hearing-eyes-wide-open-2024",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "pursue-dow-uap-d52-email-correspondance-na-august-2024",
@@ -1077,7 +1077,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/aaro-historical-record-vol-1-2024",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "pursue-dow-uap-d25-mission-report-greece-january-2024",
@@ -1522,7 +1522,7 @@
         }
       ],
       "canonical": "https://disclosurearchives.com/events/grusch-fravor-graves-testimony-2023",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "schumer-rounds-uap-disclosure-act-2023",
@@ -1552,7 +1552,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/schumer-rounds-uap-disclosure-act-2023",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "pursue-pr-047",
@@ -1906,7 +1906,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/lake-huron-f16-shootdown-2023",
-      "updatedAt": "2026-06-04T21:17:06.427Z"
+      "updatedAt": "2026-06-05T13:33:18.232Z"
     },
     {
       "slug": "ndaa-aaro-establishment-2022",
@@ -1945,7 +1945,7 @@
         }
       ],
       "canonical": "https://disclosurearchives.com/events/ndaa-aaro-establishment-2022",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "dow-uap-pr050-iran-formation-2022",
@@ -1987,7 +1987,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr050-iran-formation-2022",
-      "updatedAt": "2026-06-04T21:17:06.806Z"
+      "updatedAt": "2026-06-05T13:33:18.513Z"
     },
     {
       "slug": "pursue-pr-023",
@@ -2359,7 +2359,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/house-intel-uap-hearing-2022",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "uss-submarine-spherical-orbs-march-2022",
@@ -2405,7 +2405,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/uss-submarine-spherical-orbs-march-2022",
-      "updatedAt": "2026-06-04T21:17:07.315Z"
+      "updatedAt": "2026-06-05T13:33:19.054Z"
     },
     {
       "slug": "odni-preliminary-assessment-2021",
@@ -2439,7 +2439,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/odni-preliminary-assessment-2021",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "dow-uap-pr051-syria-instant-acceleration-2021",
@@ -2477,7 +2477,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr051-syria-instant-acceleration-2021",
-      "updatedAt": "2026-06-04T21:17:06.593Z"
+      "updatedAt": "2026-06-05T13:33:18.373Z"
     },
     {
       "slug": "dow-uap-pr055-afghanistan-sphere-clouds-2020",
@@ -2515,7 +2515,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr055-afghanistan-sphere-clouds-2020",
-      "updatedAt": "2026-06-04T21:17:06.963Z"
+      "updatedAt": "2026-06-05T13:33:18.689Z"
     },
     {
       "slug": "pursue-dow-uap-d64-mission-report-iran-november-2020",
@@ -3531,7 +3531,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dod-releases-three-videos-2020",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "east-coast-uap-december-2019",
@@ -3573,7 +3573,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/east-coast-uap-december-2019",
-      "updatedAt": "2026-06-04T21:17:07.126Z"
+      "updatedAt": "2026-06-05T13:33:18.829Z"
     },
     {
       "slug": "nyt-aatip-story-2017",
@@ -3616,7 +3616,7 @@
         }
       ],
       "canonical": "https://disclosurearchives.com/events/nyt-aatip-story-2017",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "pursue-dow-uap-d55-mission-report-syria-november-2016",
@@ -3705,7 +3705,7 @@
         }
       ],
       "canonical": "https://disclosurearchives.com/events/east-coast-incursions-2014-2015",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "dow-uap-pr38-middle-east-2013",
@@ -3785,7 +3785,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/stephenville-lights-2008",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "ohare-2006",
@@ -3819,7 +3819,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/ohare-2006",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "uss-nimitz-tic-tac-2004",
@@ -3870,7 +3870,7 @@
         }
       ],
       "canonical": "https://disclosurearchives.com/events/uss-nimitz-tic-tac-2004",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "pursue-059uap00012",
@@ -3980,7 +3980,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/phoenix-lights-1997",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "pursue-dow-uap-d48-report-september-1996",
@@ -4038,7 +4038,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/ariel-school-1994",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "state-cable-kazakhstan-1994",
@@ -4130,7 +4130,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/belgian-uap-wave-1989",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "jal-1628-alaska-1986",
@@ -4168,7 +4168,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/jal-1628-alaska-1986",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "pursue-dos-uap-d1-cable-1-papua-new-guinea-january-1985",
@@ -4241,7 +4241,7 @@
         }
       ],
       "canonical": "https://disclosurearchives.com/events/cash-landrum-1980",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "rendlesham-1980",
@@ -4283,7 +4283,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/rendlesham-1980",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "tehran-incident-1976",
@@ -4321,7 +4321,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/tehran-incident-1976",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "ussr-luminous-green-object-1973",
@@ -4363,7 +4363,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/ussr-luminous-green-object-1973",
-      "updatedAt": "2026-06-04T21:17:07.468Z"
+      "updatedAt": "2026-06-05T13:33:19.201Z"
     },
     {
       "slug": "pursue-nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973",
@@ -4520,7 +4520,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/apollo-12-medical-debrief-1969",
-      "updatedAt": "2026-06-04T21:17:07.639Z"
+      "updatedAt": "2026-06-05T13:33:19.356Z"
     },
     {
       "slug": "apollo-12-lunar-imagery-1969",
@@ -4668,7 +4668,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/westall-1966",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "gemini-7-bogey-1965",
@@ -4753,7 +4753,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/exeter-incident-1965",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "state-dept-sp-files-1963",
@@ -4815,7 +4815,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/kelly-hopkinsville-1955",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "afosi-incident-summaries-1955",
@@ -4902,7 +4902,7 @@
         }
       ],
       "canonical": "https://disclosurearchives.com/events/washington-dc-flyover-1952",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "state-intel-numerical-files-1948-1955",
@@ -5064,7 +5064,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/sandia-green-orbs-1948-1950",
-      "updatedAt": "2026-06-04T21:17:06.273Z"
+      "updatedAt": "2026-06-05T13:33:18.084Z"
     },
     {
       "slug": "mantell-incident-1948",
@@ -5098,7 +5098,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/mantell-incident-1948",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "roswell-incident-1947",
@@ -5137,7 +5137,7 @@
         }
       ],
       "canonical": "https://disclosurearchives.com/events/roswell-incident-1947",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "kenneth-arnold-mount-rainier-1947",
@@ -5172,7 +5172,7 @@
         }
       ],
       "canonical": "https://disclosurearchives.com/events/kenneth-arnold-mount-rainier-1947",
-      "updatedAt": "CURRENT_TIMESTAMP"
+      "updatedAt": "2026-05-10 12:00:00"
     },
     {
       "slug": "usaf-amc-pre-blue-book-1946-1948",
