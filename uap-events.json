@@ -3,8 +3,8 @@
   "description": "A documented record of unidentified aerial phenomena: government hearings, declassified documents, named witness testimony, and major sightings.",
   "canonical": "https://disclosurearchives.com/",
   "license": "Editorial copy CC-BY 4.0 — attribution to Disclosure Archives required. Primary-source links retain their original publisher's terms.",
-  "generatedAt": "2026-06-11T11:17:41.194Z",
-  "eventCount": 130,
+  "generatedAt": "2026-06-12T10:56:28.209Z",
+  "eventCount": 142,
   "events": [
     {
       "slug": "pursue-release-02-may-2026",
@@ -75,7 +75,68 @@
         }
       ],
       "canonical": "https://disclosurearchives.com/events/pursue-release-02-may-2026",
-      "updatedAt": "2026-06-11T01:17:55.758Z"
+      "updatedAt": "2026-06-12T02:49:19.225Z"
+    },
+    {
+      "slug": "pentagon-s-pursue-initiative-prepares-release-02-of-up-to-46-aaro-uap-videos",
+      "title": "Pentagon's PURSUE Initiative Prepares \"Release 02\" of Up to 46 AARO UAP Videos",
+      "summary": "A new tranche of up to 46 UAP videos held by the Pentagon's All-domain Anomaly Resolution Office (AARO) is expected to be released imminently under the Department of War's Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) initiative. The release follows a March 31, 2026, letter from Representative Anna Paulina Luna (R-Fla.) to Secretary of War Pete Hegseth formally requesting the footage, which was originally due no later than April 14, 2026. On May 15, 2026, Luna confirmed she and Rep. Eric Burlison (R-Mo.) had completed a review of the videos alongside AARO director Jon Kosloski.\n\nThe forthcoming batch — anticipated to be designated \"Release 02\" — includes footage of spherical objects, cigar-shaped UAP, fast-moving objects, and at least two videos depicting what the military characterizes as \"transmedium\" or unidentified submerged objects (USOs). The collection also appears to include additional footage related to the January 26, 2023, Eglin Air Force Base diamond-formation incident and the February 12, 2023, Lake Huron shootdown event. The article, published by The Debrief on May 21, 2026, represents the most detailed public accounting of the expected contents of the release prior to its official publication.",
+      "eventType": "document_release",
+      "eventDate": "2026-05-21",
+      "dateDisplay": null,
+      "location": null,
+      "sourceName": "The Debrief",
+      "sourceUrl": "https://thedebrief.org/a-new-batch-of-pentagon-uap-videos-will-soon-be-released-heres-what-to-expect",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "PURSUE",
+          "slug": "pursue"
+        },
+        {
+          "name": "Declassified Video",
+          "slug": "declassified-video"
+        },
+        {
+          "name": "Congressional Oversight",
+          "slug": "congressional-oversight"
+        },
+        {
+          "name": "Transmedium UAP",
+          "slug": "transmedium-uap"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Anna Paulina Luna",
+          "slug": "anna-paulina-luna"
+        },
+        {
+          "name": "Eric Burlison",
+          "slug": "eric-burlison"
+        },
+        {
+          "name": "Pete Hegseth",
+          "slug": "pete-hegseth"
+        },
+        {
+          "name": "Jon Kosloski",
+          "slug": "jon-kosloski"
+        },
+        {
+          "name": "Sean Kirkpatrick",
+          "slug": "sean-kirkpatrick"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/pentagon-s-pursue-initiative-prepares-release-02-of-up-to-46-aaro-uap-videos",
+      "updatedAt": "2026-06-12T03:02:48.588Z"
     },
     {
       "slug": "pursue-dow-uap-d54-mission-report-mediterranean-sea-na",
@@ -362,6 +423,77 @@
       "updatedAt": "2026-05-11 10:53:34"
     },
     {
+      "slug": "university-at-albany-physicists-launch-endowed-uap-research-program-ualbany-proj",
+      "title": "University at Albany Physicists Launch Endowed UAP Research Program \"UAlbany Project X\"",
+      "summary": "Physicists at the University at Albany, New York, have announced the launch of UAlbany Project X (UAPx), a formally endowed, university-backed scientific research program dedicated to the long-term study of unidentified anomalous phenomena (UAP). The initiative is led by professors Kevin Knuth, Matthew Szydagis, and Cecilia Levy, and was made possible by a multi-year endowment gift from Albany-area businessman Tony Gorman, which the team states will fund operations for at least five years and support the program in perpetuity thereafter. The project was officially launched in November 2025 and was reported by The Debrief on December 2, 2025.\n\nUAlbany Project X is described as the direct academic continuation of the original nonprofit UAPx organization, which conducted a 2021 field expedition over the Santa Catalina Channel — the site of the 2004 USS Nimitz \"Tic Tac\" encounter — collecting optical, infrared, and other sensor data. That expedition's findings were subsequently published in the peer-reviewed journal Progress in Aerospace Sciences in 2025, co-authored by Szydagis, Knuth, and Levy. The new university program plans to expand data collection using camera arrays, diffraction gratings for spectral analysis, and magnetic and electric field instrumentation, while also increasing peer-reviewed publication output. Physicist Eric W. Davis has been named as a volunteer adjunct researcher in an advisory capacity.",
+      "eventType": "official_statement",
+      "eventDate": "2025-11-01",
+      "dateDisplay": null,
+      "location": {
+        "name": "University at Albany",
+        "region": "New York",
+        "country": "United States",
+        "lat": 42.6868,
+        "lng": -73.8258
+      },
+      "sourceName": "The Debrief",
+      "sourceUrl": "https://thedebrief.org/ualbany-project-x-how-a-team-of-new-york-physicists-is-launching-a-cutting-edge-investigation-into-aerial-mysteries",
+      "tags": [
+        {
+          "name": "Academic Research",
+          "slug": "academic-research"
+        },
+        {
+          "name": "UAP Science",
+          "slug": "uap-science"
+        },
+        {
+          "name": "University at Albany",
+          "slug": "university-at-albany"
+        },
+        {
+          "name": "Field Investigation",
+          "slug": "field-investigation"
+        },
+        {
+          "name": "Peer-Reviewed Publication",
+          "slug": "peer-reviewed-publication"
+        },
+        {
+          "name": "Endowment",
+          "slug": "endowment"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Kevin Knuth",
+          "slug": "kevin-knuth"
+        },
+        {
+          "name": "Matthew Szydagis",
+          "slug": "matthew-szydagis"
+        },
+        {
+          "name": "Cecilia Levy",
+          "slug": "cecilia-levy"
+        },
+        {
+          "name": "Tony Gorman",
+          "slug": "tony-gorman"
+        },
+        {
+          "name": "Gary Voorhis",
+          "slug": "gary-voorhis"
+        },
+        {
+          "name": "Eric W. Davis",
+          "slug": "eric-w-davis"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/university-at-albany-physicists-launch-endowed-uap-research-program-ualbany-proj",
+      "updatedAt": "2026-06-12T03:04:55.350Z"
+    },
+    {
       "slug": "senior-usic-officer-orange-orbs-2025",
       "title": "Senior U.S. intelligence officer: an hour of orange orbs from a military helicopter",
       "summary": "A first-person USPER narrative published as the centerpiece of PURSUE Release 02 by a currently-serving senior U.S. intelligence officer who describes 'a series of close UAP encounters lasting over an hour' from a U.S. military helicopter in late 2025: two oval orange-with-white-center orbs stationary just above the rotor disk, a swarm of smaller orbs forming a triangular pattern, and a fighter scramble in which the same orbs trailed the responding jets.",
@@ -401,7 +533,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/senior-usic-officer-orange-orbs-2025",
-      "updatedAt": "2026-06-11T01:17:56.049Z"
+      "updatedAt": "2026-06-12T02:49:19.508Z"
     },
     {
       "slug": "aaro-hosts-private-workshop-on-uap-data-standardization-with-civilian-researcher",
@@ -537,6 +669,59 @@
       "updatedAt": "2026-05-12 11:47:47"
     },
     {
+      "slug": "attorney-and-former-marine-intelligence-analyst-proposes-uap-registration-act-as",
+      "title": "Attorney and Former Marine Intelligence Analyst Proposes UAP Registration Act as Alternative to Stalled Disclosure Legislation",
+      "summary": "On April 27, 2025, The Debrief published an op-ed by Sean Munger — an attorney and former United States Marine Corps intelligence analyst — introducing a proposed legislative framework called the Unidentified Anomalous Phenomena Registration Act (UAPRA). Munger argues that the UAPRA offers a more effective and transparent path to UAP disclosure than the existing Unidentified Anomalous Phenomena Disclosure Act (UAPDA), which was co-introduced by Senators Mike Rounds and Charles Schumer but has twice failed to become law in its intended form.\n\nMunger contends that the UAPDA, as currently structured, centralizes control of UAP-related materials within the Executive Branch through a nine-person review board, replicating the opacity it ostensibly seeks to remedy. The UAPRA, by contrast, would require private and government entities to register and submit to inspection of any non-human intelligence (NHI) materials or biological evidence in their possession, embedding oversight within existing regulatory structures rather than creating a new executive-controlled body. Munger draws parallels to established regulatory regimes governing nuclear, pharmaceutical, and aviation industries, and argues the UAPRA would balance national security interests with public transparency while also generating taxable economic activity.",
+      "eventType": "official_statement",
+      "eventDate": "2025-04-27",
+      "dateDisplay": null,
+      "location": null,
+      "sourceName": "The Debrief",
+      "sourceUrl": "https://thedebrief.org/a-well-regulated-uap-industry-why-the-uap-registration-act-is-a-better-path-to-disclosure",
+      "tags": [
+        {
+          "name": "UAP Legislation",
+          "slug": "uap-legislation"
+        },
+        {
+          "name": "UAPRA",
+          "slug": "uapra"
+        },
+        {
+          "name": "UAPDA",
+          "slug": "uapda"
+        },
+        {
+          "name": "Disclosure",
+          "slug": "disclosure"
+        },
+        {
+          "name": "Non-Human Intelligence",
+          "slug": "non-human-intelligence"
+        },
+        {
+          "name": "Regulatory Framework",
+          "slug": "regulatory-framework"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Mike Rounds",
+          "slug": "mike-rounds"
+        },
+        {
+          "name": "Sean Munger",
+          "slug": "sean-munger"
+        },
+        {
+          "name": "Charles Schumer",
+          "slug": "charles-schumer"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/attorney-and-former-marine-intelligence-analyst-proposes-uap-registration-act-as",
+      "updatedAt": "2026-06-12T03:04:47.483Z"
+    },
+    {
       "slug": "pursue-dow-uap-d50-email-correspondence-indopacom-april-2025",
       "title": "Email Correspondence: INDOPACOM, April 2025 (DOW-UAP-D50)",
       "summary": "This document is email correspondence describing the content of a mission report and requesting clarification on its content. All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a conclusive indication of the presence or absence of any intrinsic object features or performance characteristics.",
@@ -567,6 +752,255 @@
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d50-email-correspondence-indopacom-april-2025",
       "updatedAt": "2026-05-12 11:47:47"
+    },
+    {
+      "slug": "christopher-mellon-calls-on-trump-declassification-task-force-to-release-withhel",
+      "title": "Christopher Mellon Calls on Trump Declassification Task Force to Release Withheld Unclassified UAP Videos",
+      "summary": "Former Deputy Assistant Secretary of Defense for Intelligence Christopher Mellon published an op-ed in The Debrief on April 5, 2025, arguing that the Department of Defense is improperly withholding a large volume of unclassified UAP imagery from Congress and the public. Mellon contends that a restrictive classification guide created by the DoD's UAP Task Force — developed in the aftermath of the 2017–2018 Navy UAP video releases — has been applied to material that does not legitimately qualify for classification under Executive Order 13526, and that no official at DoD or in the Intelligence Community has been designated to advocate for or execute the release of unclassified UAP information.\n\nMellon's piece is directed at Representative Anna Paulina Luna's Congressional Task Force on the Declassification of Federal Secrets, as well as the broader Trump administration, urging both to compel a review and release of unclassified UAP videos held by military and intelligence agencies. He references specific prior commitments — including a 2022 pledge by Deputy Director of Naval Intelligence Scott Bray before the House Intelligence Committee — that have not resulted in any meaningful public disclosures beyond a handful of videos on the AARO website. Mellon also notes an encouraging development: AARO, under the direction of Dr. Jon Kosloski, has agreed to locate and submit for declassification review a specific F-18 UAP video he recalled from years prior.",
+      "eventType": "official_statement",
+      "eventDate": "2025-04-05",
+      "dateDisplay": null,
+      "location": null,
+      "sourceName": "The Debrief",
+      "sourceUrl": "https://thedebrief.org/will-the-declassification-task-force-or-president-trump-compel-dod-to-release-its-trove-of-unclassified-uap-videos",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Declassification",
+          "slug": "declassification"
+        },
+        {
+          "name": "UAP Videos",
+          "slug": "uap-videos"
+        },
+        {
+          "name": "Christopher Mellon",
+          "slug": "christopher-mellon"
+        },
+        {
+          "name": "Congressional Task Force",
+          "slug": "congressional-task-force"
+        },
+        {
+          "name": "DoD",
+          "slug": "dod"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Christopher Mellon",
+          "slug": "christopher-mellon"
+        },
+        {
+          "name": "Anna Paulina Luna",
+          "slug": "anna-paulina-luna"
+        },
+        {
+          "name": "Scott Bray",
+          "slug": "scott-bray"
+        },
+        {
+          "name": "Jon Kosloski",
+          "slug": "jon-kosloski"
+        },
+        {
+          "name": "Sean Kirkpatrick",
+          "slug": "sean-kirkpatrick"
+        },
+        {
+          "name": "Avril Haines",
+          "slug": "avril-haines"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/christopher-mellon-calls-on-trump-declassification-task-force-to-release-withhel",
+      "updatedAt": "2026-06-12T03:04:31.179Z"
+    },
+    {
+      "slug": "new-jersey-drone-wave-2024",
+      "title": "The New Jersey drone wave: thousands of reports, a federal 'no threat' verdict, and an unclosed file",
+      "summary": "Beginning in mid-November 2024, residents across northern New Jersey report waves of large, slow, often car-sized 'drones' at night, with early clusters near Picatinny Arsenal. The FBI logs thousands of tips, the FAA restricts airspace, and a December 12 joint DHS/FBI statement finds no threat and attributes many sightings to misidentified manned aircraft. A January 2025 White House statement calling the flights 'authorized' closes the news cycle without reconciling the record.",
+      "eventType": "sighting",
+      "eventDate": "2024-12-12",
+      "dateDisplay": "November–December 2024",
+      "location": {
+        "name": "Northern New Jersey",
+        "region": "New Jersey",
+        "country": "United States",
+        "lat": 40.8859,
+        "lng": -74.5597
+      },
+      "sourceName": "FBI / Department of Homeland Security joint statement",
+      "sourceUrl": "https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey",
+      "tags": [
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Civilian Aviation",
+          "slug": "civilian-aviation"
+        },
+        {
+          "name": "Law Enforcement",
+          "slug": "law-enforcement"
+        },
+        {
+          "name": "Drone Wave",
+          "slug": "drone-wave"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/new-jersey-drone-wave-2024",
+      "updatedAt": "2026-06-12T02:49:23.944Z"
+    },
+    {
+      "slug": "aaro-provides-classified-briefing-to-lawmakers-amid-new-jersey-mystery-drone-inc",
+      "title": "AARO Provides Classified Briefing to Lawmakers Amid New Jersey Mystery Drone Incursions",
+      "summary": "Beginning in mid-November 2024, a sustained wave of unidentified drone sightings over New Jersey — concentrated around Morris County, Picatinny Arsenal, and Naval Weapons Station Earle — prompted responses from local, state, and federal officials. By early December the sightings had spread to at least ten New Jersey counties as well as Philadelphia, Brooklyn, and Staten Island, with additional parallel incidents reported over RAF Lakenheath, RAF Mildenhall, RAF Feltwell, and RAF Fairford in the United Kingdom in late November. On December 6, 2024, the DoD's All-domain Anomaly Resolution Office (AARO) delivered a classified briefing to lawmakers; the specific content of that briefing regarding the drone sightings was not publicly disclosed.\n\nThe episode is notable for the formal involvement of AARO — the DoD's official office for unidentified anomalous phenomena — in what is primarily a domestic drone-security matter. AARO Director Dr. Jon Kosloski had previously told lawmakers during a Senate hearing that while his office is not directly tasked with drone investigations, AARO's detection capabilities and best practices could be offered to counter-UAS efforts. The incident underscores growing congressional and executive-branch concern about unidentified unmanned aerial systems over sensitive military and civilian infrastructure.",
+      "eventType": "official_statement",
+      "eventDate": "2024-12-06",
+      "dateDisplay": null,
+      "location": {
+        "name": "Picatinny Arsenal",
+        "region": "New Jersey",
+        "country": "United States",
+        "lat": 40.9637,
+        "lng": -74.5496
+      },
+      "sourceName": "The Debrief",
+      "sourceUrl": "https://thedebrief.org/mystery-drones-invading-new-jersey-airspace-are-keeping-officials-on-edge-as-feds-probe-for-answers",
+      "tags": [
+        {
+          "name": "Congressional Hearing",
+          "slug": "congressional-hearing"
+        },
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Classified Briefing",
+          "slug": "classified-briefing"
+        },
+        {
+          "name": "Drone Incursion",
+          "slug": "drone-incursion"
+        },
+        {
+          "name": "Picatinny Arsenal",
+          "slug": "picatinny-arsenal"
+        },
+        {
+          "name": "Counter-UAS",
+          "slug": "counter-uas"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Kirsten Gillibrand",
+          "slug": "kirsten-gillibrand"
+        },
+        {
+          "name": "Jon Kosloski",
+          "slug": "jon-kosloski"
+        },
+        {
+          "name": "Lt. Col. Craig A. Bonham II",
+          "slug": "lt-col-craig-a-bonham-ii"
+        },
+        {
+          "name": "Pat Ryder",
+          "slug": "pat-ryder"
+        },
+        {
+          "name": "Phil Murphy",
+          "slug": "phil-murphy"
+        },
+        {
+          "name": "Tony Perry",
+          "slug": "tony-perry"
+        },
+        {
+          "name": "Chris Smith",
+          "slug": "chris-smith"
+        },
+        {
+          "name": "Jon Bramnick",
+          "slug": "jon-bramnick"
+        },
+        {
+          "name": "August Pfluger",
+          "slug": "august-pfluger"
+        },
+        {
+          "name": "Vito Fossella",
+          "slug": "vito-fossella"
+        },
+        {
+          "name": "Joseph Orlando",
+          "slug": "joseph-orlando"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/aaro-provides-classified-briefing-to-lawmakers-amid-new-jersey-mystery-drone-inc",
+      "updatedAt": "2026-06-12T03:03:21.244Z"
+    },
+    {
+      "slug": "canadian-mp-larry-maguire-sponsors-parliamentary-petition-e-5178-calling-for-nat",
+      "title": "Canadian MP Larry Maguire Sponsors Parliamentary Petition e-5178 Calling for National UAP Task Force",
+      "summary": "Canadian Conservative Party Member of Parliament Larry Maguire sponsored parliamentary petition e-5178, published on the House of Commons Chamber website, urging the Canadian government to establish a National Task Force on UAPs and adopt standardized protocols for UAP investigation and reporting. The petition, initiated by Benjamin Bruce Schofield of Winnipeg, Manitoba, was open for signatures until January 19, 2025, and called on representatives from the Department of National Defence, Transport Canada, Public Safety Canada, and the scientific community to investigate, analyze, and publicly report UAP activity in Canadian airspace.\n\nThe petition represents a continuation of Maguire's advocacy on UAP transparency, which he has pursued since 2021. It draws explicit comparisons to U.S. efforts — including dedicated offices and public reporting mechanisms — and calls for international collaboration with allied nations. Maguire also referenced Canada's forthcoming Chief Science Advisor Sky Canada Project as a potential vehicle for domestic progress. The petition underscores growing pressure in Canada for a coordinated governmental response to UAP, mirroring legislative momentum in the United States.",
+      "eventType": "official_statement",
+      "eventDate": "2024-11-22",
+      "dateDisplay": null,
+      "location": {
+        "name": "Ottawa, Parliament of Canada",
+        "region": "Ontario",
+        "country": "Canada",
+        "lat": 45.4235,
+        "lng": -75.7009
+      },
+      "sourceName": "The Debrief",
+      "sourceUrl": "https://thedebrief.org/canadian-mp-larry-maguire-urges-canadians-to-sign-uap-transparency-petition",
+      "tags": [
+        {
+          "name": "Official Statement",
+          "slug": "official-statement"
+        },
+        {
+          "name": "Canada",
+          "slug": "canada"
+        },
+        {
+          "name": "Parliamentary Petition",
+          "slug": "parliamentary-petition"
+        },
+        {
+          "name": "UAP Transparency",
+          "slug": "uap-transparency"
+        },
+        {
+          "name": "National Task Force",
+          "slug": "national-task-force"
+        },
+        {
+          "name": "Larry Maguire",
+          "slug": "larry-maguire"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Larry Maguire",
+          "slug": "larry-maguire"
+        },
+        {
+          "name": "Benjamin Bruce Schofield",
+          "slug": "benjamin-bruce-schofield"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/canadian-mp-larry-maguire-sponsors-parliamentary-petition-e-5178-calling-for-nat",
+      "updatedAt": "2026-06-12T03:03:07.990Z"
     },
     {
       "slug": "house-uap-hearing-eyes-wide-open-2024",
@@ -1906,7 +2340,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/lake-huron-f16-shootdown-2023",
-      "updatedAt": "2026-06-11T01:17:56.388Z"
+      "updatedAt": "2026-06-12T02:49:19.835Z"
     },
     {
       "slug": "ndaa-aaro-establishment-2022",
@@ -1987,7 +2421,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr050-iran-formation-2022",
-      "updatedAt": "2026-06-11T01:17:56.692Z"
+      "updatedAt": "2026-06-12T02:49:20.144Z"
     },
     {
       "slug": "pursue-pr-023",
@@ -2405,7 +2839,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/uss-submarine-spherical-orbs-march-2022",
-      "updatedAt": "2026-06-11T01:17:57.231Z"
+      "updatedAt": "2026-06-12T02:49:20.703Z"
     },
     {
       "slug": "odni-preliminary-assessment-2021",
@@ -2477,7 +2911,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr051-syria-instant-acceleration-2021",
-      "updatedAt": "2026-06-11T01:17:56.534Z"
+      "updatedAt": "2026-06-12T02:49:19.997Z"
     },
     {
       "slug": "dow-uap-pr055-afghanistan-sphere-clouds-2020",
@@ -2515,7 +2949,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr055-afghanistan-sphere-clouds-2020",
-      "updatedAt": "2026-06-11T01:17:56.870Z"
+      "updatedAt": "2026-06-12T02:49:20.294Z"
     },
     {
       "slug": "pursue-dow-uap-d64-mission-report-iran-november-2020",
@@ -3573,7 +4007,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/east-coast-uap-december-2019",
-      "updatedAt": "2026-06-11T01:17:57.067Z"
+      "updatedAt": "2026-06-12T02:49:20.547Z"
     },
     {
       "slug": "nyt-aatip-story-2017",
@@ -3659,6 +4093,86 @@
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d55-mission-report-syria-november-2016",
       "updatedAt": "2026-05-12 11:47:49"
+    },
+    {
+      "slug": "go-fast-video-2015",
+      "title": "GO FAST: the third Pentagon video — and the parallax assessment that reframed it",
+      "summary": "A Navy ATFLIR clip appears to show a small object streaking just above the Atlantic. Officially released in April 2020 alongside FLIR1 and GIMBAL, GO FAST became the clearest case study in how sensor geometry can mislead: analyses using the video's own displayed data — including AARO's published assessment — put the object several thousand feet up, moving far slower than it appears.",
+      "eventType": "sighting",
+      "eventDate": "2015-01-21",
+      "dateDisplay": "January 2015",
+      "location": {
+        "name": "Off the coast of Jacksonville",
+        "region": "Florida",
+        "country": "United States",
+        "lat": 30.55,
+        "lng": -78.7
+      },
+      "sourceName": "U.S. Department of Defense / AARO case analysis",
+      "sourceUrl": "https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+      "tags": [
+        {
+          "name": "U.S. Navy",
+          "slug": "u-s-navy"
+        },
+        {
+          "name": "Pentagon",
+          "slug": "pentagon"
+        },
+        {
+          "name": "AATIP",
+          "slug": "aatip"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/go-fast-video-2015",
+      "updatedAt": "2026-06-12T02:49:23.788Z"
+    },
+    {
+      "slug": "gimbal-video-2015",
+      "title": "GIMBAL: the Navy's rotating-object video, still unresolved",
+      "summary": "An F/A-18F crew from the USS Theodore Roosevelt's air wing records an infrared object with no visible exhaust that appears to rotate in flight while the crew reports a formation of additional objects on their situational-awareness display. One of three videos the Pentagon officially confirmed authentic in April 2020 — and the only one of the three with no published resolution.",
+      "eventType": "sighting",
+      "eventDate": "2015-01-21",
+      "dateDisplay": "January 21, 2015",
+      "location": {
+        "name": "Off the coast of Jacksonville",
+        "region": "Florida",
+        "country": "United States",
+        "lat": 30.55,
+        "lng": -78.7
+      },
+      "sourceName": "U.S. Department of Defense",
+      "sourceUrl": "https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/",
+      "tags": [
+        {
+          "name": "U.S. Navy",
+          "slug": "u-s-navy"
+        },
+        {
+          "name": "Pentagon",
+          "slug": "pentagon"
+        },
+        {
+          "name": "AATIP",
+          "slug": "aatip"
+        },
+        {
+          "name": "Radar Confirmed",
+          "slug": "radar"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/gimbal-video-2015",
+      "updatedAt": "2026-06-12T02:49:23.643Z"
     },
     {
       "slug": "east-coast-incursions-2014-2015",
@@ -3752,6 +4266,36 @@
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr38-middle-east-2013",
       "updatedAt": "2026-05-11 10:53:32"
+    },
+    {
+      "slug": "skinwalker-ranch-aawsap-2008",
+      "title": "DIA's AAWSAP program makes Skinwalker Ranch a government-funded field site",
+      "summary": "The Defense Intelligence Agency awards the Advanced Aerospace Weapon System Applications Program (AAWSAP) contract to Bigelow Aerospace Advanced Space Studies. Roughly $22 million flows through the program from 2008 to 2010, and Skinwalker Ranch — owned by the contractor's founder — becomes its primary field laboratory.",
+      "eventType": "report",
+      "eventDate": "2008-09-22",
+      "dateDisplay": "September 2008",
+      "location": {
+        "name": "Skinwalker Ranch",
+        "region": "Utah",
+        "country": "United States",
+        "lat": 40.2589,
+        "lng": -109.8874
+      },
+      "sourceName": "Defense Intelligence Agency FOIA release / The Black Vault",
+      "sourceUrl": "https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/",
+      "tags": [
+        {
+          "name": "AATIP",
+          "slug": "aatip"
+        },
+        {
+          "name": "Skinwalker Ranch",
+          "slug": "skinwalker-ranch"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/skinwalker-ranch-aawsap-2008",
+      "updatedAt": "2026-06-12T02:49:23.344Z"
     },
     {
       "slug": "stephenville-lights-2008",
@@ -4009,6 +4553,70 @@
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/pursue-dow-uap-d48-report-september-1996",
       "updatedAt": "2026-05-12 11:43:32"
+    },
+    {
+      "slug": "skinwalker-ranch-sherman-1996",
+      "title": "The Sherman ranch story goes public — and Bigelow's NIDS buys the property",
+      "summary": "The Deseret News publishes Terry and Gwen Sherman's account of eighteen months of unexplained phenomena on their Uintah Basin ranch — lights, orbs, and cattle deaths. Within months, Robert Bigelow's National Institute for Discovery Science purchases the property and stations scientists on it, beginning the longest-running instrumented field study of a single site in UAP history.",
+      "eventType": "sighting",
+      "eventDate": "1996-06-30",
+      "dateDisplay": "June 30, 1996",
+      "location": {
+        "name": "Skinwalker Ranch",
+        "region": "Utah",
+        "country": "United States",
+        "lat": 40.2589,
+        "lng": -109.8874
+      },
+      "sourceName": "Deseret News",
+      "sourceUrl": "https://www.deseret.com/1996/6/30/19251541/frequent-fliers/",
+      "tags": [
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Skinwalker Ranch",
+          "slug": "skinwalker-ranch"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/skinwalker-ranch-sherman-1996",
+      "updatedAt": "2026-06-12T02:49:23.208Z"
+    },
+    {
+      "slug": "varginha-incident-1996",
+      "title": "The Varginha incident: creature reports, an alleged military response, and Brazil's most famous case",
+      "summary": "Three young women in Varginha, Brazil report encountering a small creature with brown skin and large red eyes in a vacant lot. Claims of a military capture operation follow, the Brazilian Army attributes the reports to a misidentified local man, and the case becomes the most prominent — and most contested — UAP event in Brazilian history.",
+      "eventType": "sighting",
+      "eventDate": "1996-01-20",
+      "dateDisplay": "January 20, 1996",
+      "location": {
+        "name": "Varginha",
+        "region": "Minas Gerais",
+        "country": "Brazil",
+        "lat": -21.5556,
+        "lng": -45.4364
+      },
+      "sourceName": "Brazilian Army inquiry (1996) / named-witness testimony record",
+      "sourceUrl": null,
+      "tags": [
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "International",
+          "slug": "international"
+        },
+        {
+          "name": "Law Enforcement",
+          "slug": "law-enforcement"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/varginha-incident-1996",
+      "updatedAt": "2026-06-12T02:49:23.498Z"
     },
     {
       "slug": "ariel-school-1994",
@@ -4363,7 +4971,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/ussr-luminous-green-object-1973",
-      "updatedAt": "2026-06-11T01:17:57.420Z"
+      "updatedAt": "2026-06-12T02:49:20.861Z"
     },
     {
       "slug": "pursue-nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973",
@@ -4520,7 +5128,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/apollo-12-medical-debrief-1969",
-      "updatedAt": "2026-06-11T01:17:57.605Z"
+      "updatedAt": "2026-06-12T02:49:21.014Z"
     },
     {
       "slug": "apollo-12-lunar-imagery-1969",
@@ -5064,7 +5672,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/sandia-green-orbs-1948-1950",
-      "updatedAt": "2026-06-11T01:17:56.227Z"
+      "updatedAt": "2026-06-12T02:49:19.679Z"
     },
     {
       "slug": "mantell-incident-1948",
