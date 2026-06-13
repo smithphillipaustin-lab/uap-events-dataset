@@ -3,9 +3,102 @@
   "description": "A documented record of unidentified aerial phenomena: government hearings, declassified documents, named witness testimony, and major sightings.",
   "canonical": "https://disclosurearchives.com/",
   "license": "Editorial copy CC-BY 4.0 — attribution to Disclosure Archives required. Primary-source links retain their original publisher's terms.",
-  "generatedAt": "2026-06-12T10:56:28.209Z",
-  "eventCount": 142,
+  "generatedAt": "2026-06-13T09:50:37.592Z",
+  "eventCount": 149,
   "events": [
+    {
+      "slug": "pursue-release-03-june-2026",
+      "title": "PURSUE Release 03: Department of War declassifies 72 more UAP files — the FBI's tranche",
+      "summary": "The third tranche of the Trump administration's PURSUE program: 72 files — 53 documents, 10 images, 6 videos, 3 audio files — bringing the public corpus to 294 files. The FBI dominates with 29 files, anchored by two modern American case clusters: a four-year series of orb sightings in the northeastern U.S. that the Bureau's own agents witnessed first-hand, and the first-person record of the October 2023 Western US Event. Also included: the CIA's 1953 Robertson Panel report in less-redacted form, NASA's Gemini-era crew debriefings, and the 1962 Cronkite–Cooper interview audio.",
+      "eventType": "document_release",
+      "eventDate": "2026-06-12",
+      "dateDisplay": "June 12, 2026",
+      "location": {
+        "name": "The Pentagon",
+        "region": "Virginia",
+        "country": "United States",
+        "lat": 38.8719,
+        "lng": -77.0563
+      },
+      "sourceName": "U.S. Department of War — PURSUE",
+      "sourceUrl": "https://www.war.gov/News/Releases/Release/Article/4515408/department-of-war-publishes-third-release-of-unidentified-anomalous-phenomena-f/",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "FBI",
+          "slug": "fbi"
+        },
+        {
+          "name": "NASA",
+          "slug": "nasa"
+        },
+        {
+          "name": "Trump Administration",
+          "slug": "trump-administration"
+        },
+        {
+          "name": "CIA",
+          "slug": "cia"
+        },
+        {
+          "name": "PURSUE Release 03",
+          "slug": "pursue-release-03"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-release-03-june-2026",
+      "updatedAt": "2026-06-12T21:40:13.131Z"
+    },
+    {
+      "slug": "grusch-lawmakers-capitol-disclosure-2026",
+      "title": "Grusch and bipartisan lawmakers demand UAP record declassification on the Capitol steps",
+      "summary": "On June 9, 2026, UAP whistleblower David Grusch joined a bipartisan group of House members on the steps of the U.S. Capitol to demand that the federal government declassify and publish its records on unidentified anomalous phenomena. Reps. Anna Paulina Luna, Eric Burlison, Tim Burchett, and Jared Moskowitz appeared alongside investigative journalist Leslie Kean and documentary filmmaker James Fox, pressing Congress to pass the UAP Disclosure Act and to ensure that career intelligence officials do not obstruct the administration's declassification directive.",
+      "eventType": "official_statement",
+      "eventDate": "2026-06-09",
+      "dateDisplay": "June 9, 2026",
+      "location": {
+        "name": "U.S. Capitol",
+        "region": "District of Columbia",
+        "country": "United States",
+        "lat": 38.8899,
+        "lng": -77.0091
+      },
+      "sourceName": "NewsNation",
+      "sourceUrl": "https://www.newsnationnow.com/your-morning/ufo-whistleblower-david-grusch-capitol/",
+      "tags": [
+        {
+          "name": "Whistleblower",
+          "slug": "whistleblower"
+        },
+        {
+          "name": "Legislation",
+          "slug": "legislation"
+        },
+        {
+          "name": "Trump Administration",
+          "slug": "trump-administration"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "David Grusch",
+          "slug": "david-grusch"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/grusch-lawmakers-capitol-disclosure-2026",
+      "updatedAt": "2026-06-12T21:40:12.892Z"
+    },
     {
       "slug": "pursue-release-02-may-2026",
       "title": "PURSUE Release 02: Department of War declassifies 64 more UAP files",
@@ -75,7 +168,7 @@
         }
       ],
       "canonical": "https://disclosurearchives.com/events/pursue-release-02-may-2026",
-      "updatedAt": "2026-06-12T02:49:19.225Z"
+      "updatedAt": "2026-06-12T21:40:07.661Z"
     },
     {
       "slug": "pentagon-s-pursue-initiative-prepares-release-02-of-up-to-46-aaro-uap-videos",
@@ -533,7 +626,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/senior-usic-officer-orange-orbs-2025",
-      "updatedAt": "2026-06-12T02:49:19.508Z"
+      "updatedAt": "2026-06-12T21:40:07.894Z"
     },
     {
       "slug": "aaro-hosts-private-workshop-on-uap-data-standardization-with-civilian-researcher",
@@ -854,7 +947,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/new-jersey-drone-wave-2024",
-      "updatedAt": "2026-06-12T02:49:23.944Z"
+      "updatedAt": "2026-06-12T21:40:12.754Z"
     },
     {
       "slug": "aaro-provides-classified-briefing-to-lawmakers-amid-new-jersey-mystery-drone-inc",
@@ -1001,6 +1094,52 @@
       ],
       "canonical": "https://disclosurearchives.com/events/canadian-mp-larry-maguire-sponsors-parliamentary-petition-e-5178-calling-for-nat",
       "updatedAt": "2026-06-12T03:03:07.990Z"
+    },
+    {
+      "slug": "fbi-northeastern-orb-corpus-2021-2025",
+      "title": "The FBI's orb files: four years of phenomena in one corner of the northeastern U.S. — witnessed by the Bureau's own agents",
+      "summary": "PURSUE Release 03 declassifies the FBI's investigation of recurring orb phenomena in one sparsely populated area of the northeastern United States: four authenticated eyewitness videos spanning November 2021 to July 2025 — 'Triangle Orbs,' 'Red Orb Rotation,' 'Orbs Over the Pond,' and the 'Northeastern Orb Sighting' — plus seven investigative records. The standout: an FD-1057 documenting two FBI special agents' own first-hand UAP observation during a November 2024 site survey. The Bureau assesses the civilian witnesses as 'highly credible.'",
+      "eventType": "sighting",
+      "eventDate": "2024-11-15",
+      "dateDisplay": "2021–2025",
+      "location": {
+        "name": "Northeastern United States",
+        "region": "Undisclosed",
+        "country": "United States",
+        "lat": 43.2,
+        "lng": -71.6
+      },
+      "sourceName": "Federal Bureau of Investigation / Department of War — PURSUE Release 03",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "Law Enforcement",
+          "slug": "law-enforcement"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "FBI",
+          "slug": "fbi"
+        },
+        {
+          "name": "PURSUE Release 03",
+          "slug": "pursue-release-03"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/fbi-northeastern-orb-corpus-2021-2025",
+      "updatedAt": "2026-06-12T21:40:13.330Z"
     },
     {
       "slug": "house-uap-hearing-eyes-wide-open-2024",
@@ -1871,7 +2010,7 @@
         "lat": 39.5,
         "lng": -113
       },
-      "sourceName": "U.S. Department of War / AARO — PURSUE Release 01",
+      "sourceName": "U.S. Department of War / AARO — PURSUE Releases 01 & 03",
       "sourceUrl": "https://www.war.gov/UFO/",
       "tags": [
         {
@@ -1883,6 +2022,10 @@
           "slug": "multiple-witnesses"
         },
         {
+          "name": "Law Enforcement",
+          "slug": "law-enforcement"
+        },
+        {
           "name": "PURSUE Release 01",
           "slug": "pursue-release-01"
         },
@@ -1891,21 +2034,17 @@
           "slug": "department-of-war"
         },
         {
-          "name": "2020s",
-          "slug": "2020s"
+          "name": "FBI",
+          "slug": "fbi"
         },
         {
-          "name": "Americas",
-          "slug": "americas"
-        },
-        {
-          "name": "Spherical UAP / orbs",
-          "slug": "spherical-uap"
+          "name": "PURSUE Release 03",
+          "slug": "pursue-release-03"
         }
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/western-us-event-2023",
-      "updatedAt": "2026-05-11 10:53:31"
+      "updatedAt": "2026-06-12T21:40:14.082Z"
     },
     {
       "slug": "grusch-fravor-graves-testimony-2023",
@@ -2340,7 +2479,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/lake-huron-f16-shootdown-2023",
-      "updatedAt": "2026-06-12T02:49:19.835Z"
+      "updatedAt": "2026-06-12T21:40:08.193Z"
     },
     {
       "slug": "ndaa-aaro-establishment-2022",
@@ -2421,7 +2560,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr050-iran-formation-2022",
-      "updatedAt": "2026-06-12T02:49:20.144Z"
+      "updatedAt": "2026-06-12T21:40:08.495Z"
     },
     {
       "slug": "pursue-pr-023",
@@ -2839,7 +2978,49 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/uss-submarine-spherical-orbs-march-2022",
-      "updatedAt": "2026-06-12T02:49:20.703Z"
+      "updatedAt": "2026-06-12T21:40:08.969Z"
+    },
+    {
+      "slug": "colorado-springs-uap-2022",
+      "title": "Colorado Springs, 2022: the 'bean-shaped' object the government still can't explain",
+      "summary": "U.S. military service members near Colorado Springs reported a motionless, silent, matte-white 'bean-shaped' object whose surface was covered in intersecting ridges forming an abstract polygon pattern. PURSUE Release 03 declassifies the FBI's witness interviews, a digital rendering, and an Intelligence Community partner's analysis assessing — with low confidence — that the phenomenon may have been sunlight backscattering from snow-covered mountains. The case remains unresolved as of June 2026.",
+      "eventType": "sighting",
+      "eventDate": "2022-02-15",
+      "dateDisplay": "February 2022",
+      "location": {
+        "name": "Colorado Springs",
+        "region": "Colorado",
+        "country": "United States",
+        "lat": 38.8339,
+        "lng": -104.8214
+      },
+      "sourceName": "FBI / Intelligence Community / Department of War — PURSUE Release 03",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "FBI",
+          "slug": "fbi"
+        },
+        {
+          "name": "PURSUE Release 03",
+          "slug": "pursue-release-03"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/colorado-springs-uap-2022",
+      "updatedAt": "2026-06-12T21:40:13.493Z"
     },
     {
       "slug": "odni-preliminary-assessment-2021",
@@ -2911,7 +3092,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr051-syria-instant-acceleration-2021",
-      "updatedAt": "2026-06-12T02:49:19.997Z"
+      "updatedAt": "2026-06-12T21:40:08.342Z"
     },
     {
       "slug": "dow-uap-pr055-afghanistan-sphere-clouds-2020",
@@ -2949,7 +3130,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr055-afghanistan-sphere-clouds-2020",
-      "updatedAt": "2026-06-12T02:49:20.294Z"
+      "updatedAt": "2026-06-12T21:40:08.666Z"
     },
     {
       "slug": "pursue-dow-uap-d64-mission-report-iran-november-2020",
@@ -4007,7 +4188,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/east-coast-uap-december-2019",
-      "updatedAt": "2026-06-12T02:49:20.547Z"
+      "updatedAt": "2026-06-12T21:40:08.807Z"
     },
     {
       "slug": "nyt-aatip-story-2017",
@@ -4130,7 +4311,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/go-fast-video-2015",
-      "updatedAt": "2026-06-12T02:49:23.788Z"
+      "updatedAt": "2026-06-12T21:40:12.480Z"
     },
     {
       "slug": "gimbal-video-2015",
@@ -4172,7 +4353,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/gimbal-video-2015",
-      "updatedAt": "2026-06-12T02:49:23.643Z"
+      "updatedAt": "2026-06-12T21:40:12.306Z"
     },
     {
       "slug": "east-coast-incursions-2014-2015",
@@ -4295,7 +4476,45 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/skinwalker-ranch-aawsap-2008",
-      "updatedAt": "2026-06-12T02:49:23.344Z"
+      "updatedAt": "2026-06-12T21:40:12.001Z"
+    },
+    {
+      "slug": "harare-airport-uap-2008",
+      "title": "Harare, 2008: the CIA report that debated reconnaissance device vs. 'extraterrestrial origins'",
+      "summary": "A never-before-released July 2008 CIA report — featured by the Department of War in PURSUE Release 03 — documents a UFO sighting at Harare International Airport, Zimbabwe, and an internal debate over whether the object was an advanced reconnaissance device of a foreign government or 'of extraterrestrial origins.' The report's routing context: perceived aggressive foreign posturing had placed personnel on high alert.",
+      "eventType": "sighting",
+      "eventDate": "2008-07-15",
+      "dateDisplay": "July 2008",
+      "location": {
+        "name": "Harare",
+        "region": "Harare Province",
+        "country": "Zimbabwe",
+        "lat": -17.9318,
+        "lng": 31.0928
+      },
+      "sourceName": "Central Intelligence Agency / Department of War — PURSUE Release 03",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "International",
+          "slug": "international"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "CIA",
+          "slug": "cia"
+        },
+        {
+          "name": "PURSUE Release 03",
+          "slug": "pursue-release-03"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/harare-airport-uap-2008",
+      "updatedAt": "2026-06-12T21:40:13.949Z"
     },
     {
       "slug": "stephenville-lights-2008",
@@ -4582,7 +4801,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/skinwalker-ranch-sherman-1996",
-      "updatedAt": "2026-06-12T02:49:23.208Z"
+      "updatedAt": "2026-06-12T21:40:11.819Z"
     },
     {
       "slug": "varginha-incident-1996",
@@ -4616,7 +4835,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/varginha-incident-1996",
-      "updatedAt": "2026-06-12T02:49:23.498Z"
+      "updatedAt": "2026-06-12T21:40:12.153Z"
     },
     {
       "slug": "ariel-school-1994",
@@ -4971,7 +5190,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/ussr-luminous-green-object-1973",
-      "updatedAt": "2026-06-12T02:49:20.861Z"
+      "updatedAt": "2026-06-12T21:40:09.140Z"
     },
     {
       "slug": "pursue-nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973",
@@ -5128,7 +5347,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/apollo-12-medical-debrief-1969",
-      "updatedAt": "2026-06-12T02:49:21.014Z"
+      "updatedAt": "2026-06-12T21:40:09.299Z"
     },
     {
       "slug": "apollo-12-lunar-imagery-1969",
@@ -5364,6 +5583,40 @@
       "updatedAt": "2026-05-10 12:00:00"
     },
     {
+      "slug": "nasa-gemini-debriefings-1962-1972",
+      "title": "NASA's Gemini debriefings and the Cronkite–Cooper tape",
+      "summary": "PURSUE Release 03 publishes eight NASA crew-debriefing transcripts spanning Glenn and Schirra (1962-63) through Gemini 4, 5, 7, and 9 — the formal record of the 'sparkles,' 'snow,' and luminous-particle observations of early U.S. spaceflight — plus three audio files: the November 1962 Walter Cronkite interview in which Gordon Cooper says 'exceptionally well-qualified people have seen objects' without logical explanation, and two Apollo 16 scientific debriefings, one containing an off-hand 'could be an alien starbase' remark.",
+      "eventType": "document_release",
+      "eventDate": "1965-06-07",
+      "dateDisplay": "1962–1972",
+      "location": {
+        "name": "Low Earth orbit — Gemini program",
+        "region": "LEO",
+        "country": "Earth orbit",
+        "lat": 32.5,
+        "lng": -80.6
+      },
+      "sourceName": "NASA / Department of War — PURSUE Release 03",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "NASA",
+          "slug": "nasa"
+        },
+        {
+          "name": "PURSUE Release 03",
+          "slug": "pursue-release-03"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/nasa-gemini-debriefings-1962-1972",
+      "updatedAt": "2026-06-12T21:40:13.798Z"
+    },
+    {
       "slug": "state-dept-sp-files-1963",
       "title": "State Department SP-16 files — July 1963 UAP correspondence",
       "summary": "Two State Department files from the SP series (Bureau of Politico-Military Affairs / Office of Special Political Affairs), dated July 1963, addressing UAP-related diplomatic correspondence.",
@@ -5464,6 +5717,48 @@
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/afosi-incident-summaries-1955",
       "updatedAt": "2026-05-12 11:47:48"
+    },
+    {
+      "slug": "robertson-panel-report-1953",
+      "title": "The Robertson Panel, less redacted: the CIA report that built the 'debunking' policy",
+      "summary": "PURSUE Release 03 publishes the CIA's 1952-1953 Scientific Advisory Panel on Unidentified Flying Objects — the Robertson Panel — in less-redacted form, with the Department of War's own transmission copy to the Secretary of Defense. The panel found no direct physical threat but warned that public fascination could clog intelligence channels and that a 'morbid national psychology' could be exploited by adversaries — and recommended an official policy of 'debunking' to 'strip the UFO subject of its mystery.'",
+      "eventType": "document_release",
+      "eventDate": "1953-01-17",
+      "dateDisplay": "January 1953",
+      "location": {
+        "name": "Washington",
+        "region": "District of Columbia",
+        "country": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "sourceName": "Central Intelligence Agency / Department of War — PURSUE Release 03",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "Cold War",
+          "slug": "cold-war"
+        },
+        {
+          "name": "Project Blue Book",
+          "slug": "project-blue-book"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "CIA",
+          "slug": "cia"
+        },
+        {
+          "name": "PURSUE Release 03",
+          "slug": "pursue-release-03"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/robertson-panel-report-1953",
+      "updatedAt": "2026-06-12T21:40:13.662Z"
     },
     {
       "slug": "washington-dc-flyover-1952",
@@ -5672,7 +5967,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/sandia-green-orbs-1948-1950",
-      "updatedAt": "2026-06-12T02:49:19.679Z"
+      "updatedAt": "2026-06-12T21:40:08.055Z"
     },
     {
       "slug": "mantell-incident-1948",
