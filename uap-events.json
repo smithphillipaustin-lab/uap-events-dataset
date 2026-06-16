@@ -3,7 +3,7 @@
   "description": "A documented record of unidentified aerial phenomena: government hearings, declassified documents, named witness testimony, and major sightings.",
   "canonical": "https://disclosurearchives.com/",
   "license": "Editorial copy CC-BY 4.0 — attribution to Disclosure Archives required. Primary-source links retain their original publisher's terms.",
-  "generatedAt": "2026-06-13T09:50:37.592Z",
+  "generatedAt": "2026-06-16T02:15:33.822Z",
   "eventCount": 149,
   "events": [
     {
@@ -58,12 +58,12 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/pursue-release-03-june-2026",
-      "updatedAt": "2026-06-12T21:40:13.131Z"
+      "updatedAt": "2026-06-16T02:14:55.286Z"
     },
     {
       "slug": "grusch-lawmakers-capitol-disclosure-2026",
       "title": "Grusch and bipartisan lawmakers demand UAP record declassification on the Capitol steps",
-      "summary": "On June 9, 2026, UAP whistleblower David Grusch joined a bipartisan group of House members on the steps of the U.S. Capitol to demand that the federal government declassify and publish its records on unidentified anomalous phenomena. Reps. Anna Paulina Luna, Eric Burlison, Tim Burchett, and Jared Moskowitz appeared alongside investigative journalist Leslie Kean and documentary filmmaker James Fox, pressing Congress to pass the UAP Disclosure Act and to ensure that career intelligence officials do not obstruct the administration's declassification directive.",
+      "summary": "On June 9, 2026, UAP whistleblower David Grusch joined a bipartisan group of House members on the steps of the U.S. Capitol to demand that the federal government declassify and publish its records on unidentified anomalous phenomena. Reps. Anna Paulina Luna, Eric Burlison, Tim Burchett, and Jared Moskowitz appeared alongside investigative journalist Leslie Kean and documentary filmmaker James Fox, pressing Congress to pass the UAP Disclosure Act and to ensure that career intelligence officials do not obstruct the administration's declassification directive. At the lectern Grusch went further than usual on the nature of the phenomena, telling reporters the government is aware of 'several' kinds of non-human life, ranging from 'corporeal bipedal type life' to what he called 'sentient plasma life.'",
       "eventType": "official_statement",
       "eventDate": "2026-06-09",
       "dateDisplay": "June 9, 2026",
@@ -88,6 +88,10 @@
         {
           "name": "Trump Administration",
           "slug": "trump-administration"
+        },
+        {
+          "name": "Non-Human Intelligence",
+          "slug": "non-human-intelligence"
         }
       ],
       "witnesses": [
@@ -97,7 +101,7 @@
         }
       ],
       "canonical": "https://disclosurearchives.com/events/grusch-lawmakers-capitol-disclosure-2026",
-      "updatedAt": "2026-06-12T21:40:12.892Z"
+      "updatedAt": "2026-06-16T02:14:54.906Z"
     },
     {
       "slug": "pursue-release-02-may-2026",
@@ -168,7 +172,7 @@
         }
       ],
       "canonical": "https://disclosurearchives.com/events/pursue-release-02-may-2026",
-      "updatedAt": "2026-06-12T21:40:07.661Z"
+      "updatedAt": "2026-06-16T02:14:47.452Z"
     },
     {
       "slug": "pentagon-s-pursue-initiative-prepares-release-02-of-up-to-46-aaro-uap-videos",
@@ -626,7 +630,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/senior-usic-officer-orange-orbs-2025",
-      "updatedAt": "2026-06-12T21:40:07.894Z"
+      "updatedAt": "2026-06-16T02:14:47.912Z"
     },
     {
       "slug": "aaro-hosts-private-workshop-on-uap-data-standardization-with-civilian-researcher",
@@ -947,7 +951,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/new-jersey-drone-wave-2024",
-      "updatedAt": "2026-06-12T21:40:12.754Z"
+      "updatedAt": "2026-06-16T02:14:54.661Z"
     },
     {
       "slug": "aaro-provides-classified-briefing-to-lawmakers-amid-new-jersey-mystery-drone-inc",
@@ -1139,7 +1143,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/fbi-northeastern-orb-corpus-2021-2025",
-      "updatedAt": "2026-06-12T21:40:13.330Z"
+      "updatedAt": "2026-06-16T02:14:55.567Z"
     },
     {
       "slug": "house-uap-hearing-eyes-wide-open-2024",
@@ -2044,7 +2048,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/western-us-event-2023",
-      "updatedAt": "2026-06-12T21:40:14.082Z"
+      "updatedAt": "2026-06-16T02:14:56.991Z"
     },
     {
       "slug": "grusch-fravor-graves-testimony-2023",
@@ -2479,7 +2483,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/lake-huron-f16-shootdown-2023",
-      "updatedAt": "2026-06-12T21:40:08.193Z"
+      "updatedAt": "2026-06-16T02:14:48.423Z"
     },
     {
       "slug": "ndaa-aaro-establishment-2022",
@@ -2560,7 +2564,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr050-iran-formation-2022",
-      "updatedAt": "2026-06-12T21:40:08.495Z"
+      "updatedAt": "2026-06-16T02:14:48.975Z"
     },
     {
       "slug": "pursue-pr-023",
@@ -2978,7 +2982,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/uss-submarine-spherical-orbs-march-2022",
-      "updatedAt": "2026-06-12T21:40:08.969Z"
+      "updatedAt": "2026-06-16T02:14:49.754Z"
     },
     {
       "slug": "colorado-springs-uap-2022",
@@ -3020,7 +3024,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/colorado-springs-uap-2022",
-      "updatedAt": "2026-06-12T21:40:13.493Z"
+      "updatedAt": "2026-06-16T02:14:55.857Z"
     },
     {
       "slug": "odni-preliminary-assessment-2021",
@@ -3092,7 +3096,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr051-syria-instant-acceleration-2021",
-      "updatedAt": "2026-06-12T21:40:08.342Z"
+      "updatedAt": "2026-06-16T02:14:48.703Z"
     },
     {
       "slug": "dow-uap-pr055-afghanistan-sphere-clouds-2020",
@@ -3130,7 +3134,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr055-afghanistan-sphere-clouds-2020",
-      "updatedAt": "2026-06-12T21:40:08.666Z"
+      "updatedAt": "2026-06-16T02:14:49.235Z"
     },
     {
       "slug": "pursue-dow-uap-d64-mission-report-iran-november-2020",
@@ -4188,7 +4192,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/east-coast-uap-december-2019",
-      "updatedAt": "2026-06-12T21:40:08.807Z"
+      "updatedAt": "2026-06-16T02:14:49.493Z"
     },
     {
       "slug": "nyt-aatip-story-2017",
@@ -4311,7 +4315,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/go-fast-video-2015",
-      "updatedAt": "2026-06-12T21:40:12.480Z"
+      "updatedAt": "2026-06-16T02:14:54.395Z"
     },
     {
       "slug": "gimbal-video-2015",
@@ -4353,7 +4357,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/gimbal-video-2015",
-      "updatedAt": "2026-06-12T21:40:12.306Z"
+      "updatedAt": "2026-06-16T02:14:54.107Z"
     },
     {
       "slug": "east-coast-incursions-2014-2015",
@@ -4476,7 +4480,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/skinwalker-ranch-aawsap-2008",
-      "updatedAt": "2026-06-12T21:40:12.001Z"
+      "updatedAt": "2026-06-16T02:14:53.228Z"
     },
     {
       "slug": "harare-airport-uap-2008",
@@ -4514,7 +4518,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/harare-airport-uap-2008",
-      "updatedAt": "2026-06-12T21:40:13.949Z"
+      "updatedAt": "2026-06-16T02:14:56.694Z"
     },
     {
       "slug": "stephenville-lights-2008",
@@ -4801,7 +4805,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/skinwalker-ranch-sherman-1996",
-      "updatedAt": "2026-06-12T21:40:11.819Z"
+      "updatedAt": "2026-06-16T02:14:52.953Z"
     },
     {
       "slug": "varginha-incident-1996",
@@ -4835,7 +4839,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/varginha-incident-1996",
-      "updatedAt": "2026-06-12T21:40:12.153Z"
+      "updatedAt": "2026-06-16T02:14:53.876Z"
     },
     {
       "slug": "ariel-school-1994",
@@ -5190,7 +5194,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/ussr-luminous-green-object-1973",
-      "updatedAt": "2026-06-12T21:40:09.140Z"
+      "updatedAt": "2026-06-16T02:14:49.989Z"
     },
     {
       "slug": "pursue-nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973",
@@ -5347,7 +5351,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/apollo-12-medical-debrief-1969",
-      "updatedAt": "2026-06-12T21:40:09.299Z"
+      "updatedAt": "2026-06-16T02:14:50.252Z"
     },
     {
       "slug": "apollo-12-lunar-imagery-1969",
@@ -5614,7 +5618,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/nasa-gemini-debriefings-1962-1972",
-      "updatedAt": "2026-06-12T21:40:13.798Z"
+      "updatedAt": "2026-06-16T02:14:56.378Z"
     },
     {
       "slug": "state-dept-sp-files-1963",
@@ -5758,7 +5762,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/robertson-panel-report-1953",
-      "updatedAt": "2026-06-12T21:40:13.662Z"
+      "updatedAt": "2026-06-16T02:14:56.110Z"
     },
     {
       "slug": "washington-dc-flyover-1952",
@@ -5967,7 +5971,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/sandia-green-orbs-1948-1950",
-      "updatedAt": "2026-06-12T21:40:08.055Z"
+      "updatedAt": "2026-06-16T02:14:48.180Z"
     },
     {
       "slug": "mantell-incident-1948",
