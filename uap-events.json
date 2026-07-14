@@ -3,8 +3,8 @@
   "description": "A documented record of unidentified aerial phenomena: government hearings, declassified documents, named witness testimony, and major sightings.",
   "canonical": "https://disclosurearchives.com/",
   "license": "Editorial copy CC-BY 4.0 — attribution to Disclosure Archives required. Primary-source links retain their original publisher's terms.",
-  "generatedAt": "2026-07-12T13:06:29.558Z",
-  "eventCount": 152,
+  "generatedAt": "2026-07-13T10:15:17.987Z",
+  "eventCount": 153,
   "events": [
     {
       "slug": "pentagon-s-fourth-pursue-release-includes-new-uap-videos-and-historical-files-da",
@@ -54,6 +54,73 @@
       ],
       "canonical": "https://disclosurearchives.com/events/pentagon-s-fourth-pursue-release-includes-new-uap-videos-and-historical-files-da",
       "updatedAt": "2026-07-12T12:57:50.373Z"
+    },
+    {
+      "slug": "uap-science-advisory-council-formed-to-support-trump-administration-s-new-intera",
+      "title": "UAP Science Advisory Council Formed to Support Trump Administration's New Interagency UAP Governance Board",
+      "summary": "Harvard University theoretical physicist and Professor of Science Avi Loeb announced the formation of a new UAP Science Advisory Council on or around June 17, 2026, disclosing early details to DefenseScoop. The multidisciplinary council, comprising twelve named expert researchers spanning physical sciences, biology, psychology, and anthropology, is chartered to provide scientific guidance to the U.S. government's unidentified anomalous phenomena investigations and to advise on whether unexplained sightings constitute national security threats or represent novel discoveries. The council will report to a newly established interagency UAP Governance Board, co-established by ODNI, the FBI, and the Department of Defense, which held its first meeting on June 16, 2026.\n\nThe council's formation follows President Donald Trump's February 2026 directive instructing the Defense Secretary and relevant agencies to begin identifying and releasing government files related to UAP, aliens, and UFOs. Three batches of UAP files were released under that initiative on May 8, May 22, and June 12, 2026. AARO Director Jon Kosloski signed the most recent report, dated June 5, 2026, which described law enforcement officials observing an orange \"mother\" orb launching smaller red orbs during two days in October 2023, with approximately 40 percent of reported phenomena remaining unresolved. All data provided to the science council will be unclassified.",
+      "eventType": "official_statement",
+      "eventDate": "2026-06-17",
+      "dateDisplay": null,
+      "location": {
+        "name": "Washington, D.C.",
+        "region": "District of Columbia",
+        "country": "United States",
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "sourceName": "DefenseScoop",
+      "sourceUrl": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Trump Administration",
+          "slug": "trump-administration"
+        },
+        {
+          "name": "ODNI",
+          "slug": "odni"
+        },
+        {
+          "name": "Declassification",
+          "slug": "declassification"
+        },
+        {
+          "name": "UAP Governance Board",
+          "slug": "uap-governance-board"
+        },
+        {
+          "name": "Science Advisory Council",
+          "slug": "science-advisory-council"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Tim Gallaudet",
+          "slug": "tim-gallaudet"
+        },
+        {
+          "name": "Garry Nolan",
+          "slug": "garry-nolan"
+        },
+        {
+          "name": "Jon Kosloski",
+          "slug": "jon-kosloski"
+        },
+        {
+          "name": "Matthew Szydagis",
+          "slug": "matthew-szydagis"
+        },
+        {
+          "name": "Avi Loeb",
+          "slug": "avi-loeb"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/uap-science-advisory-council-formed-to-support-trump-administration-s-new-intera",
+      "updatedAt": "2026-07-12T13:33:16.763Z"
     },
     {
       "slug": "pentagon-releases-third-pursue-batch-cia-zimbabwe-file-colorado-springs-potato-o",
