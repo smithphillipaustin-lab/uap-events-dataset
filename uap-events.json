@@ -3,9 +3,55 @@
   "description": "A documented record of unidentified aerial phenomena: government hearings, declassified documents, named witness testimony, and major sightings.",
   "canonical": "https://disclosurearchives.com/",
   "license": "Editorial copy CC-BY 4.0 — attribution to Disclosure Archives required. Primary-source links retain their original publisher's terms.",
-  "generatedAt": "2026-07-22T09:21:32.622Z",
-  "eventCount": 153,
+  "generatedAt": "2026-07-24T05:06:36.947Z",
+  "eventCount": 154,
   "events": [
+    {
+      "slug": "aaro-fy2025-annual-report-discloses-navy-encounter-with-100-uap-off-virginia-coa",
+      "title": "AARO FY2025 Annual Report Discloses Navy Encounter with ~100 UAP off Virginia Coast; 319 New Reports Logged",
+      "summary": "The Pentagon's All-domain Anomaly Resolution Office (AARO) released its Fiscal Year 2025 Consolidated Annual Report on Unidentified Anomalous Phenomena on or around July 21, 2026, disclosing that the office received 319 UAP reports between June 2, 2024 and May 30, 2025. Among the most notable disclosures is a single maritime-domain case involving a report from U.S. Navy assets operating off the coast of Virginia, describing approximately 100 airborne UAP and two likely uncrewed surface systems. AARO confirmed it is actively investigating the event in coordination with the reporting unit.\n\nThe 14-page report, mandated by the Intelligence Authorization Act for Fiscal Year 2023, also noted that AARO resolved 114 of the 319 cases — attributing them to balloons, birds, satellites, aircraft, unmanned aerial systems, a rocket launch, and a manned jet pack. As of May 30, 2025, the office's total case holdings stood at 1,870 reports. Officials also flagged two cases in which electronic or avionic interference was reported in proximity to operational aircraft, and reiterated that none of the resolved UAP cases to date indicate advanced foreign adversarial capabilities or breakthrough technologies. AARO additionally revealed it is developing a formal process for handling UAP-derived physical materials should such items come into government possession.",
+      "eventType": "report",
+      "eventDate": "2026-07-21",
+      "dateDisplay": null,
+      "location": {
+        "name": "Virginia Coast / Pentagon",
+        "region": "Virginia",
+        "country": "United States",
+        "lat": 36.9,
+        "lng": -75.9
+      },
+      "sourceName": "DefenseScoop",
+      "sourceUrl": "https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Annual Report",
+          "slug": "annual-report"
+        },
+        {
+          "name": "Navy Encounter",
+          "slug": "navy-encounter"
+        },
+        {
+          "name": "FY2025",
+          "slug": "fy2025"
+        },
+        {
+          "name": "Maritime Domain",
+          "slug": "maritime-domain"
+        },
+        {
+          "name": "Virginia Coast",
+          "slug": "virginia-coast"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/aaro-fy2025-annual-report-discloses-navy-encounter-with-100-uap-off-virginia-coa",
+      "updatedAt": "2026-07-23T11:40:03.157Z"
+    },
     {
       "slug": "pentagon-s-fourth-pursue-release-includes-new-uap-videos-and-historical-files-da",
       "title": "Pentagon's Fourth PURSUE Release Includes New UAP Videos and Historical Files Dating to the 1940s",
