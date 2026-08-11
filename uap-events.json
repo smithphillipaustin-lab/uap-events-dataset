@@ -3,8 +3,8 @@
   "description": "A documented record of unidentified aerial phenomena: government hearings, declassified documents, named witness testimony, and major sightings.",
   "canonical": "https://disclosurearchives.com/",
   "license": "Editorial copy CC-BY 4.0 — attribution to Disclosure Archives required. Primary-source links retain their original publisher's terms.",
-  "generatedAt": "2026-08-09T17:57:44.030Z",
-  "eventCount": 154,
+  "generatedAt": "2026-08-10T20:57:12.462Z",
+  "eventCount": 155,
   "events": [
     {
       "slug": "aaro-fy2025-annual-report-discloses-navy-encounter-with-100-uap-off-virginia-coa",
@@ -279,7 +279,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/pursue-release-03-june-2026",
-      "updatedAt": "2026-08-09T17:56:41.237Z"
+      "updatedAt": "2026-08-10T20:56:25.659Z"
     },
     {
       "slug": "iaa-seti-committee-and-unhidden-foundation-release-updated-protocols-for-extrate",
@@ -387,7 +387,7 @@
         }
       ],
       "canonical": "https://disclosurearchives.com/events/grusch-lawmakers-capitol-disclosure-2026",
-      "updatedAt": "2026-08-09T17:56:40.990Z"
+      "updatedAt": "2026-08-10T20:56:25.433Z"
     },
     {
       "slug": "pursue-release-02-may-2026",
@@ -458,7 +458,7 @@
         }
       ],
       "canonical": "https://disclosurearchives.com/events/pursue-release-02-may-2026",
-      "updatedAt": "2026-08-09T17:56:36.520Z"
+      "updatedAt": "2026-08-10T20:56:20.232Z"
     },
     {
       "slug": "pentagon-s-pursue-initiative-prepares-release-02-of-up-to-46-aaro-uap-videos",
@@ -916,7 +916,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/senior-usic-officer-orange-orbs-2025",
-      "updatedAt": "2026-08-09T17:56:36.753Z"
+      "updatedAt": "2026-08-10T20:56:20.466Z"
     },
     {
       "slug": "aaro-hosts-private-workshop-on-uap-data-standardization-with-civilian-researcher",
@@ -1237,7 +1237,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/new-jersey-drone-wave-2024",
-      "updatedAt": "2026-08-09T17:56:40.875Z"
+      "updatedAt": "2026-08-10T20:56:25.300Z"
     },
     {
       "slug": "aaro-provides-classified-briefing-to-lawmakers-amid-new-jersey-mystery-drone-inc",
@@ -1429,7 +1429,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/fbi-northeastern-orb-corpus-2021-2025",
-      "updatedAt": "2026-08-09T17:56:41.370Z"
+      "updatedAt": "2026-08-10T20:56:25.816Z"
     },
     {
       "slug": "house-uap-hearing-eyes-wide-open-2024",
@@ -1943,6 +1943,48 @@
       "updatedAt": "2026-05-10 12:00:00"
     },
     {
+      "slug": "dow-uap-pr028-greece-january-2024",
+      "title": "DoW PR-028: diamond-shaped object visible only on infrared, Greece",
+      "summary": "Released May 8, 2026 in PURSUE Release 01, the 65-second AARO video designated DOW-UAP-PR028 (PR-028) records a UAP over Greece that the mission report describes as diamond-shaped and moving at roughly 434 knots — detectable only on short-wave infrared. When the operator switched to the visible spectrum, it was gone.",
+      "eventType": "sighting",
+      "eventDate": "2024-01-25",
+      "dateDisplay": "January 2024",
+      "location": {
+        "name": "Aegean Sea",
+        "region": "Greece",
+        "country": "Greece",
+        "lat": 39,
+        "lng": 25
+      },
+      "sourceName": "U.S. Department of War — AARO, PURSUE Release 01",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "International",
+          "slug": "international"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "PURSUE Release 01",
+          "slug": "pursue-release-01"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/dow-uap-pr028-greece-january-2024",
+      "updatedAt": "2026-08-10T20:56:27.005Z"
+    },
+    {
       "slug": "pursue-dow-uap-d25-mission-report-greece-january-2024",
       "title": "Mission Report: Greece, January 2024 (DOW-UAP-D25)",
       "summary": "A U.S. military operator reported observing one UAP, estimating its speed as “approximately 434 knots (499 mph)”. The observer described the UAP as diamond-shaped, with a non-maneuvering probe at the bottom. The observer noted that the UAP was only visible when viewed via an onboard Short-Wave Infrared (SWIR) sensor. The observer reported that the event occurred over a duration of approximately two minutes.  All descriptive and estimative language contained in this report reflects the reporter’s",
@@ -2334,7 +2376,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/western-us-event-2023",
-      "updatedAt": "2026-08-09T17:56:42.076Z"
+      "updatedAt": "2026-08-10T20:56:26.839Z"
     },
     {
       "slug": "grusch-fravor-graves-testimony-2023",
@@ -2769,7 +2811,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/lake-huron-f16-shootdown-2023",
-      "updatedAt": "2026-08-09T17:56:37.009Z"
+      "updatedAt": "2026-08-10T20:56:20.757Z"
     },
     {
       "slug": "ndaa-aaro-establishment-2022",
@@ -2850,7 +2892,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr050-iran-formation-2022",
-      "updatedAt": "2026-08-09T17:56:37.269Z"
+      "updatedAt": "2026-08-10T20:56:21.046Z"
     },
     {
       "slug": "pursue-pr-023",
@@ -3268,7 +3310,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/uss-submarine-spherical-orbs-march-2022",
-      "updatedAt": "2026-08-09T17:56:37.657Z"
+      "updatedAt": "2026-08-10T20:56:21.566Z"
     },
     {
       "slug": "colorado-springs-uap-2022",
@@ -3310,7 +3352,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/colorado-springs-uap-2022",
-      "updatedAt": "2026-08-09T17:56:41.517Z"
+      "updatedAt": "2026-08-10T20:56:26.030Z"
     },
     {
       "slug": "odni-preliminary-assessment-2021",
@@ -3382,7 +3424,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr051-syria-instant-acceleration-2021",
-      "updatedAt": "2026-08-09T17:56:37.144Z"
+      "updatedAt": "2026-08-10T20:56:20.901Z"
     },
     {
       "slug": "dow-uap-pr055-afghanistan-sphere-clouds-2020",
@@ -3420,7 +3462,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr055-afghanistan-sphere-clouds-2020",
-      "updatedAt": "2026-08-09T17:56:37.397Z"
+      "updatedAt": "2026-08-10T20:56:21.242Z"
     },
     {
       "slug": "pursue-dow-uap-d64-mission-report-iran-november-2020",
@@ -4478,7 +4520,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/east-coast-uap-december-2019",
-      "updatedAt": "2026-08-09T17:56:37.522Z"
+      "updatedAt": "2026-08-10T20:56:21.425Z"
     },
     {
       "slug": "nyt-aatip-story-2017",
@@ -4601,7 +4643,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/go-fast-video-2015",
-      "updatedAt": "2026-08-09T17:56:40.744Z"
+      "updatedAt": "2026-08-10T20:56:25.137Z"
     },
     {
       "slug": "gimbal-video-2015",
@@ -4643,7 +4685,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/gimbal-video-2015",
-      "updatedAt": "2026-08-09T17:56:40.612Z"
+      "updatedAt": "2026-08-10T20:56:24.957Z"
     },
     {
       "slug": "east-coast-incursions-2014-2015",
@@ -4766,7 +4808,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/skinwalker-ranch-aawsap-2008",
-      "updatedAt": "2026-08-09T17:56:40.377Z"
+      "updatedAt": "2026-08-10T20:56:24.688Z"
     },
     {
       "slug": "harare-airport-uap-2008",
@@ -4804,7 +4846,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/harare-airport-uap-2008",
-      "updatedAt": "2026-08-09T17:56:41.948Z"
+      "updatedAt": "2026-08-10T20:56:26.689Z"
     },
     {
       "slug": "stephenville-lights-2008",
@@ -5091,7 +5133,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/skinwalker-ranch-sherman-1996",
-      "updatedAt": "2026-08-09T17:56:40.257Z"
+      "updatedAt": "2026-08-10T20:56:24.544Z"
     },
     {
       "slug": "varginha-incident-1996",
@@ -5125,7 +5167,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/varginha-incident-1996",
-      "updatedAt": "2026-08-09T17:56:40.493Z"
+      "updatedAt": "2026-08-10T20:56:24.830Z"
     },
     {
       "slug": "ariel-school-1994",
@@ -5480,7 +5522,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/ussr-luminous-green-object-1973",
-      "updatedAt": "2026-08-09T17:56:37.783Z"
+      "updatedAt": "2026-08-10T20:56:21.727Z"
     },
     {
       "slug": "pursue-nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973",
@@ -5637,7 +5679,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/apollo-12-medical-debrief-1969",
-      "updatedAt": "2026-08-09T17:56:37.914Z"
+      "updatedAt": "2026-08-10T20:56:21.882Z"
     },
     {
       "slug": "apollo-12-lunar-imagery-1969",
@@ -5904,7 +5946,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/nasa-gemini-debriefings-1962-1972",
-      "updatedAt": "2026-08-09T17:56:41.807Z"
+      "updatedAt": "2026-08-10T20:56:26.526Z"
     },
     {
       "slug": "state-dept-sp-files-1963",
@@ -6048,7 +6090,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/robertson-panel-report-1953",
-      "updatedAt": "2026-08-09T17:56:41.669Z"
+      "updatedAt": "2026-08-10T20:56:26.218Z"
     },
     {
       "slug": "washington-dc-flyover-1952",
@@ -6257,7 +6299,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/sandia-green-orbs-1948-1950",
-      "updatedAt": "2026-08-09T17:56:36.882Z"
+      "updatedAt": "2026-08-10T20:56:20.611Z"
     },
     {
       "slug": "mantell-incident-1948",
