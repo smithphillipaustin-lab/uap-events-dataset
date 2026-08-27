@@ -3,9 +3,58 @@
   "description": "A documented record of unidentified aerial phenomena: government hearings, declassified documents, named witness testimony, and major sightings.",
   "canonical": "https://disclosurearchives.com/",
   "license": "Editorial copy CC-BY 4.0 — attribution to Disclosure Archives required. Primary-source links retain their original publisher's terms.",
-  "generatedAt": "2026-08-25T07:35:16.686Z",
-  "eventCount": 155,
+  "generatedAt": "2026-08-27T03:11:00.479Z",
+  "eventCount": 156,
   "events": [
+    {
+      "slug": "scientists-find-critical-data-gaps-in-112-pentagon-pursue-program-uap-videos-urg",
+      "title": "Scientists Find Critical Data Gaps in 112 Pentagon PURSUE Program UAP Videos, Urge Release of Sensor Range Information",
+      "summary": "A preprint study by Jacob Haqq-Misra of Blue Marble Space and Ravi Kopparapu of NASA's Goddard Space Flight Center, published in August 2026, analyzed all 112 UAP videos released by the U.S. Department of War under the Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) since May 8, 2026. The researchers, both members of the UAP Science Advisory Council to the U.S. government, concluded that pervasive redaction of sensor data — particularly the range (distance) between observing platform and object — makes it impossible for civilian scientists to determine whether objects depicted in the footage display genuinely anomalous velocities.\n\nThe study, titled \"Limits on Velocity Recovery from the PURSUE Sensor Videos\" and posted to the arXiv preprint server, represents one of the first systematic scientific examinations of the PURSUE release corpus. It carries significance both for the UAP transparency debate and for the methodology of UAP science more broadly: the authors argue that apparent pixel-per-frame motion in infrared targeting-pod footage is not a reliable proxy for real-world object velocity without accompanying range data, platform trajectory, and camera field-of-view specifications. The researchers explicitly declined to draw extraordinary conclusions from the footage while also declining to dismiss the objects as mundane, and called for future releases to include unredacted or separately certified range measurements.",
+      "eventType": "report",
+      "eventDate": "2026-08-20",
+      "dateDisplay": null,
+      "location": null,
+      "sourceName": "The Debrief",
+      "sourceUrl": "https://thedebrief.org/scientists-just-analyzed-more-than-100-uap-videos-released-by-the-pentagons-pursue-program-this-is-what-they-learned",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "NASA",
+          "slug": "nasa"
+        },
+        {
+          "name": "Declassified Video",
+          "slug": "declassified-video"
+        },
+        {
+          "name": "PURSUE Program",
+          "slug": "pursue-program"
+        },
+        {
+          "name": "UAP Science Advisory Council",
+          "slug": "uap-science-advisory-council"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Jacob Haqq-Misra",
+          "slug": "jacob-haqq-misra"
+        },
+        {
+          "name": "Ravi Kopparapu",
+          "slug": "ravi-kopparapu"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/scientists-find-critical-data-gaps-in-112-pentagon-pursue-program-uap-videos-urg",
+      "updatedAt": "2026-08-25T12:56:36.412Z"
+    },
     {
       "slug": "aaro-fy2025-annual-report-discloses-navy-encounter-with-100-uap-off-virginia-coa",
       "title": "AARO FY2025 Annual Report Discloses Navy Encounter with ~100 UAP off Virginia Coast; 319 New Reports Logged",
