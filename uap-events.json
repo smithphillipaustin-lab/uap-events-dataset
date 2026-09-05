@@ -3,9 +3,64 @@
   "description": "A documented record of unidentified aerial phenomena: government hearings, declassified documents, named witness testimony, and major sightings.",
   "canonical": "https://disclosurearchives.com/",
   "license": "Editorial copy CC-BY 4.0 — attribution to Disclosure Archives required. Primary-source links retain their original publisher's terms.",
-  "generatedAt": "2026-09-03T15:53:37.516Z",
-  "eventCount": 157,
+  "generatedAt": "2026-09-05T10:29:07.273Z",
+  "eventCount": 158,
   "events": [
+    {
+      "slug": "pentagon-s-aaro-moves-to-contract-access-to-north-america-s-largest-private-uap-",
+      "title": "Pentagon's AARO Moves to Contract Access to North America's Largest Private UAP Historical Records Collection",
+      "summary": "The Pentagon's All-domain Anomaly Resolution Office (AARO) has moved to issue a sole-source contract to the National Unidentified Flying Object Historic Records Center (NUFOHRC), a New Mexico-based nonprofit that holds what a Defense Department source described as the world's largest private collection of UAP-related historical records. Details of the planned commercial data subscription were first disclosed in a Defense Department contracting notice reported by DefenseScoop on September 2, 2026. The subscription would grant AARO digital access to NUFOHRC's proprietary data, metadata, and analytical products, with particular emphasis on materials predating 1990.\n\nThe move represents AARO's latest step to fulfill congressional mandates requiring a comprehensive review of U.S. government UAP involvement dating back to 1945, as directed by the fiscal year 2023 National Defense Authorization Act. NUFOHRC, founded and led by UAP historian David Marler, holds hundreds of thousands of unique case files — including the complete archives of early civilian scientific UFO research groups and personal files of Dr. J. Allen Hynek, who worked on the Air Force's Project Blue Book. The proposed contract structure includes a one-year base period with four one-year option periods; the total estimated cost was not disclosed.",
+      "eventType": "official_statement",
+      "eventDate": "2026-09-02",
+      "dateDisplay": null,
+      "location": {
+        "name": "New Mexico",
+        "region": "Southwest",
+        "country": "United States",
+        "lat": 34.5199,
+        "lng": -105.8701
+      },
+      "sourceName": "DefenseScoop",
+      "sourceUrl": "https://defensescoop.com/2026/09/02/pentagon-seeks-access-to-vast-private-ufo-records-collection",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Project Blue Book",
+          "slug": "project-blue-book"
+        },
+        {
+          "name": "Declassified Document",
+          "slug": "declassified-document"
+        },
+        {
+          "name": "Historical Records",
+          "slug": "historical-records"
+        },
+        {
+          "name": "NUFOHRC",
+          "slug": "nufohrc"
+        },
+        {
+          "name": "Congressional Mandate",
+          "slug": "congressional-mandate"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "J. Allen Hynek",
+          "slug": "j-allen-hynek"
+        },
+        {
+          "name": "David Marler",
+          "slug": "david-marler"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/pentagon-s-aaro-moves-to-contract-access-to-north-america-s-largest-private-uap-",
+      "updatedAt": "2026-09-03T17:46:44.571Z"
+    },
     {
       "slug": "physicists-propose-warp-drive-atmospheric-signatures-as-framework-for-pentagon-d",
       "title": "Physicists Propose Warp Drive Atmospheric Signatures as Framework for Pentagon-Documented UAP Orb Reports",
