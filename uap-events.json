@@ -3,9 +3,111 @@
   "description": "A documented record of unidentified aerial phenomena: government hearings, declassified documents, named witness testimony, and major sightings.",
   "canonical": "https://disclosurearchives.com/",
   "license": "Editorial copy CC-BY 4.0 — attribution to Disclosure Archives required. Primary-source links retain their original publisher's terms.",
-  "generatedAt": "2026-09-16T12:18:07.571Z",
-  "eventCount": 158,
+  "generatedAt": "2026-09-17T22:00:54.936Z",
+  "eventCount": 160,
   "events": [
+    {
+      "slug": "pentagon-issues-legal-waiver-enabling-government-insiders-to-disclose-uap-inform",
+      "title": "Pentagon Issues Legal Waiver Enabling Government Insiders to Disclose UAP Information to PURSUE Initiative",
+      "summary": "The U.S. Department of War announced on September 15, 2026, a new legal waiver creating an authorized, legally protected disclosure mechanism for current and former government and military personnel to provide UAP-related National Defense Information (NDI) to designated representatives of the Presidential Unsealing and Reporting System for UAP Encounters (PURSUE). The waiver offers targeted relief from certain civil and administrative enforcement provisions contained in Non-Disclosure Agreements (NDAs) and Special Access Program Indoctrination Agreements (SAPIAs), and applies to Department of War service members, veterans, civilian employees, and contractors who hold or previously held access to UAP-related NDI.\n\nThe announcement represents a significant procedural development in UAP disclosure policy, addressing longstanding concerns from potential whistleblowers about legal and professional repercussions for discussing protected information. Critically, the waiver does not declassify any information; material submitted to PURSUE will undergo security review before any potential public release. The PURSUE initiative, launched earlier in 2026 by the Trump administration, is distinct from investigative bodies such as the All-domain Anomaly Resolution Office (AARO) and is focused specifically on identifying, reviewing, declassifying, and releasing UAP-related records held across U.S. federal agencies.",
+      "eventType": "official_statement",
+      "eventDate": "2026-09-15",
+      "dateDisplay": null,
+      "location": {
+        "name": "Pentagon",
+        "region": "Virginia",
+        "country": "United States",
+        "lat": 38.8719,
+        "lng": -77.0563
+      },
+      "sourceName": "The Debrief",
+      "sourceUrl": "https://thedebrief.org/pentagon-opens-new-pathway-for-government-insiders-to-disclose-uap-information",
+      "tags": [
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "Trump Administration",
+          "slug": "trump-administration"
+        },
+        {
+          "name": "PURSUE",
+          "slug": "pursue"
+        },
+        {
+          "name": "Declassification",
+          "slug": "declassification"
+        },
+        {
+          "name": "Whistleblower Protection",
+          "slug": "whistleblower-protection"
+        },
+        {
+          "name": "UAP Disclosure",
+          "slug": "uap-disclosure"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Michael Gold",
+          "slug": "michael-gold"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/pentagon-issues-legal-waiver-enabling-government-insiders-to-disclose-uap-inform",
+      "updatedAt": "2026-09-16T17:08:12.955Z"
+    },
+    {
+      "slug": "pentagon-issues-legal-waiver-protecting-uap-whistleblowers-who-disclose-to-trump",
+      "title": "Pentagon Issues Legal Waiver Protecting UAP Whistleblowers Who Disclose to Trump's PURSUE Project",
+      "summary": "The Department of Defense issued a formal waiver on September 14, 2026, providing targeted legal relief to past and present civilian personnel, service members, and contractors who wish to disclose UAP-related information to representatives of the Trump administration's Presidential Unsealing and Reporting System for UAP Encounters (PURSUE). The waiver explicitly supersedes civil and administrative enforcement provisions in Non-Disclosure Agreements (NDAs) and Special Access Program Indoctrination Agreements (SAPIAs) executed in the United States, authorizing covered disclosures to PURSUE representatives without triggering breach-of-agreement penalties or standard NDA violations.\n\nThe action represents a significant policy development in the federal government's ongoing UAP transparency effort. PURSUE, which President Trump unveiled earlier in 2026, directs all federal agencies and military branches to aggregate internal UAP records for potential declassification and public dissemination. The waiver addresses longstanding concerns among potential whistleblowers — cited in the Pentagon's own press release — that legal liability, loss of clearances, or administrative prosecution under standard NDA and SAP indoctrination terms have historically prevented individuals from coming forward with UAP-related knowledge.",
+      "eventType": "official_statement",
+      "eventDate": "2026-09-14",
+      "dateDisplay": null,
+      "location": {
+        "name": "The Pentagon",
+        "region": "Arlington, Virginia",
+        "country": "United States",
+        "lat": 38.8719,
+        "lng": -77.0563
+      },
+      "sourceName": "DefenseScoop",
+      "sourceUrl": "https://defensescoop.com/2026/09/14/pentagon-legal-relief-uap-whistleblowers-trump-project",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Trump Administration",
+          "slug": "trump-administration"
+        },
+        {
+          "name": "PURSUE",
+          "slug": "pursue"
+        },
+        {
+          "name": "Declassification",
+          "slug": "declassification"
+        },
+        {
+          "name": "Whistleblower Protection",
+          "slug": "whistleblower-protection"
+        },
+        {
+          "name": "NDA Waiver",
+          "slug": "nda-waiver"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Jordan Flowers",
+          "slug": "jordan-flowers"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/pentagon-issues-legal-waiver-protecting-uap-whistleblowers-who-disclose-to-trump",
+      "updatedAt": "2026-09-16T17:08:05.777Z"
+    },
     {
       "slug": "pentagon-s-aaro-moves-to-contract-access-to-north-america-s-largest-private-uap-",
       "title": "Pentagon's AARO Moves to Contract Access to North America's Largest Private UAP Historical Records Collection",
