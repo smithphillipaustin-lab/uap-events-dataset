@@ -3,9 +3,67 @@
   "description": "A documented record of unidentified aerial phenomena: government hearings, declassified documents, named witness testimony, and major sightings.",
   "canonical": "https://disclosurearchives.com/",
   "license": "Editorial copy CC-BY 4.0 — attribution to Disclosure Archives required. Primary-source links retain their original publisher's terms.",
-  "generatedAt": "2026-09-18T11:58:17.710Z",
-  "eventCount": 160,
+  "generatedAt": "2026-09-20T03:08:50.518Z",
+  "eventCount": 182,
   "events": [
+    {
+      "slug": "pursue-release-06-september-2026",
+      "title": "PURSUE Release 06: Department of War declassifies 72 more UAP files — the AAWSAP papers, the Tremonton film, and local law enforcement's first videos",
+      "summary": "The sixth tranche of the Trump administration's PURSUE program: 72 files — 56 documents, 15 videos, 1 audio recording — bringing the public corpus to 447 files. Forty-four are the paper trail of AAWSAP, the DIA program behind the 'warp drive and wormhole' studies: 37 of its 38 Defense Intelligence Reference Documents, the 2008 Statement of Objectives, the solicitation and five contract modifications, each published with the Department's own assessment. Also new: the 1952 Tremonton, Utah film and its Project Blue Book case file, Captain Edward J. Ruppelt's March 1952 presentation on tape, the first local law enforcement files in the program, and ten CENTCOM and INDOPACOM sensor videos and stills.",
+      "eventType": "document_release",
+      "eventDate": "2026-09-18",
+      "dateDisplay": "September 18, 2026",
+      "location": {
+        "name": "The Pentagon",
+        "region": "Virginia",
+        "country": "United States",
+        "lat": 38.8719,
+        "lng": -77.0563
+      },
+      "sourceName": "U.S. Department of War — PURSUE",
+      "sourceUrl": "https://www.war.gov/News/Releases/Release/Article/4604795/department-of-war-publishes-sixth-release-of-unidentified-anomalous-phenomena-f/",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "Law Enforcement",
+          "slug": "law-enforcement"
+        },
+        {
+          "name": "Project Blue Book",
+          "slug": "project-blue-book"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "Trump Administration",
+          "slug": "trump-administration"
+        },
+        {
+          "name": "PURSUE Release 06",
+          "slug": "pursue-release-06"
+        },
+        {
+          "name": "Defense Intelligence Agency",
+          "slug": "dia"
+        },
+        {
+          "name": "AAWSAP",
+          "slug": "aawsap"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-release-06-september-2026",
+      "updatedAt": "2026-09-20T03:07:40.566Z"
+    },
     {
       "slug": "pentagon-issues-legal-waiver-enabling-government-insiders-to-disclose-uap-inform",
       "title": "Pentagon Issues Legal Waiver Enabling Government Insiders to Disclose UAP Information to PURSUE Initiative",
@@ -56,6 +114,48 @@
       ],
       "canonical": "https://disclosurearchives.com/events/pentagon-issues-legal-waiver-enabling-government-insiders-to-disclose-uap-inform",
       "updatedAt": "2026-09-16T17:08:12.955Z"
+    },
+    {
+      "slug": "pursue-nda-waiver-2026",
+      "title": "The Department of War waives NDA and special-access penalties for UAP disclosures to PURSUE",
+      "summary": "Four days before Release 06, the Department of War announces a targeted legal waiver: all current and former service members, civilian personnel and contractors who hold or once held UAP-related National Defense Information may disclose it directly to designated PURSUE representatives. The waiver supersedes the civil and administrative enforcement provisions of their non-disclosure agreements and Special Access Program indoctrination agreements — for communications to the PURSUE team only.",
+      "eventType": "official_statement",
+      "eventDate": "2026-09-14",
+      "dateDisplay": "September 14, 2026",
+      "location": {
+        "name": "The Pentagon",
+        "region": "Virginia",
+        "country": "United States",
+        "lat": 38.8719,
+        "lng": -77.0563
+      },
+      "sourceName": "U.S. Department of War",
+      "sourceUrl": "https://www.war.gov/News/Releases/Release/Article/4600020/department-of-war-issues-legal-waiver-to-authorize-unidentified-anomalous-pheno/",
+      "tags": [
+        {
+          "name": "Pentagon",
+          "slug": "pentagon"
+        },
+        {
+          "name": "Whistleblower",
+          "slug": "whistleblower"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "Trump Administration",
+          "slug": "trump-administration"
+        },
+        {
+          "name": "PURSUE Release 06",
+          "slug": "pursue-release-06"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-nda-waiver-2026",
+      "updatedAt": "2026-09-20T03:07:40.772Z"
     },
     {
       "slug": "pentagon-issues-legal-waiver-protecting-uap-whistleblowers-who-disclose-to-trump",
@@ -270,6 +370,65 @@
       "updatedAt": "2026-08-25T12:56:36.412Z"
     },
     {
+      "slug": "pursue-release-05-august-2026",
+      "title": "PURSUE Release 05: Department of War declassifies 41 more UAP files — the triangle release",
+      "summary": "The fifth tranche of the Trump administration's PURSUE program: 41 files — 22 documents, 16 videos, 3 images — published 28 days after Release 04 and bringing the public corpus to 375 files. The organizing theme is triangles: four FBI interviews, each paired with a 2026 digital rendering, spanning a 2002 sighting over Bagram Air Force Base to two independent October 2023 reports from Colorado Springs. The release also contains the first FBI-captured video in the program's history and the first-ever State Department and Executive Office of the President files, tracking a 1963 Brazilian crashed-sphere claim to a fabrication within eleven days.",
+      "eventType": "document_release",
+      "eventDate": "2026-08-07",
+      "dateDisplay": "August 7, 2026",
+      "location": {
+        "name": "The Pentagon",
+        "region": "Virginia",
+        "country": "United States",
+        "lat": 38.8719,
+        "lng": -77.0563
+      },
+      "sourceName": "U.S. Department of War — PURSUE",
+      "sourceUrl": "https://www.war.gov/News/Releases/Release/Article/4565994/department-of-war-publishes-fifth-release-of-unidentified-anomalous-phenomena-f/",
+      "tags": [
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "FBI",
+          "slug": "fbi"
+        },
+        {
+          "name": "State Department",
+          "slug": "state-department"
+        },
+        {
+          "name": "Trump Administration",
+          "slug": "trump-administration"
+        },
+        {
+          "name": "CIA",
+          "slug": "cia"
+        },
+        {
+          "name": "PURSUE Release 05",
+          "slug": "pursue-release-05"
+        },
+        {
+          "name": "Executive Office of the President",
+          "slug": "executive-office-of-the-president"
+        }
+      ],
+      "witnesses": [
+        {
+          "name": "Pete Hegseth",
+          "slug": "pete-hegseth"
+        }
+      ],
+      "canonical": "https://disclosurearchives.com/events/pursue-release-05-august-2026",
+      "updatedAt": "2026-09-20T03:07:38.540Z"
+    },
+    {
       "slug": "aaro-fy2025-annual-report-discloses-navy-encounter-with-100-uap-off-virginia-coa",
       "title": "AARO FY2025 Annual Report Discloses Navy Encounter with ~100 UAP off Virginia Coast; 319 New Reports Logged",
       "summary": "The Pentagon's All-domain Anomaly Resolution Office (AARO) released its Fiscal Year 2025 Consolidated Annual Report on Unidentified Anomalous Phenomena on or around July 21, 2026, disclosing that the office received 319 UAP reports between June 2, 2024 and May 30, 2025. Among the most notable disclosures is a single maritime-domain case involving a report from U.S. Navy assets operating off the coast of Virginia, describing approximately 100 airborne UAP and two likely uncrewed surface systems. AARO confirmed it is actively investigating the event in coordination with the reporting unit.\n\nThe 14-page report, mandated by the Intelligence Authorization Act for Fiscal Year 2023, also noted that AARO resolved 114 of the 319 cases — attributing them to balloons, birds, satellites, aircraft, unmanned aerial systems, a rocket launch, and a manned jet pack. As of May 30, 2025, the office's total case holdings stood at 1,870 reports. Officials also flagged two cases in which electronic or avionic interference was reported in proximity to operational aircraft, and reiterated that none of the resolved UAP cases to date indicate advanced foreign adversarial capabilities or breakthrough technologies. AARO additionally revealed it is developing a formal process for handling UAP-derived physical materials should such items come into government possession.",
@@ -314,6 +473,60 @@
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/aaro-fy2025-annual-report-discloses-navy-encounter-with-100-uap-off-virginia-coa",
       "updatedAt": "2026-07-23T11:40:03.157Z"
+    },
+    {
+      "slug": "pursue-release-04-july-2026",
+      "title": "PURSUE Release 04: Department of War declassifies 40 more UAP files — the historical tranche",
+      "summary": "The fourth tranche of the Trump administration's PURSUE program: 40 files — 14 documents, 3 images, 19 videos, 4 audio files — bringing the public corpus to 334 files. Where Release 03 was the FBI's tranche, Release 04 is the historical one: a 1955 CIA debrief of four observers (one a sitting U.S. Senator) watching an object over the Soviet Union, the 1949 Los Alamos conference on 'green fireballs' attended by Manhattan Project physicists, Project Sign's founding 1948 progress report, and three NASA photographs of an unidentified object shot from Space Shuttle Columbia in 1996. Nineteen AARO sensor videos and four Apollo-era 'light flash' audio segments round out the release.",
+      "eventType": "document_release",
+      "eventDate": "2026-07-10",
+      "dateDisplay": "July 10, 2026",
+      "location": {
+        "name": "The Pentagon",
+        "region": "Virginia",
+        "country": "United States",
+        "lat": 38.8719,
+        "lng": -77.0563
+      },
+      "sourceName": "U.S. Department of War — PURSUE",
+      "sourceUrl": "https://www.war.gov/News/Releases/Release/Article/4539898/department-of-war-publishes-fourth-release-of-unidentified-anomalous-phenomena/",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Cold War",
+          "slug": "cold-war"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "NASA",
+          "slug": "nasa"
+        },
+        {
+          "name": "Trump Administration",
+          "slug": "trump-administration"
+        },
+        {
+          "name": "CIA",
+          "slug": "cia"
+        },
+        {
+          "name": "PURSUE Release 04",
+          "slug": "pursue-release-04"
+        },
+        {
+          "name": "Department of Energy",
+          "slug": "department-of-energy"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pursue-release-04-july-2026",
+      "updatedAt": "2026-09-20T03:07:37.061Z"
     },
     {
       "slug": "pentagon-s-fourth-pursue-release-includes-new-uap-videos-and-historical-files-da",
@@ -542,7 +755,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/pursue-release-03-june-2026",
-      "updatedAt": "2026-08-10T20:56:25.659Z"
+      "updatedAt": "2026-09-20T03:07:35.669Z"
     },
     {
       "slug": "iaa-seti-committee-and-unhidden-foundation-release-updated-protocols-for-extrate",
@@ -650,7 +863,7 @@
         }
       ],
       "canonical": "https://disclosurearchives.com/events/grusch-lawmakers-capitol-disclosure-2026",
-      "updatedAt": "2026-08-10T20:56:25.433Z"
+      "updatedAt": "2026-09-20T03:07:35.425Z"
     },
     {
       "slug": "pursue-release-02-may-2026",
@@ -721,7 +934,7 @@
         }
       ],
       "canonical": "https://disclosurearchives.com/events/pursue-release-02-may-2026",
-      "updatedAt": "2026-08-10T20:56:20.232Z"
+      "updatedAt": "2026-09-20T03:07:28.357Z"
     },
     {
       "slug": "pentagon-s-pursue-initiative-prepares-release-02-of-up-to-46-aaro-uap-videos",
@@ -1069,6 +1282,52 @@
       "updatedAt": "2026-05-11 10:53:34"
     },
     {
+      "slug": "western-us-2026-agent-footage",
+      "title": "A federal agent filmed it himself: the first FBI-captured video in PURSUE",
+      "summary": "FBI-UAP-PR007 is hand-held thermal footage a U.S. Government Special Agent shot himself during a 2026 incident in the western United States — two slow-moving 'black-hot' areas of contrast — making it the first video in the PURSUE program captured by the Bureau rather than submitted to it. A second agent separately reported a thermally elevated aerial object the same year, and two more witnesses to a third sequence of incidents within five hours were interviewed and rendered independently.",
+      "eventType": "sighting",
+      "eventDate": "2026-01-01",
+      "dateDisplay": "2026",
+      "location": {
+        "name": "Western United States (undisclosed test site)",
+        "region": "Western United States",
+        "country": "United States",
+        "lat": 39.5,
+        "lng": -113
+      },
+      "sourceName": "Federal Bureau of Investigation / Department of War — PURSUE Release 05",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "Law Enforcement",
+          "slug": "law-enforcement"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "FBI",
+          "slug": "fbi"
+        },
+        {
+          "name": "PURSUE Release 05",
+          "slug": "pursue-release-05"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/western-us-2026-agent-footage",
+      "updatedAt": "2026-09-20T03:07:39.497Z"
+    },
+    {
       "slug": "university-at-albany-physicists-launch-endowed-uap-research-program-ualbany-proj",
       "title": "University at Albany Physicists Launch Endowed UAP Research Program \"UAlbany Project X\"",
       "summary": "Physicists at the University at Albany, New York, have announced the launch of UAlbany Project X (UAPx), a formally endowed, university-backed scientific research program dedicated to the long-term study of unidentified anomalous phenomena (UAP). The initiative is led by professors Kevin Knuth, Matthew Szydagis, and Cecilia Levy, and was made possible by a multi-year endowment gift from Albany-area businessman Tony Gorman, which the team states will fund operations for at least five years and support the program in perpetuity thereafter. The project was officially launched in November 2025 and was reported by The Debrief on December 2, 2025.\n\nUAlbany Project X is described as the direct academic continuation of the original nonprofit UAPx organization, which conducted a 2021 field expedition over the Santa Catalina Channel — the site of the 2004 USS Nimitz \"Tic Tac\" encounter — collecting optical, infrared, and other sensor data. That expedition's findings were subsequently published in the peer-reviewed journal Progress in Aerospace Sciences in 2025, co-authored by Szydagis, Knuth, and Levy. The new university program plans to expand data collection using camera arrays, diffraction gratings for spectral analysis, and magnetic and electric field instrumentation, while also increasing peer-reviewed publication output. Physicist Eric W. Davis has been named as a volunteer adjunct researcher in an advisory capacity.",
@@ -1179,7 +1438,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/senior-usic-officer-orange-orbs-2025",
-      "updatedAt": "2026-08-10T20:56:20.466Z"
+      "updatedAt": "2026-09-20T03:07:28.603Z"
     },
     {
       "slug": "aaro-hosts-private-workshop-on-uap-data-standardization-with-civilian-researcher",
@@ -1465,6 +1724,48 @@
       "updatedAt": "2026-06-12T03:04:31.179Z"
     },
     {
+      "slug": "centcom-iraq-middle-east-uap-2022-2025",
+      "title": "'Six small spherical objects': four CENTCOM Mission Reports and the infrared imagery behind them, 2022–2025",
+      "summary": "For the first time PURSUE pairs U.S. Central Command Mission Reports systematically with their sensor imagery: four MISREPs, two infrared stills and four videos from Iraq and the Middle East. A 2022 operator reported UAP 'flying sporadically within the target area… at various speeds between 80 and 180 miles per hour,' one to two metres across. A 2025 operator described 'a white round orbit… moving as fast as 500 miles per hour.' Another reported 'six small spherical objects grouped together,' agile and frequently changing direction, at an estimated 480 mph.",
+      "eventType": "sighting",
+      "eventDate": "2025-01-01",
+      "dateDisplay": "2022 – 2025",
+      "location": {
+        "name": "Iraq",
+        "region": null,
+        "country": "Iraq",
+        "lat": 33.31,
+        "lng": 44.36
+      },
+      "sourceName": "U.S. Central Command / AARO — PURSUE Release 06",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "International",
+          "slug": "international"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "PURSUE Release 06",
+          "slug": "pursue-release-06"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/centcom-iraq-middle-east-uap-2022-2025",
+      "updatedAt": "2026-09-20T03:07:41.973Z"
+    },
+    {
       "slug": "new-jersey-drone-wave-2024",
       "title": "The New Jersey drone wave: thousands of reports, a federal 'no threat' verdict, and an unclosed file",
       "summary": "Beginning in mid-November 2024, residents across northern New Jersey report waves of large, slow, often car-sized 'drones' at night, with early clusters near Picatinny Arsenal. The FBI logs thousands of tips, the FAA restricts airspace, and a December 12 joint DHS/FBI statement finds no threat and attributes many sightings to misidentified manned aircraft. A January 2025 White House statement calling the flights 'authorized' closes the news cycle without reconciling the record.",
@@ -1500,7 +1801,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/new-jersey-drone-wave-2024",
-      "updatedAt": "2026-08-10T20:56:25.300Z"
+      "updatedAt": "2026-09-20T03:07:35.278Z"
     },
     {
       "slug": "aaro-provides-classified-briefing-to-lawmakers-amid-new-jersey-mystery-drone-inc",
@@ -1692,7 +1993,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/fbi-northeastern-orb-corpus-2021-2025",
-      "updatedAt": "2026-08-10T20:56:25.816Z"
+      "updatedAt": "2026-09-20T03:07:35.833Z"
     },
     {
       "slug": "house-uap-hearing-eyes-wide-open-2024",
@@ -2245,7 +2546,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr028-greece-january-2024",
-      "updatedAt": "2026-08-10T20:56:27.005Z"
+      "updatedAt": "2026-09-20T03:07:36.872Z"
     },
     {
       "slug": "pursue-dow-uap-d25-mission-report-greece-january-2024",
@@ -2344,6 +2645,48 @@
       "updatedAt": "2026-05-12 11:47:46"
     },
     {
+      "slug": "colorado-law-enforcement-uap-2023",
+      "title": "A Colorado officer's four phone videos: local law enforcement's first files in PURSUE",
+      "summary": "A local law enforcement officer in Colorado submitted four cell-phone videos to AARO — three from October 2023 and one from January 2024 — describing a 'silent' phenomenon 'featuring red, blue, and green flashing lights,' along with a transcript of his own narration as he recorded. The five files are the first from a local law enforcement agency in the PURSUE program. One clip runs a full fifteen minutes on a single light source. AARO blurred the lower half of each frame, edited the transcript to remove identifying detail, and attached its standing caveat about what phone autofocus does to distant subjects.",
+      "eventType": "sighting",
+      "eventDate": "2023-10-15",
+      "dateDisplay": "October 2023 – January 2024",
+      "location": {
+        "name": "Colorado (location withheld)",
+        "region": "Colorado",
+        "country": "United States",
+        "lat": 39,
+        "lng": -105.5
+      },
+      "sourceName": "Local law enforcement / AARO — PURSUE Release 06",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "Law Enforcement",
+          "slug": "law-enforcement"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "PURSUE Release 06",
+          "slug": "pursue-release-06"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/colorado-law-enforcement-uap-2023",
+      "updatedAt": "2026-09-20T03:07:41.704Z"
+    },
+    {
       "slug": "dow-uap-pr34-greece-october-2023",
       "title": "DoW PR34: object executes multiple 90° turns over the Aegean",
       "summary": "A 2-minute-57-second AARO video from a U.S. military sensor records an unidentified object over Greece performing multiple sharp 90-degree turns at speed — flight characteristics that exceed publicly disclosed performance of known aircraft. Released as DOW-UAP-PR34 in PURSUE Release 01.",
@@ -2392,6 +2735,44 @@
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr34-greece-october-2023",
       "updatedAt": "2026-05-11 10:53:32"
+    },
+    {
+      "slug": "colorado-springs-triangles-2023",
+      "title": "Two people, two interviews, one October: the Colorado Springs triangles",
+      "summary": "Two separate people independently reported triangular objects with red lights near Colorado Springs, Colorado in October 2023 — a former Department of War employee describing a 'dark translucent triangle,' and a separate U.S. Person describing a 'large triangle with red lights.' The FBI interviewed each witness months apart and commissioned an independent digital rendering from each account. It is a different object, and a different year, from the 'bean-shaped' unresolved case PURSUE Release 03 documented near the same city in 2022.",
+      "eventType": "sighting",
+      "eventDate": "2023-10-01",
+      "dateDisplay": "October 2023",
+      "location": {
+        "name": "Colorado Springs",
+        "region": "Colorado",
+        "country": "United States",
+        "lat": 38.8339,
+        "lng": -104.8214
+      },
+      "sourceName": "Federal Bureau of Investigation / Department of War — PURSUE Release 05",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "FBI",
+          "slug": "fbi"
+        },
+        {
+          "name": "PURSUE Release 05",
+          "slug": "pursue-release-05"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/colorado-springs-triangles-2023",
+      "updatedAt": "2026-09-20T03:07:39.115Z"
     },
     {
       "slug": "pursue-059uap00013",
@@ -2639,7 +3020,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/western-us-event-2023",
-      "updatedAt": "2026-08-10T20:56:26.839Z"
+      "updatedAt": "2026-09-20T03:07:36.673Z"
     },
     {
       "slug": "grusch-fravor-graves-testimony-2023",
@@ -2947,6 +3328,48 @@
       "updatedAt": "2026-05-12 11:47:45"
     },
     {
+      "slug": "indopacom-yellow-sea-uap-2023",
+      "title": "Six infrared clips from the Yellow Sea and East China Sea: Indo-Pacific Command's 2023 sensor videos",
+      "summary": "U.S. Indo-Pacific Command's contribution to PURSUE Release 06: six infrared sensor videos recorded aboard U.S. military platforms in 2023 — five over the Yellow Sea, one over the East China Sea — between 19 seconds and one minute 38 seconds long, each tracking a single area of contrast over open water. No mission reports accompany them, and the Department's descriptions are confined to what the sensor does. The shortest, DOW-UAP-PR143, supplies the iconic frame of the release: one black-hot object under the reticle.",
+      "eventType": "sighting",
+      "eventDate": "2023-06-01",
+      "dateDisplay": "2023",
+      "location": {
+        "name": "Yellow Sea",
+        "region": null,
+        "country": "International waters",
+        "lat": 36,
+        "lng": 123
+      },
+      "sourceName": "U.S. Indo-Pacific Command / AARO — PURSUE Release 06",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "International",
+          "slug": "international"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "PURSUE Release 06",
+          "slug": "pursue-release-06"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/indopacom-yellow-sea-uap-2023",
+      "updatedAt": "2026-09-20T03:07:42.240Z"
+    },
+    {
       "slug": "pursue-dow-uap-d20-mission-report-southern-united-states-2023",
       "title": "Mission Report: Iraq, 2023 (DOW-UAP-D20)",
       "summary": "A U.S. military operator reported observing “several bright objects maneuvering quickly” west to east northeast. The operator reported achieving a track on the UAP via an onboard targeting pod for approximately 20 seconds. The report describes that UAP then dimmed and disappeared from the targeting pod. All descriptive and estimative language contained in this report reflects the reporter’s subjective interpretation at the time of the event. Such characterizations should not be interpreted as a",
@@ -3074,7 +3497,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/lake-huron-f16-shootdown-2023",
-      "updatedAt": "2026-08-10T20:56:20.757Z"
+      "updatedAt": "2026-09-20T03:07:28.916Z"
     },
     {
       "slug": "ndaa-aaro-establishment-2022",
@@ -3155,7 +3578,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr050-iran-formation-2022",
-      "updatedAt": "2026-08-10T20:56:21.046Z"
+      "updatedAt": "2026-09-20T03:07:29.210Z"
     },
     {
       "slug": "pursue-pr-023",
@@ -3573,7 +3996,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/uss-submarine-spherical-orbs-march-2022",
-      "updatedAt": "2026-08-10T20:56:21.566Z"
+      "updatedAt": "2026-09-20T03:07:29.749Z"
     },
     {
       "slug": "colorado-springs-uap-2022",
@@ -3615,7 +4038,49 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/colorado-springs-uap-2022",
-      "updatedAt": "2026-08-10T20:56:26.030Z"
+      "updatedAt": "2026-09-20T03:07:36.006Z"
+    },
+    {
+      "slug": "gulf-of-oman-gunship-2021",
+      "title": "Gulf of Oman, 2021: six clips, filmed off a gunship's screen with a phone",
+      "summary": "Six videos from September 8, 2021 show an unidentified object over the Gulf of Oman — every clip a cell-phone recording of the infrared display aboard a Special Operations AC-130J gunship, a limitation the Department of War states plainly for each file. An accompanying Intelligence Information Report, itself unevaluated raw reporting, documents the incident that produced them.",
+      "eventType": "sighting",
+      "eventDate": "2021-09-08",
+      "dateDisplay": "September 8, 2021",
+      "location": {
+        "name": "Gulf of Oman",
+        "region": "Middle East",
+        "country": "International waters",
+        "lat": 24.5,
+        "lng": 58.5
+      },
+      "sourceName": "All-domain Anomaly Resolution Office (AARO) / U.S. Department of War — PURSUE Release 05",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "AARO",
+          "slug": "aaro"
+        },
+        {
+          "name": "International",
+          "slug": "international"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "PURSUE Release 05",
+          "slug": "pursue-release-05"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/gulf-of-oman-gunship-2021",
+      "updatedAt": "2026-09-20T03:07:40.046Z"
     },
     {
       "slug": "odni-preliminary-assessment-2021",
@@ -3687,7 +4152,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr051-syria-instant-acceleration-2021",
-      "updatedAt": "2026-08-10T20:56:20.901Z"
+      "updatedAt": "2026-09-20T03:07:29.064Z"
     },
     {
       "slug": "dow-uap-pr055-afghanistan-sphere-clouds-2020",
@@ -3725,7 +4190,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/dow-uap-pr055-afghanistan-sphere-clouds-2020",
-      "updatedAt": "2026-08-10T20:56:21.242Z"
+      "updatedAt": "2026-09-20T03:07:29.427Z"
     },
     {
       "slug": "pursue-dow-uap-d64-mission-report-iran-november-2020",
@@ -4783,7 +5248,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/east-coast-uap-december-2019",
-      "updatedAt": "2026-08-10T20:56:21.425Z"
+      "updatedAt": "2026-09-20T03:07:29.592Z"
     },
     {
       "slug": "nyt-aatip-story-2017",
@@ -4871,6 +5336,48 @@
       "updatedAt": "2026-05-12 11:47:49"
     },
     {
+      "slug": "pantex-airspace-intrusion-2015",
+      "title": "The nuclear-weapons plant intrusion, released again — this time with the redactions lifted",
+      "summary": "On September 1, 2015, an unidentified object intruded the restricted airspace above the Pantex Plant near Amarillo, Texas — the facility where the United States assembles and disassembles its nuclear weapons. Ground-surveillance-radar imagery and an incident report were first released, heavily redacted, as part of PURSUE Release 02 in May 2026. PURSUE Release 04 republishes the same file, DOE-UAP-D005, with far fewer redactions.",
+      "eventType": "sighting",
+      "eventDate": "2015-09-01",
+      "dateDisplay": "September 1, 2015",
+      "location": {
+        "name": "PANTEX nuclear-weapons facility",
+        "region": "Texas",
+        "country": "United States",
+        "lat": 35.3091,
+        "lng": -101.565
+      },
+      "sourceName": "U.S. Department of Energy / Department of War — PURSUE Release 04",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "Radar Confirmed",
+          "slug": "radar"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "Nuclear Facility",
+          "slug": "nuclear-facility"
+        },
+        {
+          "name": "PURSUE Release 04",
+          "slug": "pursue-release-04"
+        },
+        {
+          "name": "Department of Energy",
+          "slug": "department-of-energy"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/pantex-airspace-intrusion-2015",
+      "updatedAt": "2026-09-20T03:07:37.681Z"
+    },
+    {
       "slug": "go-fast-video-2015",
       "title": "GO FAST: the third Pentagon video — and the parallax assessment that reframed it",
       "summary": "A Navy ATFLIR clip appears to show a small object streaking just above the Atlantic. Officially released in April 2020 alongside FLIR1 and GIMBAL, GO FAST became the clearest case study in how sensor geometry can mislead: analyses using the video's own displayed data — including AARO's published assessment — put the object several thousand feet up, moving far slower than it appears.",
@@ -4906,7 +5413,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/go-fast-video-2015",
-      "updatedAt": "2026-08-10T20:56:25.137Z"
+      "updatedAt": "2026-09-20T03:07:35.103Z"
     },
     {
       "slug": "gimbal-video-2015",
@@ -4948,7 +5455,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/gimbal-video-2015",
-      "updatedAt": "2026-08-10T20:56:24.957Z"
+      "updatedAt": "2026-09-20T03:07:34.902Z"
     },
     {
       "slug": "east-coast-incursions-2014-2015",
@@ -5044,6 +5551,52 @@
       "updatedAt": "2026-05-11 10:53:32"
     },
     {
+      "slug": "aawsap-dirds-2009-2011",
+      "title": "The AAWSAP papers: 37 Defense Intelligence Reference Documents on warp drives, wormholes and antigravity — and the contract that paid for them",
+      "summary": "PURSUE Release 06 publishes 44 records of the Advanced Aerospace Weapon System Applications Program: the July 2008 Statement of Objectives, the September 2008 solicitation and original order, five contract modifications, and 37 of the 38 Defense Intelligence Reference Documents the DIA-administered program commissioned between December 2009 and January 2011. The famous titles are all here — Warp Drive, Dark Energy and the Manipulation of Extra Dimensions; Traversable Wormholes, Stargates and Negative Energy; Antigravity for Aerospace Applications; Negative Mass Propulsion; Concepts for Extracting Energy from the Quantum Vacuum — each with a Department of War summary that grades it, often harshly.",
+      "eventType": "document_release",
+      "eventDate": "2010-04-02",
+      "dateDisplay": "July 2008 – January 2011",
+      "location": {
+        "name": "Las Vegas",
+        "region": "Nevada",
+        "country": "United States",
+        "lat": 36.1699,
+        "lng": -115.1398
+      },
+      "sourceName": "Department of War — PURSUE Release 06 (Defense Intelligence Agency records)",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "AATIP",
+          "slug": "aatip"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "Skinwalker Ranch",
+          "slug": "skinwalker-ranch"
+        },
+        {
+          "name": "PURSUE Release 06",
+          "slug": "pursue-release-06"
+        },
+        {
+          "name": "Defense Intelligence Agency",
+          "slug": "dia"
+        },
+        {
+          "name": "AAWSAP",
+          "slug": "aawsap"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/aawsap-dirds-2009-2011",
+      "updatedAt": "2026-09-20T03:07:40.948Z"
+    },
+    {
       "slug": "skinwalker-ranch-aawsap-2008",
       "title": "DIA's AAWSAP program makes Skinwalker Ranch a government-funded field site",
       "summary": "The Defense Intelligence Agency awards the Advanced Aerospace Weapon System Applications Program (AAWSAP) contract to Bigelow Aerospace Advanced Space Studies. Roughly $22 million flows through the program from 2008 to 2010, and Skinwalker Ranch — owned by the contractor's founder — becomes its primary field laboratory.",
@@ -5071,7 +5624,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/skinwalker-ranch-aawsap-2008",
-      "updatedAt": "2026-08-10T20:56:24.688Z"
+      "updatedAt": "2026-09-20T03:07:34.522Z"
     },
     {
       "slug": "harare-airport-uap-2008",
@@ -5109,7 +5662,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/harare-airport-uap-2008",
-      "updatedAt": "2026-08-10T20:56:26.689Z"
+      "updatedAt": "2026-09-20T03:07:36.520Z"
     },
     {
       "slug": "stephenville-lights-2008",
@@ -5259,6 +5812,44 @@
       "updatedAt": "2026-05-12 11:43:34"
     },
     {
+      "slug": "bagram-airborne-triangle-2002",
+      "title": "Bagram, 2002: the triangle a deployed reservist reported, drawn by the FBI 24 years later",
+      "summary": "A former U.S. military pilot, interviewed by the FBI in March 2024, described an enormous dark triangle passing directly overhead while he was deployed as a reservist at Bagram Air Force Base, Afghanistan, in June 2002. The Bureau commissioned a digital rendering from his account in 2026: a solid black delta large enough to blot out the stars, now the iconic image of PURSUE Release 05. The same interview also covers incidents the witness reported in 2023 and 2024.",
+      "eventType": "sighting",
+      "eventDate": "2002-06-01",
+      "dateDisplay": "June 2002",
+      "location": {
+        "name": "Bagram Air Base",
+        "region": "Parwan Province",
+        "country": "Afghanistan",
+        "lat": 34.946,
+        "lng": 69.265
+      },
+      "sourceName": "Federal Bureau of Investigation / Department of War — PURSUE Release 05",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "International",
+          "slug": "international"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "FBI",
+          "slug": "fbi"
+        },
+        {
+          "name": "PURSUE Release 05",
+          "slug": "pursue-release-05"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/bagram-airborne-triangle-2002",
+      "updatedAt": "2026-09-20T03:07:38.832Z"
+    },
+    {
       "slug": "pursue-059uap00011",
       "title": "State Department UAP Cable 3, Tbilisi, Georgia, October 30, 2001",
       "summary": "On October 28-29, there was an incident alleged by the Georgian Foreign Ministry that Russian aircraft had violated Georgian airspace and bombed areas of the Kodori Gorge.  Russians denied any of the claims and said that it could have been UFOs.  Cable authors note that Russians typically engage in the “bold lie” when they wish to conceal actions.",
@@ -5341,6 +5932,40 @@
       "updatedAt": "2026-05-10 12:00:00"
     },
     {
+      "slug": "sts-80-unidentified-object-1996",
+      "title": "Three frames from Columbia: NASA's 1996 photographs of an object in low-Earth orbit",
+      "summary": "Three photographs taken from Space Shuttle Columbia during the STS-80 mission (November 19 – December 7, 1996) show an unidentified object in low-Earth orbit near the Earth's limb. Across the sequence the object appears to rotate or tumble, then continues along a trajectory that carries it against the face of the Earth. The Department's release includes no NASA disposition for the object, unlike two earlier Shuttle-era anomalies — STS-48 (1991) and STS-75 (1996) — already on the public record.",
+      "eventType": "sighting",
+      "eventDate": "1996-11-19",
+      "dateDisplay": "November–December 1996",
+      "location": {
+        "name": "Low Earth orbit — NASA Space Shuttle",
+        "region": "LEO",
+        "country": "Earth orbit",
+        "lat": 28.5,
+        "lng": -80.6
+      },
+      "sourceName": "NASA / Department of War — PURSUE Release 04",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "NASA",
+          "slug": "nasa"
+        },
+        {
+          "name": "PURSUE Release 04",
+          "slug": "pursue-release-04"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/sts-80-unidentified-object-1996",
+      "updatedAt": "2026-09-20T03:07:37.874Z"
+    },
+    {
       "slug": "pursue-dow-uap-d48-report-september-1996",
       "title": "DOW-UAP-D48, Department of the Air Force Report, 1996",
       "summary": "This report describes the Modeling of Unlikely Space-Booster Failures in Risk Calculations, documenting historical launch failure modes and recommending corrective actions to address them using novel modelling techniques.",
@@ -5396,7 +6021,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/skinwalker-ranch-sherman-1996",
-      "updatedAt": "2026-08-10T20:56:24.544Z"
+      "updatedAt": "2026-09-20T03:07:34.374Z"
     },
     {
       "slug": "varginha-incident-1996",
@@ -5430,7 +6055,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/varginha-incident-1996",
-      "updatedAt": "2026-08-10T20:56:24.830Z"
+      "updatedAt": "2026-09-20T03:07:34.761Z"
     },
     {
       "slug": "ariel-school-1994",
@@ -5785,7 +6410,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/ussr-luminous-green-object-1973",
-      "updatedAt": "2026-08-10T20:56:21.727Z"
+      "updatedAt": "2026-09-20T03:07:29.901Z"
     },
     {
       "slug": "pursue-nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973",
@@ -5907,6 +6532,40 @@
       "updatedAt": "2026-05-11 10:53:33"
     },
     {
+      "slug": "apollo-light-flash-phenomena",
+      "title": "The Apollo tapes: crews describing the flashes they saw with their eyes closed",
+      "summary": "PURSUE Release 04 publishes four audio segments — two from the Apollo 14 post-mission crew debriefing (February 18, 1971) and two from the Apollo 17 crew medical debriefing (December 21, 1972) — in which astronauts and their debriefers discuss the 'light flash phenomena': brief flashes of light some Apollo crews reported seeing with their eyes closed in flight. The phenomenon was unexplained at the time; it is now understood as high-energy cosmic rays passing through the retina or optic nerve. PURSUE Release 02 previously published the related November 1969 Apollo 12 medical debrief on the same subject.",
+      "eventType": "document_release",
+      "eventDate": "1971-02-18",
+      "dateDisplay": "1971–1972",
+      "location": {
+        "name": "Lunar surface",
+        "region": "Moon",
+        "country": "Moon",
+        "lat": 0,
+        "lng": 0
+      },
+      "sourceName": "NASA / Department of War — PURSUE Release 04",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "NASA",
+          "slug": "nasa"
+        },
+        {
+          "name": "PURSUE Release 04",
+          "slug": "pursue-release-04"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/apollo-light-flash-phenomena",
+      "updatedAt": "2026-09-20T03:07:38.059Z"
+    },
+    {
       "slug": "apollo-12-medical-debrief-1969",
       "title": "Apollo 12 medical debriefing: Conrad, Gordon, and Bean describe light flashes in cislunar space",
       "summary": "PURSUE Release 02 publishes the audio of the Apollo 12 medical crew debriefing in which Pete Conrad, Dick Gordon, and Al Bean describe seeing brief 'light flashes' and 'streaks of light' during quiet rest periods on the cislunar coast. NASA's contemporary medical assessment attributed the phenomenon to cosmic-ray-induced retinal events.",
@@ -5942,7 +6601,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/apollo-12-medical-debrief-1969",
-      "updatedAt": "2026-08-10T20:56:21.882Z"
+      "updatedAt": "2026-09-20T03:07:30.050Z"
     },
     {
       "slug": "apollo-12-lunar-imagery-1969",
@@ -6209,7 +6868,53 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/nasa-gemini-debriefings-1962-1972",
-      "updatedAt": "2026-08-10T20:56:26.526Z"
+      "updatedAt": "2026-09-20T03:07:36.344Z"
+    },
+    {
+      "slug": "bahia-brazil-crashed-sphere-1963",
+      "title": "Conde, Bahia, 1963: how the government killed a crashed-saucer story in eleven days",
+      "summary": "A November 9, 1963 Rio de Janeiro radio broadcast claimed a 'large metal sphere' carrying a dead occupant had crashed near Conde, Bahia, Brazil. The CIA's wire service flagged the report the same day; by November 20, the U.S. consulate's scientific attaché in Salvador had traced it to a fabrication with no basis in local reporting. The paper trail — a CIA wire summary preserved in the files of the White House's space council, plus two State Department cables — marks the first appearance of the Executive Office of the President and the Department of State in the PURSUE corpus.",
+      "eventType": "official_statement",
+      "eventDate": "1963-11-09",
+      "dateDisplay": "November 1963",
+      "location": {
+        "name": "Conde",
+        "region": "Bahia",
+        "country": "Brazil",
+        "lat": -11.81,
+        "lng": -37.61
+      },
+      "sourceName": "Central Intelligence Agency / State Department / Executive Office of the President — PURSUE Release 05",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "Cold War",
+          "slug": "cold-war"
+        },
+        {
+          "name": "International",
+          "slug": "international"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "State Department",
+          "slug": "state-department"
+        },
+        {
+          "name": "PURSUE Release 05",
+          "slug": "pursue-release-05"
+        },
+        {
+          "name": "Executive Office of the President",
+          "slug": "executive-office-of-the-president"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/bahia-brazil-crashed-sphere-1963",
+      "updatedAt": "2026-09-20T03:07:39.831Z"
     },
     {
       "slug": "state-dept-sp-files-1963",
@@ -6238,6 +6943,52 @@
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/state-dept-sp-files-1963",
       "updatedAt": "2026-05-12 11:43:28"
+    },
+    {
+      "slug": "senator-richard-russell-soviet-sighting-1955",
+      "title": "A U.S. Senator watched something over the Soviet Union in 1955 — and the CIA wrote it off",
+      "summary": "In October 1955, four Americans travelling by train through the Soviet Union — among them U.S. Senator Richard Russell of Georgia, then chairman-in-waiting of the Senate Armed Services Committee — watched a luminescent, greenish-yellow object climb and pass above their train between Baku and Tiflis, now Tbilisi. PURSUE Release 04 declassifies the CIA's debriefing memo and its companion analysis, which concluded the sighting could 'probably be explained as steep climbing aircraft or missiles.' The analysis also weighs the 1953 Robertson Panel's findings and Project 'Y,' the real U.S.-Canadian program then trying to build a saucer-shaped aircraft.",
+      "eventType": "sighting",
+      "eventDate": "1955-10-01",
+      "dateDisplay": "October 1955",
+      "location": {
+        "name": "Former USSR (interior)",
+        "region": "Soviet Union",
+        "country": "USSR (former)",
+        "lat": 55.7558,
+        "lng": 37.6173
+      },
+      "sourceName": "Central Intelligence Agency / Department of War — PURSUE Release 04",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "Cold War",
+          "slug": "cold-war"
+        },
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "International",
+          "slug": "international"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "CIA",
+          "slug": "cia"
+        },
+        {
+          "name": "PURSUE Release 04",
+          "slug": "pursue-release-04"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/senator-richard-russell-soviet-sighting-1955",
+      "updatedAt": "2026-09-20T03:07:37.244Z"
     },
     {
       "slug": "kelly-hopkinsville-1955",
@@ -6353,7 +7104,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/robertson-panel-report-1953",
-      "updatedAt": "2026-08-10T20:56:26.218Z"
+      "updatedAt": "2026-09-20T03:07:36.172Z"
     },
     {
       "slug": "washington-dc-flyover-1952",
@@ -6401,6 +7152,106 @@
       ],
       "canonical": "https://disclosurearchives.com/events/washington-dc-flyover-1952",
       "updatedAt": "2026-05-10 12:00:00"
+    },
+    {
+      "slug": "tremonton-film-1952",
+      "title": "The Tremonton film: Project Blue Book's most-analysed footage, released from the National Archives with its case file",
+      "summary": "On July 2, 1952, Navy Chief Warrant Officer Delbert C. Newhouse — a Photographer's Mate with more than 1,000 hours of aerial-photography experience — filmed 12 to 14 bright, reflective objects near Tremonton, Utah, on 16mm Kodachrome. The Air Force assessed him as honest, reliable and expert, and never conclusively identified the objects: birds, balloons and mirage early on; 'pillow balloons' after a December 1952 review with General Mills; seabirds reflecting sunlight in later assessments. PURSUE Release 06 publishes the National Archives digitization of the film, the Blue Book case file, the balloon photo file, Newhouse's personnel record, and the Air Force's late-1952 'Flying Discs' compilation.",
+      "eventType": "sighting",
+      "eventDate": "1952-07-02",
+      "dateDisplay": "July 2, 1952",
+      "location": {
+        "name": "Tremonton",
+        "region": "Utah",
+        "country": "United States",
+        "lat": 41.7119,
+        "lng": -112.1655
+      },
+      "sourceName": "Department of War — PURSUE Release 06 (Project Blue Book records)",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "U.S. Navy",
+          "slug": "u-s-navy"
+        },
+        {
+          "name": "U.S. Air Force",
+          "slug": "u-s-air-force"
+        },
+        {
+          "name": "Cold War",
+          "slug": "cold-war"
+        },
+        {
+          "name": "Video Evidence",
+          "slug": "video-evidence"
+        },
+        {
+          "name": "Project Blue Book",
+          "slug": "project-blue-book"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "PURSUE Release 06",
+          "slug": "pursue-release-06"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/tremonton-film-1952",
+      "updatedAt": "2026-09-20T03:07:41.142Z"
+    },
+    {
+      "slug": "ruppelt-boston-presentation-1952",
+      "title": "Captain Edward J. Ruppelt's March 1952 briefing: 800 cases, 20 percent unexplained, radar tracks at 1,000 to 3,500 mph — now on tape",
+      "summary": "Three months before the Washington, D.C. flap, the head of the Air Force's reorganised UFO investigation told a Boston audience that roughly 20 percent of about 800 historical cases remained unexplained after technical analysis, that reports concentrated around Los Alamos, Albuquerque and Oak Ridge, and that radar had logged unconfirmed speeds between 1,000 and 3,500 miles per hour. PURSUE Release 06 publishes the transcript and a 65-minute audio recording of the presentation.",
+      "eventType": "official_statement",
+      "eventDate": "1952-03-26",
+      "dateDisplay": "March 26, 1952",
+      "location": {
+        "name": "Boston",
+        "region": "Massachusetts",
+        "country": "United States",
+        "lat": 42.3601,
+        "lng": -71.0589
+      },
+      "sourceName": "Department of War — PURSUE Release 06",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "U.S. Air Force",
+          "slug": "u-s-air-force"
+        },
+        {
+          "name": "Cold War",
+          "slug": "cold-war"
+        },
+        {
+          "name": "Radar Confirmed",
+          "slug": "radar"
+        },
+        {
+          "name": "Project Blue Book",
+          "slug": "project-blue-book"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "Nuclear Facility",
+          "slug": "nuclear-facility"
+        },
+        {
+          "name": "PURSUE Release 06",
+          "slug": "pursue-release-06"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/ruppelt-boston-presentation-1952",
+      "updatedAt": "2026-09-20T03:07:41.424Z"
     },
     {
       "slug": "state-intel-numerical-files-1948-1955",
@@ -6519,6 +7370,52 @@
       "updatedAt": "2026-05-12 11:47:48"
     },
     {
+      "slug": "los-alamos-green-fireballs-1949",
+      "title": "Los Alamos, 1949: the men who built the bomb spent a day arguing about green fireballs",
+      "summary": "PURSUE Release 04 publishes the verbatim transcript of a March 22, 1949 conference at Los Alamos, called after months of unexplained 'green fireball' sightings over the laboratory that built the first atomic bombs. Manhattan Project physicists — Edward Teller among them — argued over explanations ranging from shallow-angle meteors to an 'electron phenomenon'; meteoriticist Lincoln LaPaz told the room nothing like it had ever been seen in a meteorite fall. The conference adjourned without a consensus.",
+      "eventType": "document_release",
+      "eventDate": "1949-03-22",
+      "dateDisplay": "March 22, 1949",
+      "location": {
+        "name": "Los Alamos",
+        "region": "New Mexico",
+        "country": "United States",
+        "lat": 35.88,
+        "lng": -106.3
+      },
+      "sourceName": "U.S. Department of Energy / Department of War — PURSUE Release 04",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "Cold War",
+          "slug": "cold-war"
+        },
+        {
+          "name": "Multiple Witnesses",
+          "slug": "multiple-witnesses"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "Nuclear Facility",
+          "slug": "nuclear-facility"
+        },
+        {
+          "name": "PURSUE Release 04",
+          "slug": "pursue-release-04"
+        },
+        {
+          "name": "Department of Energy",
+          "slug": "department-of-energy"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/los-alamos-green-fireballs-1949",
+      "updatedAt": "2026-09-20T03:07:37.475Z"
+    },
+    {
       "slug": "sandia-green-orbs-1948-1950",
       "title": "Sandia, New Mexico: 209 'green orbs, discs, and fireballs' over a nuclear-weapons facility",
       "summary": "A 116-page joint file from the U.S. Air Force and the Armed Forces Special Weapons Program — the Manhattan Project's nuclear-weapons custodial successor — documenting 209 sightings of 'green orbs,' discs, and fireballs maneuvering near the Sandia, New Mexico custodial nuclear-weapons installation between 1948 and 1950. Released in full as part of PURSUE Release 02; some sighting locations contained recovered copper powder.",
@@ -6562,7 +7459,7 @@
       ],
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/sandia-green-orbs-1948-1950",
-      "updatedAt": "2026-08-10T20:56:20.611Z"
+      "updatedAt": "2026-09-20T03:07:28.764Z"
     },
     {
       "slug": "mantell-incident-1948",
@@ -6597,6 +7494,48 @@
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/mantell-incident-1948",
       "updatedAt": "2026-05-10 12:00:00"
+    },
+    {
+      "slug": "project-sign-progress-report-1948",
+      "title": "Project Sign's first report, and the study the Air Force revised twice",
+      "summary": "PURSUE Release 04 publishes six U.S. Air Force files tracing the government's institutional handling of UFO reports from 1948 to 1967. The centerpiece is Project Sign's first progress report on 100 sightings from 1947-48, alongside both surviving drafts of Air Intelligence Division Study No. 203. Rounding out the file: records of the Avro 'Project Y2' saucer-shaped-aircraft assessments, 1955 correspondence relating to Project Blue Book, and the 1966-67 Scientific Advisory Board review that led directly to the Condon Committee and, eventually, Blue Book's closure.",
+      "eventType": "document_release",
+      "eventDate": "1948-01-01",
+      "dateDisplay": "1948–1949",
+      "location": {
+        "name": "The Pentagon",
+        "region": "Virginia",
+        "country": "United States",
+        "lat": 38.8719,
+        "lng": -77.0563
+      },
+      "sourceName": "U.S. Air Force / Department of War — PURSUE Release 04",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "U.S. Air Force",
+          "slug": "u-s-air-force"
+        },
+        {
+          "name": "Cold War",
+          "slug": "cold-war"
+        },
+        {
+          "name": "Project Blue Book",
+          "slug": "project-blue-book"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "PURSUE Release 04",
+          "slug": "pursue-release-04"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/project-sign-progress-report-1948",
+      "updatedAt": "2026-09-20T03:07:38.316Z"
     },
     {
       "slug": "roswell-incident-1947",
@@ -6703,6 +7642,44 @@
       "witnesses": [],
       "canonical": "https://disclosurearchives.com/events/usaf-amc-pre-blue-book-1946-1948",
       "updatedAt": "2026-05-12 11:43:25"
+    },
+    {
+      "slug": "swedish-ghost-rockets-1947",
+      "title": "The Ghost Rockets: the Department of War's 1947 review of the Scandinavian wave",
+      "summary": "A U.S. Army General Staff intelligence review, dated January 9, 1947, assesses the wave of 'ghost rocket' sightings reported across Sweden and its neighbors beginning in May 1946. Drawing on Swedish government statements and reporting from the U.S. military attaché in Stockholm, the review reaches no conclusion either way — the earliest document in PURSUE Release 05, and a companion piece to the Swedish military's own Lake Kölmjärv investigation from the same wave.",
+      "eventType": "report",
+      "eventDate": "1947-01-09",
+      "dateDisplay": "January 9, 1947",
+      "location": {
+        "name": "Lake Kölmjärv",
+        "region": "Norrbotten County",
+        "country": "Sweden",
+        "lat": 66.7833,
+        "lng": 22.0833
+      },
+      "sourceName": "U.S. Department of War — PURSUE Release 05",
+      "sourceUrl": "https://www.war.gov/UFO/",
+      "tags": [
+        {
+          "name": "Cold War",
+          "slug": "cold-war"
+        },
+        {
+          "name": "International",
+          "slug": "international"
+        },
+        {
+          "name": "Department of War",
+          "slug": "department-of-war"
+        },
+        {
+          "name": "PURSUE Release 05",
+          "slug": "pursue-release-05"
+        }
+      ],
+      "witnesses": [],
+      "canonical": "https://disclosurearchives.com/events/swedish-ghost-rockets-1947",
+      "updatedAt": "2026-09-20T03:07:40.341Z"
     },
     {
       "slug": "wwii-foo-fighters-1944-1945",
